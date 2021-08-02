@@ -8,7 +8,7 @@
 {
   React: ["React", "Redux", "GraphQL", "Relay"],
   Frontend: ["Javascript", "Typescript", "HTML5", "CSS3", "SASS"],
-  Fullstack: ["Go", "NodeJS", "MySQL"],
+  Backend: ["Go", "NodeJS", "MySQL"],
   Tools: ["Git", "Github", "CLI", "VSCode"]
 }
 ```
