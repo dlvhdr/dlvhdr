@@ -8,6 +8,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 * [gh-dash](https://www.github.com/dlvhdr/gh-dash) - a GitHub CLI extension to display your dashboard of pull requests and issues.
 * Building my personal website under www.dlvhdr.me
 
+#### :scroll: Latest Blog Post
+
+* [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup)
+
 #### :timer_clock: Recent Projects
 
 * [hebrew-touch-typing](https://www.github.com/dlvhdr/hebrew-touch-typing) - a webapp to learn and practice touch typing in Hebrew :israel:
