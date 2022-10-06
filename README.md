@@ -4,9 +4,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (today)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (5 days ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (6 days ago)
 - [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave (1 month ago)
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (2 months ago)
 
@@ -28,16 +28,16 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), 2 days ago) - A tool for glamorous shell scripts 🎀
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.4.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.1), 5 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.7.0](https://github.com/charmbracelet/gum/releases/tag/v0.7.0), 3 days ago) - A tool for glamorous shell scripts 🎀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.4.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.1), 6 days ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.11](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.11), 2 weeks ago) - VSCode public API plugged on the monaco editor
 - [wix-incubator/corvid-types](https://github.com/wix-incubator/corvid-types) ([v0.4.0](https://github.com/wix-incubator/corvid-types/releases/tag/v0.4.0), 8 months ago) - Type definitions for Corvid by Wix
 
 #### ⭐ Recent Stars
 
-- [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C&#43;&#43; Terminal Emulator (1 day ago)
-- [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) - A vscode like winbar for neovim (2 days ago)
-- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (4 days ago)
+- [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C&#43;&#43; Terminal Emulator (2 days ago)
+- [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) - A vscode like winbar for neovim (3 days ago)
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (5 days ago)
 - [convergencelabs/monaco-collab-ext](https://github.com/convergencelabs/monaco-collab-ext) - Adds collaborative editing capabilities to the Monaco Editor (2 weeks ago)
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq (2 weeks ago)
 
