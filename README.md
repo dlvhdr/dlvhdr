@@ -35,11 +35,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor (today)
 - [vigoux/notifier.nvim](https://github.com/vigoux/notifier.nvim) - Non-intrusive notification system for neovim (4 days ago)
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C&#43;&#43; Terminal Emulator (1 week ago)
 - [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) - A vscode like winbar for neovim (1 week ago)
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu. (1 week ago)
-- [convergencelabs/monaco-collab-ext](https://github.com/convergencelabs/monaco-collab-ext) - Adds collaborative editing capabilities to the Monaco Editor (3 weeks ago)
 
 #### Connect with me
 
