@@ -35,11 +35,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
 - [drifting-in-space/plane](https://github.com/drifting-in-space/plane) - Session backend orchestrator for ambitious browser-based apps. (1 day ago)
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor (2 days ago)
 - [vigoux/notifier.nvim](https://github.com/vigoux/notifier.nvim) - Non-intrusive notification system for neovim (6 days ago)
 - [contour-terminal/contour](https://github.com/contour-terminal/contour) - Modern C&#43;&#43; Terminal Emulator (1 week ago)
-- [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) - A vscode like winbar for neovim (1 week ago)
 
 #### Connect with me
 
