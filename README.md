@@ -6,9 +6,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
 - [dlvhdr/typescript-lsp-poc](https://github.com/dlvhdr/typescript-lsp-poc) -  (today)
+- [stackblitz/ilovecodeflow.com](https://github.com/stackblitz/ilovecodeflow.com) -  (today)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (6 days ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 week ago)
-- [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave (1 month ago)
 
 #### 📜 My recent blog posts
 
