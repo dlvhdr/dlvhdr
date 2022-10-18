@@ -35,11 +35,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (today)
+- [charmbracelet/inspo](https://github.com/charmbracelet/inspo) - Share and explore projects you can build with Charm libraries (today)
 - [zackproser/teatutor](https://github.com/zackproser/teatutor) - Tea Tutor is a terminal UI (TUI) program that lets you take quizzes over SSH! (1 day ago)
 - [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH (1 day ago)
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) - Neovim plugin to automatic change normal string to template string in JS like languages (3 days ago)
-- [natecraddock/telescope-zf-native.nvim](https://github.com/natecraddock/telescope-zf-native.nvim) - native telescope bindings to zf for sorting results (4 days ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (4 days ago)
 
 #### Connect with me
 
