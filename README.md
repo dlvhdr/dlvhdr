@@ -4,10 +4,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
 - [dlvhdr/typescript-lsp-poc](https://github.com/dlvhdr/typescript-lsp-poc) -  (1 week ago)
 - [stackblitz/ilovecodeflow.com](https://github.com/stackblitz/ilovecodeflow.com) -  (1 week ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 weeks ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -30,15 +30,15 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 - [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.12](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.12), 1 week ago) - VSCode public API plugged on the monaco editor
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 1 week ago) - A tool for glamorous shell scripts 🎀
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.4.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.2), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.4.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.2), 2 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [wix-incubator/corvid-types](https://github.com/wix-incubator/corvid-types) ([v0.4.0](https://github.com/wix-incubator/corvid-types/releases/tag/v0.4.0), 9 months ago) - Type definitions for Corvid by Wix
 
 #### ⭐ Recent Stars
 
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (4 days ago)
-- [charmbracelet/inspo](https://github.com/charmbracelet/inspo) - Share and explore projects you can build with Charm libraries (4 days ago)
-- [zackproser/teatutor](https://github.com/zackproser/teatutor) - Tea Tutor is a terminal UI (TUI) program that lets you take quizzes over SSH! (5 days ago)
-- [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH (5 days ago)
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (5 days ago)
+- [charmbracelet/inspo](https://github.com/charmbracelet/inspo) - Share and explore projects you can build with Charm libraries (5 days ago)
+- [zackproser/teatutor](https://github.com/zackproser/teatutor) - Tea Tutor is a terminal UI (TUI) program that lets you take quizzes over SSH! (6 days ago)
+- [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH (6 days ago)
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) - Neovim plugin to automatic change normal string to template string in JS like languages (1 week ago)
 
 #### Connect with me
