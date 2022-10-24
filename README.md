@@ -4,7 +4,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 - [dlvhdr/typescript-lsp-poc](https://github.com/dlvhdr/typescript-lsp-poc) -  (1 week ago)
 - [stackblitz/ilovecodeflow.com](https://github.com/stackblitz/ilovecodeflow.com) -  (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 weeks ago)
@@ -35,10 +35,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (5 days ago)
-- [charmbracelet/inspo](https://github.com/charmbracelet/inspo) - Share and explore projects you can build with Charm libraries (5 days ago)
-- [zackproser/teatutor](https://github.com/zackproser/teatutor) - Tea Tutor is a terminal UI (TUI) program that lets you take quizzes over SSH! (6 days ago)
-- [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH (6 days ago)
+- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (6 days ago)
+- [charmbracelet/inspo](https://github.com/charmbracelet/inspo) - Share and explore projects you can build with Charm libraries (6 days ago)
+- [zackproser/teatutor](https://github.com/zackproser/teatutor) - Tea Tutor is a terminal UI (TUI) program that lets you take quizzes over SSH! (1 week ago)
+- [letoram/cat9](https://github.com/letoram/cat9) - A User shell for LASH (1 week ago)
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) - Neovim plugin to automatic change normal string to template string in JS like languages (1 week ago)
 
 #### Connect with me
