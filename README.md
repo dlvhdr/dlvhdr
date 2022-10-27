@@ -12,7 +12,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 📜 My recent blog posts
 
-- [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (4 weeks ago)
+- [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (1 month ago)
 - [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (2 months ago)
 - [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (6 months ago)
 - [CSS Fundamentals](https://dlvhdr.me/posts/css-fundamentals) (9 months ago)
@@ -35,7 +35,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. (1 day ago)
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. (2 days ago)
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (1 week ago)
 - [charmbracelet/inspo](https://github.com/charmbracelet/inspo) - Share and explore projects you can build with Charm libraries (1 week ago)
 - [zackproser/teatutor](https://github.com/zackproser/teatutor) - Tea Tutor is a terminal UI (TUI) program that lets you take quizzes over SSH! (1 week ago)
