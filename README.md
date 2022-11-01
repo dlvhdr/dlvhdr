@@ -35,11 +35,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) - my dotfiles (today)
+- [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (today)
 - [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) - Perform telescope functions in a selected directory (3 days ago)
 - [PatschD/zippy.nvim](https://github.com/PatschD/zippy.nvim) -  (3 days ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (5 days ago)
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack. (1 week ago)
-- [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It&#39;s fast! (2 weeks ago)
 
 #### Connect with me
 
