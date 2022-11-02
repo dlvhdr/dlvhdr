@@ -4,11 +4,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (4 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (5 days ago)
 - [dlvhdr/typescript-lsp-poc](https://github.com/dlvhdr/typescript-lsp-poc) -  (2 weeks ago)
 - [stackblitz/ilovecodeflow.com](https://github.com/stackblitz/ilovecodeflow.com) -  (2 weeks ago)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (3 weeks ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (4 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -35,11 +35,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) - my dotfiles (today)
-- [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (today)
-- [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) - Perform telescope functions in a selected directory (3 days ago)
-- [PatschD/zippy.nvim](https://github.com/PatschD/zippy.nvim) -  (3 days ago)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (5 days ago)
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) - my dotfiles (1 day ago)
+- [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (1 day ago)
+- [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) - Perform telescope functions in a selected directory (4 days ago)
+- [PatschD/zippy.nvim](https://github.com/PatschD/zippy.nvim) -  (4 days ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (6 days ago)
 
 #### Connect with me
 
