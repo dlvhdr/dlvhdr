@@ -4,11 +4,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (6 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
 - [dlvhdr/typescript-lsp-poc](https://github.com/dlvhdr/typescript-lsp-poc) -  (2 weeks ago)
 - [stackblitz/ilovecodeflow.com](https://github.com/stackblitz/ilovecodeflow.com) -  (2 weeks ago)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (4 weeks ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -28,17 +28,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.12](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.12), 2 weeks ago) - VSCode public API plugged on the monaco editor
+- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.12](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.12), 3 weeks ago) - VSCode public API plugged on the monaco editor
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 3 weeks ago) - A tool for glamorous shell scripts 🎀
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.4.2](https://github.com/dlvhdr/gh-dash/releases/tag/v3.4.2), 3 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [wix-incubator/corvid-types](https://github.com/wix-incubator/corvid-types) ([v0.4.0](https://github.com/wix-incubator/corvid-types/releases/tag/v0.4.0), 9 months ago) - Type definitions for Corvid by Wix
 
 #### ⭐ Recent Stars
 
-- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) - my dotfiles (2 days ago)
-- [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (2 days ago)
-- [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) - Perform telescope functions in a selected directory (5 days ago)
-- [PatschD/zippy.nvim](https://github.com/PatschD/zippy.nvim) -  (5 days ago)
+- [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) - my dotfiles (3 days ago)
+- [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (3 days ago)
+- [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) - Perform telescope functions in a selected directory (6 days ago)
+- [PatschD/zippy.nvim](https://github.com/PatschD/zippy.nvim) -  (6 days ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 week ago)
 
 #### Connect with me
