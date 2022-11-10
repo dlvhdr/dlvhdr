@@ -35,11 +35,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [allyring/pvw](https://github.com/allyring/pvw) - A port viewer TUI made with BubbleTea in Go (today)
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. (1 day ago)
 - [mskelton/tmux-last](https://github.com/mskelton/tmux-last) - Tmux plugin to open the last non-empty command output in a pager. (2 days ago)
 - [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) - my dotfiles (1 week ago)
 - [danielcmessias/sawsy](https://github.com/danielcmessias/sawsy) - An AWS Console for your Terminal (1 week ago)
-- [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) - Perform telescope functions in a selected directory (1 week ago)
 
 #### Connect with me
 
