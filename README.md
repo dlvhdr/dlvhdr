@@ -4,8 +4,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 weeks ago)
 - [dlvhdr/typescript-lsp-poc](https://github.com/dlvhdr/typescript-lsp-poc) -  (3 weeks ago)
 - [stackblitz/ilovecodeflow.com](https://github.com/stackblitz/ilovecodeflow.com) -  (3 weeks ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 month ago)
