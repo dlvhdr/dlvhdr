@@ -1,3 +1,5 @@
+<img height="150px" src="https://user-images.githubusercontent.com/6196971/201547323-c480a60c-81e7-4819-ae37-75c68171aa05.png" />
+
 ### Hi, I'm Dolev <img width="36px" height="36px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
 I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Israel.
