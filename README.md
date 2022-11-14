@@ -7,10 +7,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 #### 👷 Check out what I'm currently working on
 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (today)
 - [mskelton/tmux-last](https://github.com/mskelton/tmux-last) - Tmux plugin to open the last non-empty command output in a pager. (1 day ago)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 days ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
-- [dlvhdr/typescript-lsp-poc](https://github.com/dlvhdr/typescript-lsp-poc) -  (1 month ago)
+- [stackblitz/ilovecodeflow.com](https://github.com/stackblitz/ilovecodeflow.com) -  (1 month ago)
 
 #### 📜 My recent blog posts
 
