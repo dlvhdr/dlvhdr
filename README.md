@@ -7,10 +7,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 #### 👷 Check out what I'm currently working on
 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
-- [mskelton/tmux-last](https://github.com/mskelton/tmux-last) - Tmux plugin to open the last non-empty command output in a pager. (today)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 day ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
-- [dlvhdr/typescript-lsp-poc](https://github.com/dlvhdr/typescript-lsp-poc) -  (4 weeks ago)
+- [mskelton/tmux-last](https://github.com/mskelton/tmux-last) - Tmux plugin to open the last non-empty command output in a pager. (1 day ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/typescript-lsp-poc](https://github.com/dlvhdr/typescript-lsp-poc) -  (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -37,10 +37,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [kencx/keyb](https://github.com/kencx/keyb) - Create and view your custom hotkey cheatsheet with TUI (today)
-- [allyring/pvw](https://github.com/allyring/pvw) - A port viewer TUI made with BubbleTea in Go (3 days ago)
-- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. (4 days ago)
-- [mskelton/tmux-last](https://github.com/mskelton/tmux-last) - Tmux plugin to open the last non-empty command output in a pager. (5 days ago)
+- [kencx/keyb](https://github.com/kencx/keyb) - Create and view your custom hotkey cheatsheet with TUI (1 day ago)
+- [allyring/pvw](https://github.com/allyring/pvw) - A port viewer TUI made with BubbleTea in Go (4 days ago)
+- [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. (5 days ago)
+- [mskelton/tmux-last](https://github.com/mskelton/tmux-last) - Tmux plugin to open the last non-empty command output in a pager. (6 days ago)
 - [caarlos0/dotfiles.fish](https://github.com/caarlos0/dotfiles.fish) - my dotfiles (1 week ago)
 
 #### Connect with me
