@@ -6,11 +6,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
+- [dlvhdr/node-procs-menubar](https://github.com/dlvhdr/node-procs-menubar) -  (today)
 - [dlvhdr/jb](https://github.com/dlvhdr/jb) - task runner (1 day ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 days ago)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (5 days ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
-- [mskelton/tmux-last](https://github.com/mskelton/tmux-last) - Tmux plugin to open the last non-empty command output in a pager. (6 days ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -22,11 +22,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🌱 My latest projects
 
+- [dlvhdr/node-procs-menubar](https://github.com/dlvhdr/node-procs-menubar) - 
 - [dlvhdr/jb](https://github.com/dlvhdr/jb) - task runner
 - [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave
 - [dlvhdr/roulette](https://github.com/dlvhdr/roulette) - :slot_machine: Making life decisions easier
 - [dlvhdr/sandpack-poc](https://github.com/dlvhdr/sandpack-poc) - 
-- [dlvhdr/typescript-lsp-poc](https://github.com/dlvhdr/typescript-lsp-poc) - 
 
 #### 🔭 Latest releases I've contributed to
 
