@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal 🛌 (today)
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System. (5 days ago)
 - [kencx/keyb](https://github.com/kencx/keyb) - Create and view your custom hotkey cheatsheet with TUI (1 week ago)
 - [allyring/pvw](https://github.com/allyring/pvw) - A port viewer TUI made with BubbleTea in Go (1 week ago)
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. (1 week ago)
-- [mskelton/tmux-last](https://github.com/mskelton/tmux-last) - Tmux plugin to open the last non-empty command output in a pager. (1 week ago)
 
 #### Connect with me
 
