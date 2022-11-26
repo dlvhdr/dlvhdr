@@ -6,8 +6,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
+- [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them (today)
 - [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave (2 days ago)
-- [dlvhdr/harbor](https://github.com/dlvhdr/harbor) -  (5 days ago)
 - [dlvhdr/jb](https://github.com/dlvhdr/jb) - task runner (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 week ago)
@@ -22,7 +22,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🌱 My latest projects
 
-- [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 
+- [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them
 - [dlvhdr/jb](https://github.com/dlvhdr/jb) - task runner
 - [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave
 - [dlvhdr/roulette](https://github.com/dlvhdr/roulette) - :slot_machine: Making life decisions easier
