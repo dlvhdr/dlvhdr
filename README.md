@@ -6,8 +6,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them (today)
-- [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave (2 days ago)
+- [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them (1 day ago)
+- [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave (3 days ago)
 - [dlvhdr/jb](https://github.com/dlvhdr/jb) - task runner (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 week ago)
@@ -37,9 +37,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal 🛌 (5 days ago)
+- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal 🛌 (6 days ago)
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System. (1 week ago)
-- [kencx/keyb](https://github.com/kencx/keyb) - Create and view your custom hotkey cheatsheet with TUI (1 week ago)
+- [kencx/keyb](https://github.com/kencx/keyb) - Create and view your custom hotkey cheatsheet with TUI (2 weeks ago)
 - [allyring/pvw](https://github.com/allyring/pvw) - A port viewer TUI made with BubbleTea in Go (2 weeks ago)
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins. (2 weeks ago)
 
