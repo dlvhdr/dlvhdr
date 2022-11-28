@@ -6,11 +6,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them (1 day ago)
-- [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave (3 days ago)
+- [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them (2 days ago)
+- [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave (4 days ago)
 - [dlvhdr/jb](https://github.com/dlvhdr/jb) - task runner (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 week ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -30,15 +30,15 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1), 2 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.12](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.12), 1 month ago) - VSCode public API plugged on the monaco editor
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 1 month ago) - A tool for glamorous shell scripts 🎀
 - [wix-incubator/corvid-types](https://github.com/wix-incubator/corvid-types) ([v0.4.0](https://github.com/wix-incubator/corvid-types/releases/tag/v0.4.0), 10 months ago) - Type definitions for Corvid by Wix
 
 #### ⭐ Recent Stars
 
-- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’. (today)
-- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (6 days ago)
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’. (1 day ago)
+- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (1 week ago)
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System. (1 week ago)
 - [kencx/keyb](https://github.com/kencx/keyb) - Create and view your custom hotkey cheatsheet with TUI (2 weeks ago)
 - [allyring/pvw](https://github.com/allyring/pvw) - A port viewer TUI made with BubbleTea in Go (2 weeks ago)
