@@ -6,11 +6,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
+- [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (today)
 - [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them (5 days ago)
 - [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave (1 week ago)
 - [dlvhdr/jb](https://github.com/dlvhdr/jb) - task runner (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 weeks ago)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -22,11 +22,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🌱 My latest projects
 
+- [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) - 
 - [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them
 - [dlvhdr/jb](https://github.com/dlvhdr/jb) - task runner
 - [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave
 - [dlvhdr/roulette](https://github.com/dlvhdr/roulette) - :slot_machine: Making life decisions easier
-- [dlvhdr/sandpack-poc](https://github.com/dlvhdr/sandpack-poc) - 
 
 #### 🔭 Latest releases I've contributed to
 
