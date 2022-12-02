@@ -1,4 +1,4 @@
-<img height="150px" src="https://user-images.githubusercontent.com/6196971/201547323-c480a60c-81e7-4819-ae37-75c68171aa05.png" />
+<img src="https://user-images.githubusercontent.com/6196971/205364459-63d54329-d28a-403f-ac06-3baeb4685b46.jpg" />
 
 ### Hi, I'm Dolev <img width="36px" height="36px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
