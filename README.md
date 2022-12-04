@@ -38,11 +38,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go (today)
 - [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆 (5 days ago)
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’. (1 week ago)
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (1 week ago)
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System. (2 weeks ago)
-- [kencx/keyb](https://github.com/kencx/keyb) - Create and view your custom hotkey cheatsheet with TUI (3 weeks ago)
 
 #### Connect with me
 
