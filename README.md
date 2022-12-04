@@ -7,11 +7,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (1 day ago)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 day ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (today)
+- [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (today)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
 - [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them (1 week ago)
 - [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave (1 week ago)
-- [dlvhdr/jb](https://github.com/dlvhdr/jb) - task runner (2 weeks ago)
 
 #### 📜 My recent blog posts
 
