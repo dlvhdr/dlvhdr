@@ -7,8 +7,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (today)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (today)
+- [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (1 day ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 day ago)
 - [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them (1 week ago)
 - [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave (1 week ago)
 - [dlvhdr/jb](https://github.com/dlvhdr/jb) - task runner (2 weeks ago)
@@ -31,18 +31,18 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.13](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.13), 5 days ago) - VSCode public API plugged on the monaco editor
+- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.13](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.13), 6 days ago) - VSCode public API plugged on the monaco editor
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1), 2 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 1 month ago) - A tool for glamorous shell scripts 🎀
 - [wix-incubator/corvid-types](https://github.com/wix-incubator/corvid-types) ([v0.4.0](https://github.com/wix-incubator/corvid-types/releases/tag/v0.4.0), 10 months ago) - Type definitions for Corvid by Wix
 
 #### ⭐ Recent Stars
 
-- [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆 (4 days ago)
-- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’. (6 days ago)
+- [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆 (5 days ago)
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’. (1 week ago)
 - [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (1 week ago)
 - [facebook/sapling](https://github.com/facebook/sapling) - A Scalable, User-Friendly Source Control System. (2 weeks ago)
-- [kencx/keyb](https://github.com/kencx/keyb) - Create and view your custom hotkey cheatsheet with TUI (2 weeks ago)
+- [kencx/keyb](https://github.com/kencx/keyb) - Create and view your custom hotkey cheatsheet with TUI (3 weeks ago)
 
 #### Connect with me
 
