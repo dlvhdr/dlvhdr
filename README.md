@@ -38,11 +38,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (today)
 - [pomdtr/sunbeam](https://github.com/pomdtr/sunbeam) - Generate complex TUIs from simple scripts written in any language. (today)
 - [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go (1 day ago)
 - [cedricblondeau/world-cup-2022-cli-dashboard](https://github.com/cedricblondeau/world-cup-2022-cli-dashboard) - Watch live World Cup 2022 matches in your terminal. ⚽🏆 (6 days ago)
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’. (1 week ago)
-- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal (2 weeks ago)
 
 #### Connect with me
 
