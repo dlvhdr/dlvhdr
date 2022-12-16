@@ -18,7 +18,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (2 months ago)
 - [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (3 months ago)
 - [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (8 months ago)
-- [CSS Fundamentals](https://dlvhdr.me/posts/css-fundamentals) (10 months ago)
+- [CSS Fundamentals](https://dlvhdr.me/posts/css-fundamentals) (11 months ago)
 - [The Online IDEs Ecosystem](https://dlvhdr.me/posts/online-ides-ecosystem) (1 year ago)
 
 #### 🌱 My latest projects
