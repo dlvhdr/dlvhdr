@@ -7,16 +7,16 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
-- [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (1 day ago)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 week ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (2 days ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 weeks ago)
 - [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them (3 weeks ago)
 - [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave (3 weeks ago)
 
 #### 📜 My recent blog posts
 
 - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (2 months ago)
-- [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (3 months ago)
+- [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (4 months ago)
 - [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (8 months ago)
 - [CSS Fundamentals](https://dlvhdr.me/posts/css-fundamentals) (11 months ago)
 - [The Online IDEs Ecosystem](https://dlvhdr.me/posts/online-ides-ecosystem) (1 year ago)
@@ -38,11 +38,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [SHA65536/Voronoi](https://github.com/SHA65536/Voronoi) - A Voronoi Terminal Animation (today)
-- [SHA65536/Charmeleon](https://github.com/SHA65536/Charmeleon) - A pokedex over SSH project. (today)
+- [SHA65536/Voronoi](https://github.com/SHA65536/Voronoi) - A Voronoi Terminal Animation (1 day ago)
+- [SHA65536/Charmeleon](https://github.com/SHA65536/Charmeleon) - A pokedex over SSH project. (1 day ago)
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (1 week ago)
 - [pomdtr/sunbeam](https://github.com/pomdtr/sunbeam) - Generate complex TUIs from simple scripts written in any language. (1 week ago)
-- [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go (1 week ago)
+- [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go (2 weeks ago)
 
 #### Connect with me
 
