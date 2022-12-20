@@ -8,10 +8,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 #### 👷 Check out what I'm currently working on
 
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) -  (2 days ago)
 - [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (4 days ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 weeks ago)
 - [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them (3 weeks ago)
-- [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave (3 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -23,11 +23,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🌱 My latest projects
 
+- [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) - 
 - [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) - 
 - [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them
 - [dlvhdr/jb](https://github.com/dlvhdr/jb) - task runner
 - [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave
-- [dlvhdr/roulette](https://github.com/dlvhdr/roulette) - :slot_machine: Making life decisions easier
 
 #### 🔭 Latest releases I've contributed to
 
