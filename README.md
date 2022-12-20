@@ -7,8 +7,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
-- [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (3 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (4 days ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 weeks ago)
 - [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them (3 weeks ago)
 - [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave (3 weeks ago)
@@ -38,8 +38,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [SHA65536/Voronoi](https://github.com/SHA65536/Voronoi) - A Voronoi Terminal Animation (2 days ago)
-- [SHA65536/Charmeleon](https://github.com/SHA65536/Charmeleon) - A pokedex over SSH project. (2 days ago)
+- [SHA65536/Voronoi](https://github.com/SHA65536/Voronoi) - A Voronoi Terminal Animation (3 days ago)
+- [SHA65536/Charmeleon](https://github.com/SHA65536/Charmeleon) - A pokedex over SSH project. (3 days ago)
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (2 weeks ago)
 - [pomdtr/sunbeam](https://github.com/pomdtr/sunbeam) - Generate complex TUIs from simple scripts written in any language. (2 weeks ago)
 - [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go (2 weeks ago)
