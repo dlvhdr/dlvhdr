@@ -38,11 +38,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (today)
 - [SHA65536/Voronoi](https://github.com/SHA65536/Voronoi) - A Voronoi Terminal Animation (5 days ago)
 - [SHA65536/Charmeleon](https://github.com/SHA65536/Charmeleon) - A pokedex over SSH project. (5 days ago)
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (2 weeks ago)
 - [pomdtr/sunbeam](https://github.com/pomdtr/sunbeam) - Generate complex TUIs from simple scripts written in any language. (2 weeks ago)
-- [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go (2 weeks ago)
 
 #### Connect with me
 
