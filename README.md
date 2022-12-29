@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
 - [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) -  (1 week ago)
 - [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (1 week ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (3 weeks ago)
@@ -38,8 +38,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (4 days ago)
-- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (6 days ago)
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (5 days ago)
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (1 week ago)
 - [SHA65536/Voronoi](https://github.com/SHA65536/Voronoi) - A Voronoi Terminal Animation (1 week ago)
 - [SHA65536/Charmeleon](https://github.com/SHA65536/Charmeleon) - A pokedex over SSH project. (1 week ago)
 - [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces. (3 weeks ago)
