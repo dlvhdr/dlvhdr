@@ -7,9 +7,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 day ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 day ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 - [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) -  (2 weeks ago)
 - [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (3 weeks ago)
 
@@ -34,14 +34,14 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 - [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.13](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.13), 1 month ago) - VSCode public API plugged on the monaco editor
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1), 1 month ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.8.0](https://github.com/charmbracelet/gum/releases/tag/v0.8.0), 2 months ago) - A tool for glamorous shell scripts 🎀
-- [wix-incubator/corvid-types](https://github.com/wix-incubator/corvid-types) ([v0.4.0](https://github.com/wix-incubator/corvid-types/releases/tag/v0.4.0), 11 months ago) - Type definitions for Corvid by Wix
+- [wix-incubator/corvid-types](https://github.com/wix-incubator/corvid-types) ([v0.4.0](https://github.com/wix-incubator/corvid-types/releases/tag/v0.4.0), 1 year ago) - Type definitions for Corvid by Wix
 
 #### ⭐ Recent Stars
 
-- [prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim) - (F)recency sorting for all Telescope pickers. (3 days ago)
-- [folke/LazyVim](https://github.com/folke/LazyVim) - Starter template for lazy Neovim users (4 days ago)
-- [phryneas/format-with-prettier](https://github.com/phryneas/format-with-prettier) -  (6 days ago)
-- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (1 week ago)
+- [prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim) - (F)recency sorting for all Telescope pickers. (4 days ago)
+- [folke/LazyVim](https://github.com/folke/LazyVim) - Starter template for lazy Neovim users (5 days ago)
+- [phryneas/format-with-prettier](https://github.com/phryneas/format-with-prettier) -  (1 week ago)
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (2 weeks ago)
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (2 weeks ago)
 
 #### Connect with me
