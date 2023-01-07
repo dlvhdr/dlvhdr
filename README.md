@@ -39,7 +39,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 #### ⭐ Recent Stars
 
 - [prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim) - (F)recency sorting for all Telescope pickers. (4 days ago)
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Starter template for lazy Neovim users (5 days ago)
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Basic IDE for lazy Neovim users (5 days ago)
 - [phryneas/format-with-prettier](https://github.com/phryneas/format-with-prettier) -  (1 week ago)
 - [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go. (2 weeks ago)
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim (2 weeks ago)
