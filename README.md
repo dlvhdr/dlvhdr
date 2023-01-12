@@ -34,7 +34,6 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), today) - A tool for glamorous shell scripts 🎀
 - [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.13](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.13), 1 month ago) - VSCode public API plugged on the monaco editor
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.5.1](https://github.com/dlvhdr/gh-dash/releases/tag/v3.5.1), 1 month ago) - A beautiful CLI dashboard for GitHub 🚀 
-- [wix-incubator/corvid-types](https://github.com/wix-incubator/corvid-types) ([v0.4.0](https://github.com/wix-incubator/corvid-types/releases/tag/v0.4.0), 1 year ago) - Type definitions for Corvid by Wix
 
 #### ⭐ Recent Stars
 
