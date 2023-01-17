@@ -7,16 +7,16 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (3 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (4 days ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 week ago)
-- [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) -  (4 weeks ago)
+- [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) -  (1 month ago)
 - [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (1 month ago)
 
 #### 📜 My recent blog posts
 
 - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (3 months ago)
-- [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (4 months ago)
+- [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (5 months ago)
 - [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (9 months ago)
 - [CSS Fundamentals](https://dlvhdr.me/posts/css-fundamentals) (1 year ago)
 - [The Online IDEs Ecosystem](https://dlvhdr.me/posts/online-ides-ecosystem) (1 year ago)
@@ -31,15 +31,15 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.6.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.6.0), 3 days ago) - A beautiful CLI dashboard for GitHub 🚀 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 4 days ago) - A tool for glamorous shell scripts 🎀
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.6.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.6.0), 4 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 5 days ago) - A tool for glamorous shell scripts 🎀
 - [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.13](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.13), 1 month ago) - VSCode public API plugged on the monaco editor
 
 #### ⭐ Recent Stars
 
-- [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (2 days ago)
-- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (2 days ago)
-- [prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim) - (F)recency sorting for all Telescope pickers. (1 week ago)
+- [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (3 days ago)
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (3 days ago)
+- [prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim) - (F)recency sorting for all Telescope pickers. (2 weeks ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 weeks ago)
 - [phryneas/format-with-prettier](https://github.com/phryneas/format-with-prettier) -  (2 weeks ago)
 
