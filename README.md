@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker (today)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (5 days ago)
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (5 days ago)
 - [prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim) - (F)recency sorting for all Telescope pickers. (2 weeks ago)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy (2 weeks ago)
-- [phryneas/format-with-prettier](https://github.com/phryneas/format-with-prettier) -  (2 weeks ago)
 
 #### Connect with me
 
