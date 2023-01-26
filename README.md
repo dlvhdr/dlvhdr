@@ -7,9 +7,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (3 days ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 weeks ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (4 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (3 weeks ago)
 - [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) -  (1 month ago)
 - [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (1 month ago)
 
@@ -31,14 +31,14 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.14](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.14), 6 days ago) - VSCode public API plugged on the monaco editor
+- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.14](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.14), 1 week ago) - VSCode public API plugged on the monaco editor
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.6.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.6.0), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 1 week ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 2 weeks ago) - A tool for glamorous shell scripts 🎀
 
 #### ⭐ Recent Stars
 
-- [ariga/entviz](https://github.com/ariga/entviz) - Visualize Ent schemas with beautiful ERDs on atlasgo.cloud (today)
-- [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker (6 days ago)
+- [ariga/entviz](https://github.com/ariga/entviz) - Visualize Ent schemas with beautiful ERDs on atlasgo.cloud (1 day ago)
+- [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker (1 week ago)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (1 week ago)
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (1 week ago)
 - [prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim) - (F)recency sorting for all Telescope pickers. (3 weeks ago)
