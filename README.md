@@ -7,8 +7,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (5 days ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (3 weeks ago)
 - [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) -  (1 month ago)
 - [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) -  (1 month ago)
