@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (today)
 - [ariga/entviz](https://github.com/ariga/entviz) - Visualize Ent schemas with beautiful ERDs on atlasgo.cloud (3 days ago)
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker (1 week ago)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (2 weeks ago)
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (2 weeks ago)
-- [prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim) - (F)recency sorting for all Telescope pickers. (3 weeks ago)
 
 #### Connect with me
 
