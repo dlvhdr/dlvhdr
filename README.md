@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 days ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (3 weeks ago)
 - [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) -  (1 month ago)
@@ -37,8 +37,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (2 days ago)
-- [ariga/entviz](https://github.com/ariga/entviz) - Visualize Ent schemas with beautiful ERDs on atlasgo.cloud (5 days ago)
+- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (3 days ago)
+- [ariga/entviz](https://github.com/ariga/entviz) - Visualize Ent schemas with beautiful ERDs on atlasgo.cloud (6 days ago)
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker (1 week ago)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (2 weeks ago)
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (2 weeks ago)
