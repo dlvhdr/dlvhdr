@@ -7,8 +7,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
-- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (3 days ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 weeks ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 month ago)
 - [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) -  (1 month ago)
@@ -17,7 +17,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (4 months ago)
 - [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (5 months ago)
-- [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (9 months ago)
+- [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (10 months ago)
 - [CSS Fundamentals](https://dlvhdr.me/posts/css-fundamentals) (1 year ago)
 - [The Online IDEs Ecosystem](https://dlvhdr.me/posts/online-ides-ecosystem) (1 year ago)
 
@@ -31,16 +31,16 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.17](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.17), 6 days ago) - VSCode public API plugged on the monaco editor
+- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.17](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.17), 1 week ago) - VSCode public API plugged on the monaco editor
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.6.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.6.0), 3 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 3 weeks ago) - A tool for glamorous shell scripts 🎀
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 4 weeks ago) - A tool for glamorous shell scripts 🎀
 - [antonmedv/llama](https://github.com/antonmedv/llama) ([v1.4.0](https://github.com/antonmedv/llama/releases/tag/v1.4.0), 1 month ago) - Terminal file manager
 
 #### ⭐ Recent Stars
 
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (1 week ago)
 - [ariga/entviz](https://github.com/ariga/entviz) - Visualize Ent schemas with beautiful ERDs on atlasgo.cloud (2 weeks ago)
-- [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker (2 weeks ago)
+- [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker (3 weeks ago)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (3 weeks ago)
 - [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (3 weeks ago)
 
