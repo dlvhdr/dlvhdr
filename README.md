@@ -7,9 +7,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
-- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (6 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
+- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (1 week ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 month ago)
 - [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) -  (1 month ago)
 
@@ -31,7 +31,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.0), today) - A beautiful CLI dashboard for GitHub 🚀 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.0), 1 day ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.17](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.17), 1 week ago) - VSCode public API plugged on the monaco editor
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 1 month ago) - A tool for glamorous shell scripts 🎀
 - [antonmedv/llama](https://github.com/antonmedv/llama) ([v1.4.0](https://github.com/antonmedv/llama/releases/tag/v1.4.0), 1 month ago) - Terminal file manager
@@ -41,8 +41,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (2 weeks ago)
 - [ariga/entviz](https://github.com/ariga/entviz) - Visualize Ent schemas with beautiful ERDs on atlasgo.cloud (2 weeks ago)
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker (3 weeks ago)
-- [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (4 weeks ago)
-- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (4 weeks ago)
+- [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (1 month ago)
+- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (1 month ago)
 
 #### Connect with me
 
