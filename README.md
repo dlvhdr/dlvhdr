@@ -38,11 +38,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (today)
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (2 weeks ago)
 - [ariga/entviz](https://github.com/ariga/entviz) - Visualize Ent schemas with beautiful ERDs on atlasgo.cloud (2 weeks ago)
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker (3 weeks ago)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (1 month ago)
-- [elk-zone/elk](https://github.com/elk-zone/elk) - A nimble Mastodon web client (1 month ago)
 
 #### Connect with me
 
