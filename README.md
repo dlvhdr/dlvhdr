@@ -7,8 +7,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (4 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (5 days ago)
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (1 week ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 month ago)
 - [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) -  (2 months ago)
@@ -31,14 +31,14 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.18](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.18), today) - VSCode public API plugged on the monaco editor
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.0), 4 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.69.18](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.69.18), 1 day ago) - VSCode public API plugged on the monaco editor
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.0), 5 days ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 1 month ago) - A tool for glamorous shell scripts 🎀
 - [antonmedv/llama](https://github.com/antonmedv/llama) ([v1.4.0](https://github.com/antonmedv/llama/releases/tag/v1.4.0), 1 month ago) - Terminal file manager
 
 #### ⭐ Recent Stars
 
-- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (2 days ago)
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI (3 days ago)
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (2 weeks ago)
 - [ariga/entviz](https://github.com/ariga/entviz) - Visualize Ent schemas with beautiful ERDs on atlasgo.cloud (3 weeks ago)
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker (4 weeks ago)
