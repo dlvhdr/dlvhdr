@@ -17,7 +17,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (5 months ago)
 - [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (6 months ago)
-- [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (10 months ago)
+- [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (11 months ago)
 - [CSS Fundamentals](https://dlvhdr.me/posts/css-fundamentals) (1 year ago)
 - [The Online IDEs Ecosystem](https://dlvhdr.me/posts/online-ides-ecosystem) (1 year ago)
 
@@ -41,7 +41,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (2 weeks ago)
 - [humanlogio/humanlog](https://github.com/humanlogio/humanlog) - Logs for humans to read. (2 weeks ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (2 weeks ago)
-- [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations (2 weeks ago)
+- [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) - A pretty window for previewing, navigating and editing your LSP locations (3 weeks ago)
 - [tmux-plugins/tmux-urlview](https://github.com/tmux-plugins/tmux-urlview) - Quickly open any url on your terminal window! (3 weeks ago)
 
 #### Connect with me
