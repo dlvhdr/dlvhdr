@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (3 weeks ago)
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (1 month ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 months ago)
@@ -31,15 +31,15 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.76.0](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.76.0), 2 days ago) - VSCode public API plugged on the monaco editor
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.6](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.6), 4 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.76.0](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.76.0), 3 days ago) - VSCode public API plugged on the monaco editor
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.6](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.6), 1 month ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.9.0](https://github.com/charmbracelet/gum/releases/tag/v0.9.0), 2 months ago) - A tool for glamorous shell scripts 🎀
 - [antonmedv/llama](https://github.com/antonmedv/llama) ([v1.4.0](https://github.com/antonmedv/llama/releases/tag/v1.4.0), 2 months ago) - Terminal file manager
 
 #### ⭐ Recent Stars
 
-- [basilioss/mdt](https://github.com/basilioss/mdt) - Command line markdown todo list manager  (1 day ago)
-- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️ (6 days ago)
+- [basilioss/mdt](https://github.com/basilioss/mdt) - Command line markdown todo list manager  (2 days ago)
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️ (1 week ago)
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (3 weeks ago)
 - [humanlogio/humanlog](https://github.com/humanlogio/humanlog) - Logs for humans to read. (3 weeks ago)
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵 (3 weeks ago)
