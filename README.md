@@ -38,11 +38,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [caarlos0/dotfiles.nix](https://github.com/caarlos0/dotfiles.nix) - my dotfiles, now in nix (today)
 - [xaviergodart/bubble-carousel](https://github.com/xaviergodart/bubble-carousel) - 🎠 A carousel component for bubbletea applications (1 week ago)
 - [basilioss/mdt](https://github.com/basilioss/mdt) - Command line markdown todo list manager  (2 weeks ago)
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️ (2 weeks ago)
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (1 month ago)
-- [humanlogio/humanlog](https://github.com/humanlogio/humanlog) - Logs for humans to read. (1 month ago)
 
 #### Connect with me
 
