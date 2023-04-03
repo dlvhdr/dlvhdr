@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 weeks ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 month ago)
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (1 month ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 months ago)
@@ -31,14 +31,14 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.76.4](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.76.4), 4 days ago) - VSCode public API plugged on the monaco editor
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 6 days ago) - A tool for glamorous shell scripts 🎀
+- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.76.4](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.76.4), 5 days ago) - VSCode public API plugged on the monaco editor
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.6](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.6), 1 month ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [antonmedv/llama](https://github.com/antonmedv/llama) ([v1.4.0](https://github.com/antonmedv/llama/releases/tag/v1.4.0), 3 months ago) - Terminal file manager
 
 #### ⭐ Recent Stars
 
-- [caarlos0/dotfiles.nix](https://github.com/caarlos0/dotfiles.nix) - my dotfiles, now in nix (2 days ago)
+- [caarlos0/dotfiles.nix](https://github.com/caarlos0/dotfiles.nix) - my dotfiles, now in nix (3 days ago)
 - [xaviergodart/bubble-carousel](https://github.com/xaviergodart/bubble-carousel) - 🎠 A carousel component for bubbletea applications (2 weeks ago)
 - [basilioss/mdt](https://github.com/basilioss/mdt) - Command line markdown todo list manager  (2 weeks ago)
 - [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - A fast Rust-based web bundler 🦀️ (3 weeks ago)
