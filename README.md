@@ -9,7 +9,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 weeks ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 month ago)
-- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (1 month ago)
+- [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (2 months ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (3 months ago)
 - [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) -  (3 months ago)
 
@@ -31,18 +31,18 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.76.8](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.76.8), today) - VSCode public API plugged on the monaco editor
+- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.76.8](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.76.8), 1 day ago) - VSCode public API plugged on the monaco editor
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.6](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.6), 1 month ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [antonmedv/llama](https://github.com/antonmedv/llama) ([v1.4.0](https://github.com/antonmedv/llama/releases/tag/v1.4.0), 3 months ago) - Terminal file manager
 
 #### ⭐ Recent Stars
 
-- [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel. (1 day ago)
-- [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. (2 days ago)
-- [caarlos0/dotfiles.nix](https://github.com/caarlos0/dotfiles.nix) - my dotfiles, now in nix (6 days ago)
+- [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel. (2 days ago)
+- [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. (3 days ago)
+- [caarlos0/dotfiles.nix](https://github.com/caarlos0/dotfiles.nix) - my dotfiles, now in nix (1 week ago)
 - [xaviergodart/bubble-carousel](https://github.com/xaviergodart/bubble-carousel) - 🎠 A carousel component for bubbletea applications (2 weeks ago)
-- [basilioss/mdt](https://github.com/basilioss/mdt) - Command line markdown todo list manager  (2 weeks ago)
+- [basilioss/mdt](https://github.com/basilioss/mdt) - Command line markdown todo list manager  (3 weeks ago)
 
 #### Connect with me
 
