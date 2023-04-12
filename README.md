@@ -38,7 +38,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [dosyago/BrowserBox](https://github.com/dosyago/BrowserBox) - 📷 BrowserBox - Remote isolated browser API for security, automation visibility and interactivity. Run on our cloud, or bring your own. Full scope double reverse web proxy with multi-tab, mobile-ready browser UI frontend. Plus co-browsing, advanced adaptive streaming, secure document viewing and more! But only in the Pro version. Get BB today! Secure your document needs and internet, today! (4 days ago)
+- [dosyago/BrowserBox](https://github.com/dosyago/BrowserBox) - 📷 BrowserBox - The internet. But unrestricted. And secure. Remote browser isolation product, available here and in Pro for purchase on our website.  (4 days ago)
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel. (1 week ago)
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. (1 week ago)
 - [caarlos0/dotfiles.nix](https://github.com/caarlos0/dotfiles.nix) - my dotfiles, now in nix (1 week ago)
