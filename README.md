@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 day ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 weeks ago)
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (2 months ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (3 months ago)
@@ -31,14 +31,14 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.76.9](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.76.9), 1 day ago) - VSCode public API plugged on the monaco editor
+- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.76.9](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.76.9), 2 days ago) - VSCode public API plugged on the monaco editor
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 2 weeks ago) - A tool for glamorous shell scripts 🎀
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.6](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.6), 1 month ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [antonmedv/llama](https://github.com/antonmedv/llama) ([v1.4.0](https://github.com/antonmedv/llama/releases/tag/v1.4.0), 3 months ago) - Terminal file manager
 
 #### ⭐ Recent Stars
 
-- [dosyago/BrowserBox](https://github.com/dosyago/BrowserBox) - 📷 BrowserBox - The internet. But unrestricted. And secure. Remote browser isolation product, available here and in Pro for purchase on our website.  (4 days ago)
+- [dosyago/BrowserBox](https://github.com/dosyago/BrowserBox) - 📷 BrowserBox - The internet. But unrestricted. And secure. Remote browser isolation product, available here and in Pro for purchase on our website.  (5 days ago)
 - [unjs/magicast](https://github.com/unjs/magicast) - 🧀  Programmatically modify JavaScript and TypeScript source codes with a simplified, elegant and familiar syntax powered by recast and babel. (1 week ago)
 - [hocus-dev/hocus](https://github.com/hocus-dev/hocus) - 🪄 Spin up ready-to-code, disposable dev environments on your own servers. Self-hosted alternative to Gitpod and Github Codespaces. (1 week ago)
 - [caarlos0/dotfiles.nix](https://github.com/caarlos0/dotfiles.nix) - my dotfiles, now in nix (1 week ago)
