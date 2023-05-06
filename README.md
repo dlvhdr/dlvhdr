@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 day ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 weeks ago)
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (2 months ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (4 months ago)
@@ -31,18 +31,18 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.9](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.9), today) - A beautiful CLI dashboard for GitHub 🚀 
-- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.78.5](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.78.5), 2 days ago) - VSCode public API plugged on the monaco editor
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.9](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.9), 1 day ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.78.5](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.78.5), 3 days ago) - VSCode public API plugged on the monaco editor
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 1 month ago) - A tool for glamorous shell scripts 🎀
 - [antonmedv/llama](https://github.com/antonmedv/llama) ([v1.4.0](https://github.com/antonmedv/llama/releases/tag/v1.4.0), 4 months ago) - Terminal file manager
 
 #### ⭐ Recent Stars
 
-- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (today)
-- [BooleanCube/keylab.nvim](https://github.com/BooleanCube/keylab.nvim) - Practice your nvim keybinding configuration for a boost in productivity. (2 days ago)
-- [antfu/vscode-server-controller](https://github.com/antfu/vscode-server-controller) - Start a local server to control the VS Code instance. (5 days ago)
-- [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. (5 days ago)
-- [dosyago/BrowserBox](https://github.com/dosyago/BrowserBox) - 📷 BrowserBox - The internet. But unrestricted. And secure. Remote browser isolation product, available here and in Pro for purchase on our website.  (3 weeks ago)
+- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (1 day ago)
+- [BooleanCube/keylab.nvim](https://github.com/BooleanCube/keylab.nvim) - Practice your nvim keybinding configuration for a boost in productivity. (3 days ago)
+- [antfu/vscode-server-controller](https://github.com/antfu/vscode-server-controller) - Start a local server to control the VS Code instance. (6 days ago)
+- [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. (6 days ago)
+- [dosyago/BrowserBox](https://github.com/dosyago/BrowserBox) - 📷 BrowserBox - The internet. But unrestricted. And secure. Remote browser isolation product, available here and in Pro for purchase on our website.  (4 weeks ago)
 
 #### Connect with me
 
