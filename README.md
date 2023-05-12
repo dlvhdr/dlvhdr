@@ -7,8 +7,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (6 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (3 months ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (4 months ago)
 - [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) -  (4 months ago)
@@ -31,16 +31,16 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.9](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.9), 6 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.9](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.9), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.78.5](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.78.5), 1 week ago) - VSCode public API plugged on the monaco editor
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 1 month ago) - A tool for glamorous shell scripts 🎀
 - [antonmedv/llama](https://github.com/antonmedv/llama) ([v1.4.0](https://github.com/antonmedv/llama/releases/tag/v1.4.0), 4 months ago) - Terminal file manager
 
 #### ⭐ Recent Stars
 
-- [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit message, content and author in Neovim (1 day ago)
-- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 day ago)
-- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (6 days ago)
+- [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit message, content and author in Neovim (2 days ago)
+- [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (2 days ago)
+- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (1 week ago)
 - [BooleanCube/keylab.nvim](https://github.com/BooleanCube/keylab.nvim) - Practice your nvim keybinding configuration for a boost in productivity. (1 week ago)
 - [antfu/vscode-server-controller](https://github.com/antfu/vscode-server-controller) - Start a local server to control the VS Code instance. (1 week ago)
 
