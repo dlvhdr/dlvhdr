@@ -7,8 +7,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 weeks ago)
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (3 months ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (4 months ago)
 - [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) -  (5 months ago)
@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.78.6](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.78.6), 6 days ago) - VSCode public API plugged on the monaco editor
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.9](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.9), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.78.6](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.78.6), 1 week ago) - VSCode public API plugged on the monaco editor
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.9](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.9), 2 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 1 month ago) - A tool for glamorous shell scripts 🎀
 - [antonmedv/llama](https://github.com/antonmedv/llama) ([v1.4.0](https://github.com/antonmedv/llama/releases/tag/v1.4.0), 4 months ago) - Terminal file manager
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (6 days ago)
+- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 week ago)
 - [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) - Search your git history by commit message, content and author in Neovim (1 week ago)
 - [charmbracelet/x](https://github.com/charmbracelet/x) - Charm experimental packages. (1 week ago)
-- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (1 week ago)
+- [caarlos0/svu](https://github.com/caarlos0/svu) - Semantic Version Util (2 weeks ago)
 - [BooleanCube/keylab.nvim](https://github.com/BooleanCube/keylab.nvim) - Practice your nvim keybinding configuration for a boost in productivity. (2 weeks ago)
 
 #### Connect with me
