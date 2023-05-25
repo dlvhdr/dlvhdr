@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 weeks ago)
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (3 months ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (4 months ago)
@@ -15,7 +15,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 📜 My recent blog posts
 
-- [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (7 months ago)
+- [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (8 months ago)
 - [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (9 months ago)
 - [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (1 year ago)
 - [CSS Fundamentals](https://dlvhdr.me/posts/css-fundamentals) (1 year ago)
