@@ -39,11 +39,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - UI neovim framework for kitty (today)
 - [romgrk/kirby.nvim](https://github.com/romgrk/kirby.nvim) - Fuzzy picker for neovim - using kitty graphics protocol (6 days ago)
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager (2 weeks ago)
 - [joshmedeski/tmux-fzf-url](https://github.com/joshmedeski/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen! (2 weeks ago)
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) - t - the smart tmux session manager (2 weeks ago)
-- [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line (1 month ago)
 
 #### Connect with me
 
