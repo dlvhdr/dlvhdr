@@ -7,8 +7,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [wix-incubator/repluggable](https://github.com/wix-incubator/repluggable) - Pluggable micro frontends in React&#43;Redux apps (1 day ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 days ago)
+- [wix-incubator/repluggable](https://github.com/wix-incubator/repluggable) - Pluggable micro frontends in React&#43;Redux apps (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) - t - the smart tmux session manager (3 weeks ago)
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (4 months ago)
@@ -31,7 +31,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.79.6](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.79.6), 6 days ago) - VSCode public API plugged on the monaco editor
+- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.79.6](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.79.6), 1 week ago) - VSCode public API plugged on the monaco editor
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v1.8.1](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v1.8.1), 3 weeks ago) - t - the smart tmux session manager
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.7.9](https://github.com/dlvhdr/gh-dash/releases/tag/v3.7.9), 1 month ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 3 months ago) - A tool for glamorous shell scripts 🎀
@@ -39,7 +39,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - UI neovim framework for kitty (1 week ago)
+- [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - UI neovim framework for kitty (2 weeks ago)
 - [romgrk/kirby.nvim](https://github.com/romgrk/kirby.nvim) - Fuzzy picker for neovim - using kitty graphics protocol (2 weeks ago)
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager (1 month ago)
 - [joshmedeski/tmux-fzf-url](https://github.com/joshmedeski/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen! (1 month ago)
