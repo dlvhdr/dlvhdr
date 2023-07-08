@@ -31,8 +31,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.9.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.9.0), today) - A beautiful CLI dashboard for GitHub 🚀 
 - [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.79.8](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.79.8), 3 days ago) - VSCode public API plugged on the monaco editor
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.8.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.8.0), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v1.8.1](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v1.8.1), 1 month ago) - t - the smart tmux session manager
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 3 months ago) - A tool for glamorous shell scripts 🎀
 - [antonmedv/llama](https://github.com/antonmedv/llama) ([v1.4.0](https://github.com/antonmedv/llama/releases/tag/v1.4.0), 6 months ago) - Terminal file manager
