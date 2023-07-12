@@ -39,11 +39,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [lewis6991/whatthejump.nvim](https://github.com/lewis6991/whatthejump.nvim) - Show jumplist in a floating window. (today)
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - UI neovim framework for kitty (4 weeks ago)
 - [romgrk/kirby.nvim](https://github.com/romgrk/kirby.nvim) - Fuzzy picker for neovim - using kitty graphics protocol (1 month ago)
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager (1 month ago)
 - [joshmedeski/tmux-fzf-url](https://github.com/joshmedeski/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen! (1 month ago)
-- [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) - t - the smart tmux session manager (1 month ago)
 
 #### Connect with me
 
