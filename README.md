@@ -7,16 +7,16 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 weeks ago)
-- [wix-incubator/repluggable](https://github.com/wix-incubator/repluggable) - Pluggable micro frontends in React&#43;Redux apps (2 weeks ago)
+- [wix-incubator/repluggable](https://github.com/wix-incubator/repluggable) - Pluggable micro frontends in React&#43;Redux apps (3 weeks ago)
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) - t - the smart tmux session manager (1 month ago)
 - [antonmedv/llama](https://github.com/antonmedv/llama) - Terminal file manager (5 months ago)
 
 #### 📜 My recent blog posts
 
 - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (9 months ago)
-- [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (10 months ago)
+- [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (11 months ago)
 - [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (1 year ago)
 - [CSS Fundamentals](https://dlvhdr.me/posts/css-fundamentals) (2 years ago)
 - [The Online IDEs Ecosystem](https://dlvhdr.me/posts/online-ides-ecosystem) (2 years ago)
@@ -31,7 +31,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.79.12](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.79.12), today) - VSCode public API plugged on the monaco editor
+- [CodinGame/monaco-vscode-api](https://github.com/CodinGame/monaco-vscode-api) ([v1.79.12](https://github.com/CodinGame/monaco-vscode-api/releases/tag/v1.79.12), 1 day ago) - VSCode public API plugged on the monaco editor
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.9.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.9.0), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v1.8.1](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v1.8.1), 1 month ago) - t - the smart tmux session manager
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.10.0](https://github.com/charmbracelet/gum/releases/tag/v0.10.0), 3 months ago) - A tool for glamorous shell scripts 🎀
@@ -39,8 +39,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 day ago)
-- [lewis6991/whatthejump.nvim](https://github.com/lewis6991/whatthejump.nvim) - Show jumplist in a floating window. (3 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 days ago)
+- [lewis6991/whatthejump.nvim](https://github.com/lewis6991/whatthejump.nvim) - Show jumplist in a floating window. (4 days ago)
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - UI neovim framework for kitty (1 month ago)
 - [romgrk/kirby.nvim](https://github.com/romgrk/kirby.nvim) - Fuzzy picker for neovim - using kitty graphics protocol (1 month ago)
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager (1 month ago)
