@@ -31,14 +31,14 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.10.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.10.0), 6 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.10.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.10.0), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) ([v0.11.0](https://github.com/charmbracelet/gum/releases/tag/v0.11.0), 1 week ago) - A tool for glamorous shell scripts 🎀
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v1.8.1](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v1.8.1), 1 month ago) - t - the smart tmux session manager
 - [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.4.0](https://github.com/antonmedv/walk/releases/tag/v1.4.0), 7 months ago) - Terminal file manager
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (1 week ago)
+- [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (2 weeks ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 weeks ago)
 - [lewis6991/whatthejump.nvim](https://github.com/lewis6991/whatthejump.nvim) - Show jumplist in a floating window. (2 weeks ago)
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) - UI neovim framework for kitty (1 month ago)
