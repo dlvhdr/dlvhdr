@@ -31,7 +31,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.0.1](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.0.1), 5 days ago) - t - the smart tmux session manager
+- [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.0.1](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.0.1), 6 days ago) - t - the smart tmux session manager
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.10.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.10.0), 2 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.4.0](https://github.com/antonmedv/walk/releases/tag/v1.4.0), 7 months ago) - Terminal file manager
 
