@@ -7,8 +7,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 weeks ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 month ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
 - [wix-incubator/repluggable](https://github.com/wix-incubator/repluggable) - Pluggable micro frontends in React&#43;Redux apps (1 month ago)
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) - t - the smart tmux session manager (2 months ago)
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (6 months ago)
@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.11.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.11.0), today) - A beautiful CLI dashboard for GitHub 🚀 
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.0.1](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.0.1), 1 week ago) - t - the smart tmux session manager
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.10.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.10.0), 2 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.4.0](https://github.com/antonmedv/walk/releases/tag/v1.4.0), 7 months ago) - Terminal file manager
 
 #### ⭐ Recent Stars
 
+- [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively (today)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (1 day ago)
 - [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful (1 week ago)
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬 (3 weeks ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (4 weeks ago)
-- [lewis6991/whatthejump.nvim](https://github.com/lewis6991/whatthejump.nvim) - Show jumplist in a floating window. (1 month ago)
 
 #### Connect with me
 
