@@ -11,7 +11,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
 - [wix-incubator/repluggable](https://github.com/wix-incubator/repluggable) - Pluggable micro frontends in React&#43;Redux apps (1 month ago)
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) - t - the smart tmux session manager (2 months ago)
-- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (6 months ago)
+- [wix-incubator/velo](https://github.com/wix-incubator/velo) -  (5 months ago)
 
 #### 📜 My recent blog posts
 
