@@ -7,10 +7,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (4 days ago)
+- [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (5 days ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
-- [wix-incubator/repluggable](https://github.com/wix-incubator/repluggable) - Pluggable micro frontends in React&#43;Redux apps (1 month ago)
+- [wix-incubator/repluggable](https://github.com/wix-incubator/repluggable) - Pluggable micro frontends in React&#43;Redux apps (2 months ago)
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) - t - the smart tmux session manager (2 months ago)
 
 #### 📜 My recent blog posts
@@ -31,7 +31,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.5.2](https://github.com/antonmedv/walk/releases/tag/v1.5.2), 3 days ago) - Terminal file manager
+- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.5.2](https://github.com/antonmedv/walk/releases/tag/v1.5.2), 4 days ago) - Terminal file manager
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.11.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.11.0), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.0.1](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.0.1), 2 weeks ago) - t - the smart tmux session manager
 
