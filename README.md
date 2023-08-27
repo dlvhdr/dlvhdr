@@ -31,8 +31,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
+- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.6.0](https://github.com/antonmedv/walk/releases/tag/v1.6.0), today) - Terminal file manager
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.1.0](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.1.0), 3 days ago) - t - the smart tmux session manager
-- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.5.2](https://github.com/antonmedv/walk/releases/tag/v1.5.2), 1 week ago) - Terminal file manager
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.11.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.11.0), 2 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
