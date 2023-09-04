@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps &amp; framework-agnostic libraries, faster. (today)
 - [moonrepo/espresso](https://github.com/moonrepo/espresso) - Next-generation JavaScript package registry and manager. (3 days ago)
 - [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas (6 days ago)
 - [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively (3 weeks ago)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (3 weeks ago)
-- [martinvonz/jj](https://github.com/martinvonz/jj) - A Git-compatible DVCS that is both simple and powerful (1 month ago)
 
 #### Connect with me
 
