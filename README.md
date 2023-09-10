@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.2.0](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.2.0), 1 day ago) - t - the smart tmux session manager
-- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.6.2](https://github.com/antonmedv/walk/releases/tag/v1.6.2), 1 week ago) - Terminal file manager
+- [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.2.0](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.2.0), 2 days ago) - t - the smart tmux session manager
+- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.6.2](https://github.com/antonmedv/walk/releases/tag/v1.6.2), 2 weeks ago) - Terminal file manager
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.11.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.11.0), 4 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
 
-- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps &amp; framework-agnostic libraries, faster. (5 days ago)
+- [stacksjs/stacks](https://github.com/stacksjs/stacks) - ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps &amp; framework-agnostic libraries, faster. (6 days ago)
 - [moonrepo/espresso](https://github.com/moonrepo/espresso) - Next-generation JavaScript package registry, package manager, and toolchain. (1 week ago)
 - [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas (1 week ago)
 - [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively (4 weeks ago)
-- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (4 weeks ago)
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (1 month ago)
 
 #### Connect with me
 
