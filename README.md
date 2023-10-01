@@ -38,7 +38,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 #### ⭐ Recent Stars
 
 - [piersolenski/telescope-import.nvim](https://github.com/piersolenski/telescope-import.nvim) - Import modules with ease (2 weeks ago)
-- [moonrepo/espresso](https://github.com/moonrepo/espresso) - Next-generation JavaScript package registry, package manager, and toolchain. (4 weeks ago)
+- [moonrepo/espresso](https://github.com/moonrepo/espresso) - Next-generation JavaScript package registry, package manager, and toolchain. (1 month ago)
 - [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas (1 month ago)
 - [oligot/go-mod-upgrade](https://github.com/oligot/go-mod-upgrade) - Update outdated Go dependencies interactively (1 month ago)
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings. (1 month ago)
