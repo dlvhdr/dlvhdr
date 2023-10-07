@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
 - [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (1 month ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 month ago)
 - [wix-incubator/repluggable](https://github.com/wix-incubator/repluggable) - Pluggable micro frontends in React&#43;Redux apps (3 months ago)
@@ -17,7 +17,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (1 year ago)
 - [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (1 year ago)
-- [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (1 year ago)
+- [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (2 years ago)
 - [CSS Fundamentals](https://dlvhdr.me/posts/css-fundamentals) (2 years ago)
 - [The Online IDEs Ecosystem](https://dlvhdr.me/posts/online-ides-ecosystem) (2 years ago)
 
