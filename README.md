@@ -8,7 +8,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 #### 👷 Check out what I'm currently working on
 
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
-- [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (1 month ago)
+- [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (2 months ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 months ago)
 - [wix-incubator/repluggable](https://github.com/wix-incubator/repluggable) - Pluggable micro frontends in React&#43;Redux apps (3 months ago)
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) - t - the smart tmux session manager (4 months ago)
@@ -31,7 +31,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.5.0](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.5.0), 3 days ago) - t - the smart tmux session manager
+- [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.5.0](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.5.0), 4 days ago) - t - the smart tmux session manager
 - [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.6.2](https://github.com/antonmedv/walk/releases/tag/v1.6.2), 1 month ago) - Terminal file manager
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.11.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.11.0), 2 months ago) - A beautiful CLI dashboard for GitHub 🚀 
 
