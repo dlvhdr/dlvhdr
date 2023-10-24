@@ -31,13 +31,13 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.6.0](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.6.0), 3 days ago) - t - the smart tmux session manager
+- [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.6.0](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.6.0), 4 days ago) - t - the smart tmux session manager
 - [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.6.2](https://github.com/antonmedv/walk/releases/tag/v1.6.2), 1 month ago) - Terminal file manager
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.11.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.11.0), 2 months ago) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
 
-- [TechNickAI/package.json-validator](https://github.com/TechNickAI/package.json-validator) - A tool/library for validating npm/node package.json files (5 days ago)
+- [TechNickAI/package.json-validator](https://github.com/TechNickAI/package.json-validator) - A tool/library for validating npm/node package.json files (6 days ago)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A terminal slideshow tool (2 weeks ago)
 - [piersolenski/telescope-import.nvim](https://github.com/piersolenski/telescope-import.nvim) - Import modules with ease (1 month ago)
 - [moonrepo/espresso](https://github.com/moonrepo/espresso) - Next-generation JavaScript package registry, package manager, and toolchain. (1 month ago)
