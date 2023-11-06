@@ -37,8 +37,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [Almo7aya/openingh.nvim](https://github.com/Almo7aya/openingh.nvim) - Open file or project in GitHub for neovim written in lua (4 days ago)
-- [JoelEinbinder/snail](https://github.com/JoelEinbinder/snail) -  (4 days ago)
+- [Almo7aya/openingh.nvim](https://github.com/Almo7aya/openingh.nvim) - Open file or project in GitHub for neovim written in lua (5 days ago)
+- [JoelEinbinder/snail](https://github.com/JoelEinbinder/snail) -  (5 days ago)
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️ (1 week ago)
 - [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online. (1 week ago)
 - [TechNickAI/package.json-validator](https://github.com/TechNickAI/package.json-validator) - A tool/library for validating npm/node package.json files (2 weeks ago)
