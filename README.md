@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete (today)
-- [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim (today)
-- [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod (today)
-- [Almo7aya/openingh.nvim](https://github.com/Almo7aya/openingh.nvim) - Open file or project in GitHub for neovim written in lua (5 days ago)
-- [JoelEinbinder/snail](https://github.com/JoelEinbinder/snail) -  (5 days ago)
+- [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete (1 day ago)
+- [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim (1 day ago)
+- [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod (1 day ago)
+- [Almo7aya/openingh.nvim](https://github.com/Almo7aya/openingh.nvim) - Open file or project in GitHub for neovim written in lua (6 days ago)
+- [JoelEinbinder/snail](https://github.com/JoelEinbinder/snail) -  (6 days ago)
 
 #### Connect with me
 
