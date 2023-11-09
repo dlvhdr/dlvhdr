@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (today)
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete (3 days ago)
 - [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim (3 days ago)
 - [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod (3 days ago)
 - [Almo7aya/openingh.nvim](https://github.com/Almo7aya/openingh.nvim) - Open file or project in GitHub for neovim written in lua (1 week ago)
-- [JoelEinbinder/snail](https://github.com/JoelEinbinder/snail) -  (1 week ago)
 
 #### Connect with me
 
