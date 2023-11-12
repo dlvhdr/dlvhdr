@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.7.0](https://github.com/antonmedv/walk/releases/tag/v1.7.0), 1 week ago) - Terminal file manager
+- [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.7.0](https://github.com/antonmedv/walk/releases/tag/v1.7.0), 2 weeks ago) - Terminal file manager
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.6.0](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.6.0), 3 weeks ago) - t - the smart tmux session manager
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.11.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.11.0), 3 months ago) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
 
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (today)
-- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (2 days ago)
-- [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete (5 days ago)
-- [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim (5 days ago)
-- [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod (5 days ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (1 day ago)
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (3 days ago)
+- [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete (6 days ago)
+- [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) - Interactive database client for neovim (6 days ago)
+- [kristijanhusak/vim-dadbod-ui](https://github.com/kristijanhusak/vim-dadbod-ui) - Simple UI for https://github.com/tpope/vim-dadbod (6 days ago)
 
 #### Connect with me
 
