@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [antfu/eslint-plugin-markdown](https://github.com/antfu/eslint-plugin-markdown) - `@antfu/eslint-plugin-markdown` - fork of `eslint-plugin-markdown` (1 week ago)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 week ago)
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel (3 weeks ago)
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) - Neovim plugin introducing a new operators motions to quickly replace and exchange text. (3 weeks ago)
 - [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Not UFO in the sky, but an ultra fold in Neovim. (3 weeks ago)
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (4 weeks ago)
 
 #### Connect with me
 
