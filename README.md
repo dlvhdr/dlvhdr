@@ -7,11 +7,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
+- [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) -  (today)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (2 weeks ago)
 - [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (3 months ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (4 months ago)
-- [wix-incubator/repluggable](https://github.com/wix-incubator/repluggable) - Pluggable micro frontends in React&#43;Redux apps (5 months ago)
 
 #### 📜 My recent blog posts
 
@@ -23,11 +23,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🌱 My latest projects
 
+- [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - 
 - [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) - 
 - [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) - 
 - [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them
 - [dlvhdr/jb](https://github.com/dlvhdr/jb) - task runner
-- [dlvhdr/presentations](https://github.com/dlvhdr/presentations) - Various presentations I gave
 
 #### 🔭 Latest releases I've contributed to
 
