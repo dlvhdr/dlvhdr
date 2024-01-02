@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (today)
 - [linrongbin16/commons.nvim](https://github.com/linrongbin16/commons.nvim) - The commons lua library for Neovim plugin project. (3 days ago)
 - [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal (5 days ago)
 - [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish. (1 week ago)
 - [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly (1 week ago)
-- [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively &#43; ESLint Plugin (2 weeks ago)
 
 #### Connect with me
 
