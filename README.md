@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands. (today)
 - [benwaffle/doc](https://github.com/benwaffle/doc) -  (today)
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3 (2 days ago)
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (2 days ago)
 - [linrongbin16/commons.nvim](https://github.com/linrongbin16/commons.nvim) - The commons lua library for Neovim plugin project. (5 days ago)
-- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal (1 week ago)
 
 #### Connect with me
 
