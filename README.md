@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [fdschmidt93/telescope-egrepify.nvim](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Variable user customization for telescope.live_grep to set rg flags on-the-fly (today)
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim (today)
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (1 day ago)
 - [LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands. (2 days ago)
 - [benwaffle/doc](https://github.com/benwaffle/doc) -  (2 days ago)
-- [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3 (4 days ago)
 
 #### Connect with me
 
