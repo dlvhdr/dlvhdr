@@ -7,8 +7,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (5 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (6 days ago)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) -  (1 week ago)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (1 month ago)
 - [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (4 months ago)
@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.12.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.12.0), 5 days ago) - A beautiful CLI dashboard for GitHub 🚀 
-- [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.11.1](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.11.1), 6 days ago) - t - the smart tmux session manager
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.12.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.12.0), 6 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.11.1](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.11.1), 1 week ago) - t - the smart tmux session manager
 - [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.7.0](https://github.com/antonmedv/walk/releases/tag/v1.7.0), 2 months ago) - Terminal file manager
 
 #### ⭐ Recent Stars
 
-- [fdschmidt93/telescope-egrepify.nvim](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Variable user customization for telescope.live_grep to set rg flags on-the-fly (4 days ago)
-- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim (4 days ago)
-- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (5 days ago)
-- [LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands. (6 days ago)
-- [benwaffle/doc](https://github.com/benwaffle/doc) - A modern TUI for reading man pages, info pages, and tldr pages. (6 days ago)
+- [fdschmidt93/telescope-egrepify.nvim](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Variable user customization for telescope.live_grep to set rg flags on-the-fly (5 days ago)
+- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim (5 days ago)
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (6 days ago)
+- [LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands. (1 week ago)
+- [benwaffle/doc](https://github.com/benwaffle/doc) - A modern TUI for reading man pages, info pages, and tldr pages. (1 week ago)
 
 #### Connect with me
 
