@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) -  (2 weeks ago)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (1 month ago)
@@ -37,8 +37,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [fdschmidt93/telescope-egrepify.nvim](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Variable user customization for telescope.live_grep to set rg flags on-the-fly (6 days ago)
-- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim (6 days ago)
+- [fdschmidt93/telescope-egrepify.nvim](https://github.com/fdschmidt93/telescope-egrepify.nvim) - Variable user customization for telescope.live_grep to set rg flags on-the-fly (1 week ago)
+- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim (1 week ago)
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal. (1 week ago)
 - [LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands. (1 week ago)
 - [benwaffle/doc](https://github.com/benwaffle/doc) - A modern TUI for reading man pages, info pages, and tldr pages. (1 week ago)
