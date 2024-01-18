@@ -37,7 +37,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [samsullivan/jqless](https://github.com/samsullivan/jqless) - Combining jq and less with Go. (1 day ago)
+- [samsullivan/jqless](https://github.com/samsullivan/jqless) - Combining jq and less for real-time JSON parsing. (1 day ago)
 - [cfoust/cy](https://github.com/cfoust/cy) - 🤖 time travel in the terminal (2 days ago)
 - [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰ (5 days ago)
 - [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim) - Install and upgrade third party tools automatically (5 days ago)
