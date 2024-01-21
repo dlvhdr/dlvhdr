@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors (today)
 - [christianalfoni/impact](https://github.com/christianalfoni/impact) - Reactive contexts for React (1 day ago)
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (3 days ago)
 - [samsullivan/jqless](https://github.com/samsullivan/jqless) - Combining jq and less for real-time JSON parsing. (4 days ago)
 - [cfoust/cy](https://github.com/cfoust/cy) - 🤖 time travel in the terminal (5 days ago)
-- [poetaman/arttime](https://github.com/poetaman/arttime) - arttime is a terminal application that blends beauty of text-art with functionality of clock / timer / pattern-based time manager ⏰ (1 week ago)
 
 #### Connect with me
 
