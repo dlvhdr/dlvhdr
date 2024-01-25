@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 weeks ago)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) -  (3 weeks ago)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (1 month ago)
@@ -32,15 +32,15 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 #### 🔭 Latest releases I've contributed to
 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.12.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.12.0), 2 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
-- [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.11.1](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.11.1), 2 weeks ago) - t - the smart tmux session manager
+- [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.11.1](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.11.1), 3 weeks ago) - t - the smart tmux session manager
 - [antonmedv/walk](https://github.com/antonmedv/walk) ([v1.7.0](https://github.com/antonmedv/walk/releases/tag/v1.7.0), 2 months ago) - Terminal file manager
 
 #### ⭐ Recent Stars
 
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (today)
-- [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors (3 days ago)
-- [christianalfoni/impact](https://github.com/christianalfoni/impact) - Reactive contexts for React (4 days ago)
-- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (6 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (1 day ago)
+- [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors (4 days ago)
+- [christianalfoni/impact](https://github.com/christianalfoni/impact) - Reactive contexts for React (5 days ago)
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust (1 week ago)
 - [samsullivan/jqless](https://github.com/samsullivan/jqless) - Combining jq and less for real-time JSON parsing. (1 week ago)
 
 #### Connect with me
