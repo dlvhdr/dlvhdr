@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 days ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (3 weeks ago)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) -  (1 month ago)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (2 months ago)
@@ -37,9 +37,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [NStefan002/visual-surround.nvim](https://github.com/NStefan002/visual-surround.nvim) - Simple as select, &#39;(&#39;, done. (1 day ago)
-- [tummetott/reticle.nvim](https://github.com/tummetott/reticle.nvim) - NVIM plugin to highlight only the screen line of the cursor in the currently active window (2 days ago)
-- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (5 days ago)
+- [NStefan002/visual-surround.nvim](https://github.com/NStefan002/visual-surround.nvim) - Simple as select, &#39;(&#39;, done. (2 days ago)
+- [tummetott/reticle.nvim](https://github.com/tummetott/reticle.nvim) - NVIM plugin to highlight only the screen line of the cursor in the currently active window (3 days ago)
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. (6 days ago)
 - [mizdra/eslint-interactive](https://github.com/mizdra/eslint-interactive) - The CLI tool to fix huge number of ESLint errors (1 week ago)
 - [christianalfoni/impact](https://github.com/christianalfoni/impact) - Reactive contexts for React (1 week ago)
 
