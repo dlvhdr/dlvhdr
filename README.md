@@ -31,7 +31,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.12.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.12.0), 1 month ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v3.13.0](https://github.com/dlvhdr/gh-dash/releases/tag/v3.13.0), today) - A beautiful CLI dashboard for GitHub 🚀 
 - [joshmedeski/t-smart-tmux-session-manager](https://github.com/joshmedeski/t-smart-tmux-session-manager) ([v2.11.1](https://github.com/joshmedeski/t-smart-tmux-session-manager/releases/tag/v2.11.1), 1 month ago) - t - the smart tmux session manager
 
 #### ⭐ Recent Stars
