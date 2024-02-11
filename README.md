@@ -36,11 +36,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw) - Speed up log creation. Create various kinds of language-specific log statements, such as logs of variables, assertions, or time-measuring. (today)
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) - Fast as FUCK nvim completion. SQLite, concurrent scheduler, hundreds of hours of optimization. (1 day ago)
 - [chrisgrieser/nvim-genghis](https://github.com/chrisgrieser/nvim-genghis) - Convenience file operations for neovim, written in lua.  (2 days ago)
 - [MatthiasGrandl/loungy](https://github.com/MatthiasGrandl/loungy) - Loungy is a WIP launcher in the vein of Spotlight, Alfred, Raycast. (4 days ago)
 - [NStefan002/visual-surround.nvim](https://github.com/NStefan002/visual-surround.nvim) - Simple as select, &#39;(&#39;, done. (2 weeks ago)
-- [tummetott/reticle.nvim](https://github.com/tummetott/reticle.nvim) - NVIM plugin to highlight only the screen line of the cursor in the currently active window (2 weeks ago)
 
 #### Connect with me
 
