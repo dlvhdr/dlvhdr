@@ -7,11 +7,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line (2 weeks ago)
 - [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) - Easily view and address comments left on your PR using folke/trouble.nvim (2 weeks ago)
-- [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (2 months ago)
+- [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (3 months ago)
 
 #### 📜 My recent blog posts
 
@@ -36,8 +36,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [KevM/bubbleo](https://github.com/KevM/bubbleo) - BubbleO is a collection of components for the excellent terminal UI tool bubbletea. Includes: NavStack, Breadcrumbs, and Menu (1 day ago)
-- [daniel-lundin/aboxd](https://github.com/daniel-lundin/aboxd) - ascii-charts from strings (3 days ago)
+- [KevM/bubbleo](https://github.com/KevM/bubbleo) - BubbleO is a collection of components for the excellent terminal UI tool bubbletea. Includes: NavStack, Breadcrumbs, and Menu (2 days ago)
+- [daniel-lundin/aboxd](https://github.com/daniel-lundin/aboxd) - ascii-charts from strings (4 days ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 week ago)
 - [chrishrb/gx.nvim](https://github.com/chrishrb/gx.nvim) - Implementation of gx without the need of netrw (1 week ago)
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (1 week ago)
