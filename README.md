@@ -36,11 +36,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [dmmulroy/ts-error-translator.nvim](https://github.com/dmmulroy/ts-error-translator.nvim) -  (today)
 - [KevM/bubbleo](https://github.com/KevM/bubbleo) - BubbleO is a collection of components for the excellent terminal UI tool bubbletea. Includes: NavStack, Breadcrumbs, and Menu (3 days ago)
 - [daniel-lundin/aboxd](https://github.com/daniel-lundin/aboxd) - ascii-charts from strings (5 days ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (1 week ago)
 - [chrishrb/gx.nvim](https://github.com/chrishrb/gx.nvim) - Implementation of gx without the need of netrw (1 week ago)
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (1 week ago)
 
 #### Connect with me
 
