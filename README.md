@@ -7,10 +7,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 weeks ago)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line (4 weeks ago)
-- [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) - Easily view and address comments left on your PR using folke/trouble.nvim (4 weeks ago)
+- [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) - Easily view and address comments left on your PR using folke/trouble.nvim (1 month ago)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (3 months ago)
 
 #### 📜 My recent blog posts
@@ -36,10 +36,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`. (2 days ago)
+- [alexpovel/srgn](https://github.com/alexpovel/srgn) - A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`. (3 days ago)
 - [dmmulroy/ts-error-translator.nvim](https://github.com/dmmulroy/ts-error-translator.nvim) -  (1 week ago)
 - [KevM/bubbleo](https://github.com/KevM/bubbleo) - BubbleO is a collection of components for the excellent terminal UI tool bubbletea. Includes: NavStack, Breadcrumbs, and Menu (1 week ago)
-- [daniel-lundin/aboxd](https://github.com/daniel-lundin/aboxd) - ascii-charts from strings (1 week ago)
+- [daniel-lundin/aboxd](https://github.com/daniel-lundin/aboxd) - ascii-charts from strings (2 weeks ago)
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code (2 weeks ago)
 
 #### Connect with me
