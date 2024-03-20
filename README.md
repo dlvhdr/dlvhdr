@@ -7,15 +7,15 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (4 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (5 days ago)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line (1 month ago)
 - [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) - Easily view and address comments left on your PR using folke/trouble.nvim (1 month ago)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) - Neovim plugin for fast file-finding (3 months ago)
 
 #### 📜 My recent blog posts
 
-- [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (1 year ago)
+- [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (2 years ago)
 - [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (2 years ago)
 - [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (2 years ago)
 - [CSS Fundamentals](https://dlvhdr.me/posts/css-fundamentals) (2 years ago)
@@ -36,11 +36,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development (today)
-- [LironEr/bundlemon](https://github.com/LironEr/bundlemon) - A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes. (today)
-- [Schniz/benchy-action](https://github.com/Schniz/benchy-action) - a hassle-free GitHub Action to benchmark your code continuously. (today)
-- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm&#39;s gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements. (1 day ago)
-- [silenceper/gowatch](https://github.com/silenceper/gowatch) - 🚀 gowatch is a command line tool that builds and (re)starts your go project everytime you save a Go or template file. (3 days ago)
+- [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development (1 day ago)
+- [LironEr/bundlemon](https://github.com/LironEr/bundlemon) - A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes. (1 day ago)
+- [Schniz/benchy-action](https://github.com/Schniz/benchy-action) - a hassle-free GitHub Action to benchmark your code continuously. (1 day ago)
+- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm&#39;s gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements. (2 days ago)
+- [silenceper/gowatch](https://github.com/silenceper/gowatch) - 🚀 gowatch is a command line tool that builds and (re)starts your go project everytime you save a Go or template file. (4 days ago)
 
 #### Connect with me
 
