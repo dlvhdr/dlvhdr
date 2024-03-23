@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line (1 month ago)
 - [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) - Easily view and address comments left on your PR using folke/trouble.nvim (1 month ago)
@@ -36,11 +36,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (2 days ago)
-- [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development (3 days ago)
-- [LironEr/bundlemon](https://github.com/LironEr/bundlemon) - A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes. (3 days ago)
-- [Schniz/benchy-action](https://github.com/Schniz/benchy-action) - a hassle-free GitHub Action to benchmark your code continuously. (3 days ago)
-- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm&#39;s gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements. (4 days ago)
+- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (3 days ago)
+- [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development (4 days ago)
+- [LironEr/bundlemon](https://github.com/LironEr/bundlemon) - A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes. (4 days ago)
+- [Schniz/benchy-action](https://github.com/Schniz/benchy-action) - a hassle-free GitHub Action to benchmark your code continuously. (4 days ago)
+- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm&#39;s gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements. (5 days ago)
 
 #### Connect with me
 
