@@ -38,9 +38,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (4 days ago)
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development (5 days ago)
-- [LironEr/bundlemon](https://github.com/LironEr/bundlemon) - A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes. (5 days ago)
 - [Schniz/benchy-action](https://github.com/Schniz/benchy-action) - a hassle-free GitHub Action to benchmark your code continuously. (5 days ago)
 - [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm&#39;s gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements. (6 days ago)
+- [silenceper/gowatch](https://github.com/silenceper/gowatch) - 🚀 gowatch is a command line tool that builds and (re)starts your go project everytime you save a Go or template file. (1 week ago)
 
 #### Connect with me
 
