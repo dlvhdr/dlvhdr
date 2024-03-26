@@ -36,11 +36,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (today)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (6 days ago)
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development (1 week ago)
 - [Schniz/benchy-action](https://github.com/Schniz/benchy-action) - a hassle-free GitHub Action to benchmark your code continuously. (1 week ago)
 - [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm&#39;s gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements. (1 week ago)
-- [silenceper/gowatch](https://github.com/silenceper/gowatch) - 🚀 gowatch is a command line tool that builds and (re)starts your go project everytime you save a Go or template file. (1 week ago)
 
 #### Connect with me
 
