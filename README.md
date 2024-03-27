@@ -36,11 +36,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [jsongerber/thanks.nvim](https://github.com/jsongerber/thanks.nvim) - Automatically star all the Neovim plugins you use. (today)
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸 (1 day ago)
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (1 week ago)
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development (1 week ago)
 - [Schniz/benchy-action](https://github.com/Schniz/benchy-action) - a hassle-free GitHub Action to benchmark your code continuously. (1 week ago)
-- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) - Maintained fork of ruifm&#39;s gitlinker, refactored with bug fixes, ssh aliases, blame support and other improvements. (1 week ago)
 
 #### Connect with me
 
