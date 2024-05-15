@@ -39,7 +39,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (2 weeks ago)
 - [echasnovski/mini.files](https://github.com/echasnovski/mini.files) - Navigate and manipulate file system. Part of &#39;mini.nvim&#39; library. (2 weeks ago)
 - [moyiz/git-dev.nvim](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim. (3 weeks ago)
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (3 weeks ago)
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals (3 weeks ago)
 - [FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim) - Neovim fugitive style git blame plugin (3 weeks ago)
 
 #### Connect with me
