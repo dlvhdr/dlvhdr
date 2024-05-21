@@ -37,7 +37,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 #### ⭐ Recent Stars
 
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim&#39;s native comments (today)
-- [ynqa/bul](https://github.com/ynqa/bul) - container log explorer for Kubernetes (1 day ago)
+- [ynqa/bul](https://github.com/ynqa/bul) - Filter streaming container logs by keywords for Kubernetes (1 day ago)
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem: (3 weeks ago)
 - [echasnovski/mini.files](https://github.com/echasnovski/mini.files) - Navigate and manipulate file system. Part of &#39;mini.nvim&#39; library. (3 weeks ago)
 - [moyiz/git-dev.nvim](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim. (4 weeks ago)
