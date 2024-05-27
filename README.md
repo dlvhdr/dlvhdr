@@ -40,7 +40,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 - [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim) - Treesitter based structural search and replace plugin for Neovim. (2 days ago)
 - [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) - Remote development in Neovim 🔥 (5 days ago)
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) - Tiny plugin to enhance Neovim&#39;s native comments (6 days ago)
-- [ynqa/bul](https://github.com/ynqa/bul) - Filter streaming container logs based on keywords for Kubernetes (1 week ago)
+- [ynqa/bul](https://github.com/ynqa/bul) - WIP; Retryable sig for Kubernetes (1 week ago)
 
 #### Connect with me
 
