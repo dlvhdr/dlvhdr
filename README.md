@@ -35,11 +35,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer. (today)
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim. (1 day ago)
 - [luckasRanarison/clear-action.nvim](https://github.com/luckasRanarison/clear-action.nvim) - Predictable LSP code actions (1 day ago)
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (5 days ago)
 - [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (5 days ago)
-- [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim (1 week ago)
 
 #### Connect with me
 
