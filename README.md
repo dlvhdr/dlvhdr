@@ -35,11 +35,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions. (today)
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer. (1 day ago)
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim. (2 days ago)
 - [luckasRanarison/clear-action.nvim](https://github.com/luckasRanarison/clear-action.nvim) - Predictable LSP code actions (2 days ago)
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (6 days ago)
-- [aymanbagabas/dotfiles](https://github.com/aymanbagabas/dotfiles) - home (6 days ago)
 
 #### Connect with me
 
