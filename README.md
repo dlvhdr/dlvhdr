@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 month ago)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line (4 months ago)
@@ -35,10 +35,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions. (3 days ago)
-- [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer. (4 days ago)
-- [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim. (5 days ago)
-- [luckasRanarison/clear-action.nvim](https://github.com/luckasRanarison/clear-action.nvim) - Predictable LSP code actions (5 days ago)
+- [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) - 💭👀precognition.nvim - Precognition uses virtual text and gutter signs to show available motions. (4 days ago)
+- [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer. (5 days ago)
+- [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim. (6 days ago)
+- [luckasRanarison/clear-action.nvim](https://github.com/luckasRanarison/clear-action.nvim) - Predictable LSP code actions (6 days ago)
 - [meowgorithm/dotfiles](https://github.com/meowgorithm/dotfiles) - The Meowgorithm Dotfiles, Collectors’ Edition (1 week ago)
 
 #### Connect with me
