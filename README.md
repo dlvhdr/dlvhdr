@@ -31,11 +31,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.1.2](https://github.com/dlvhdr/gh-dash/releases/tag/v4.1.2), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
 
-- [darrenburns/posting](https://github.com/darrenburns/posting) - Test your HTTP API using a powerful and modern terminal user interface (2 days ago)
+- [darrenburns/posting](https://github.com/darrenburns/posting) - A modern API client that runs in the terminal. (2 days ago)
 - [nchudleigh/homerow](https://github.com/nchudleigh/homerow) - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse. (3 days ago)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (4 days ago)
 - [2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim) - Find Nerd Glyphs Easily 🤓🔭 (4 days ago)
