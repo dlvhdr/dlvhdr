@@ -34,7 +34,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [darrenburns/posting](https://github.com/darrenburns/posting) - A modern API client that lives in your terminal. (4 days ago)
+- [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (4 days ago)
 - [nchudleigh/homerow](https://github.com/nchudleigh/homerow) - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse. (5 days ago)
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (6 days ago)
 - [2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim) - Find Nerd Glyphs Easily 🤓🔭 (6 days ago)
