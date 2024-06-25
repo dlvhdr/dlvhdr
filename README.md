@@ -35,11 +35,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [yassinebridi/serpl](https://github.com/yassinebridi/serpl) - A simple terminal UI for search and replace, ala VS Code. (today)
 - [pommee/Pocker](https://github.com/pommee/Pocker) - ~ TUI tool for docker ~ (2 days ago)
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust (3 days ago)
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal. (1 week ago)
 - [nchudleigh/homerow](https://github.com/nchudleigh/homerow) - Like Raycast or Spotlight for macOS. Click, navigate, and perform tasks with the keyboard and no mouse. (1 week ago)
-- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion) (1 week ago)
 
 #### Connect with me
 
