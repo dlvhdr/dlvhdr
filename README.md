@@ -15,11 +15,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 📜 My recent blog posts
 
+- [My Top CLI Tools](https://dlvhdr.me/posts/cli-tools) (today)
 - [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (4 months ago)
 - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (2 years ago)
 - [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (2 years ago)
 - [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (2 years ago)
-- [CSS Fundamentals](https://dlvhdr.me/posts/css-fundamentals) (2 years ago)
 
 #### 🌱 My latest projects
 
