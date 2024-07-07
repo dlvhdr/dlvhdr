@@ -35,11 +35,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [bettervim/better-tmux](https://github.com/bettervim/better-tmux) - Unlock the full power of TMUX with TypeScript and JSX ⚡ (today)
 - [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) - Neovim plugin. Telescope.nvim extension that adds LuaSnip integration. (1 day ago)
 - [picosh/git-pr](https://github.com/picosh/git-pr) - the easiest git collaboration tool (5 days ago)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (5 days ago)
 - [FelixKratz/SketchyBar](https://github.com/FelixKratz/SketchyBar) - A highly customizable macOS status bar replacement (1 week ago)
-- [FelixKratz/SketchyVim](https://github.com/FelixKratz/SketchyVim) - Adds all vim moves and modes to macOS text fields (1 week ago)
 
 #### Connect with me
 
