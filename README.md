@@ -35,9 +35,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [mswjs/source](https://github.com/mswjs/source) - Generate MSW request handlers from various sources (HAR files, OpenAPI documents, etc). (2 days ago)
-- [bettervim/better-tmux](https://github.com/bettervim/better-tmux) - Unlock the full power of TMUX with TypeScript and JSX ⚡ (4 days ago)
-- [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) - Neovim plugin. Telescope.nvim extension that adds LuaSnip integration. (5 days ago)
+- [mswjs/source](https://github.com/mswjs/source) - Generate MSW request handlers from various sources (HAR files, OpenAPI documents, etc). (3 days ago)
+- [bettervim/better-tmux](https://github.com/bettervim/better-tmux) - Unlock the full power of TMUX with TypeScript and JSX ⚡ (5 days ago)
+- [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) - Neovim plugin. Telescope.nvim extension that adds LuaSnip integration. (6 days ago)
 - [picosh/git-pr](https://github.com/picosh/git-pr) - the easiest git collaboration tool (1 week ago)
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal. (1 week ago)
 
