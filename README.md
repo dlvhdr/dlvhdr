@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 weeks ago)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line (5 months ago)
@@ -35,10 +35,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [gregorias/toggle.nvim](https://github.com/gregorias/toggle.nvim) - A Neovim plugin for toggling options. (today)
-- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur (1 day ago)
-- [mswjs/source](https://github.com/mswjs/source) - Generate MSW request handlers from various sources (HAR files, OpenAPI documents, etc). (4 days ago)
-- [bettervim/better-tmux](https://github.com/bettervim/better-tmux) - Unlock the full power of TMUX with TypeScript and JSX ⚡ (6 days ago)
+- [gregorias/toggle.nvim](https://github.com/gregorias/toggle.nvim) - A Neovim plugin for toggling options. (1 day ago)
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur (2 days ago)
+- [mswjs/source](https://github.com/mswjs/source) - Generate MSW request handlers from various sources (HAR files, OpenAPI documents, etc). (5 days ago)
+- [bettervim/better-tmux](https://github.com/bettervim/better-tmux) - Unlock the full power of TMUX with TypeScript and JSX ⚡ (1 week ago)
 - [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) - Neovim plugin. Telescope.nvim extension that adds LuaSnip integration. (1 week ago)
 
 #### Connect with me
