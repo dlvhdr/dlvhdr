@@ -35,11 +35,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [arisnacg/laboon](https://github.com/arisnacg/laboon) - A simple TUI that looks similar to Docker Desktop (today)
 - [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim (1 day ago)
 - [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style! (5 days ago)
 - [gregorias/toggle.nvim](https://github.com/gregorias/toggle.nvim) - A Neovim plugin for toggling options. (6 days ago)
 - [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur (1 week ago)
-- [mswjs/source](https://github.com/mswjs/source) - Generate MSW request handlers from various sources (HAR files, OpenAPI documents, etc). (1 week ago)
 
 #### Connect with me
 
