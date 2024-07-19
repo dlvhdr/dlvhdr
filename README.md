@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 weeks ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (3 weeks ago)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line (5 months ago)
@@ -35,10 +35,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim (today)
-- [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style! (4 days ago)
-- [gregorias/toggle.nvim](https://github.com/gregorias/toggle.nvim) - A Neovim plugin for toggling options. (5 days ago)
-- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur (6 days ago)
+- [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim (1 day ago)
+- [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style! (5 days ago)
+- [gregorias/toggle.nvim](https://github.com/gregorias/toggle.nvim) - A Neovim plugin for toggling options. (6 days ago)
+- [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox Theme - For dark theme lovers / More compact / Modular / Blur (1 week ago)
 - [mswjs/source](https://github.com/mswjs/source) - Generate MSW request handlers from various sources (HAR files, OpenAPI documents, etc). (1 week ago)
 
 #### Connect with me
