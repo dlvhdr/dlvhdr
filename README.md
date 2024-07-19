@@ -31,7 +31,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.3.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.3.0), 3 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.4.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.4.0), today) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
 
