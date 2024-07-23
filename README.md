@@ -35,11 +35,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (today)
 - [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Creates a &#34;Live Share&#34; server in Neovim, similar to the Visual Studio Code Live Share functionality  (3 days ago)
 - [arisnacg/laboon](https://github.com/arisnacg/laboon) - A simple TUI that looks similar to Docker Desktop (4 days ago)
 - [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim (5 days ago)
 - [sauljabin/kaskade](https://github.com/sauljabin/kaskade) - kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style! (1 week ago)
-- [gregorias/toggle.nvim](https://github.com/gregorias/toggle.nvim) - A Neovim plugin for toggling options. (1 week ago)
 
 #### Connect with me
 
