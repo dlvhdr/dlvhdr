@@ -7,9 +7,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 days ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (3 weeks ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (3 weeks ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (4 weeks ago)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line (5 months ago)
 - [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) - Easily view and address comments left on your PR using folke/trouble.nvim (5 months ago)
 
@@ -31,15 +31,15 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.4.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.4.0), 5 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.4.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.4.0), 6 days ago) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
 
-- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React (1 day ago)
-- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 day ago)
-- [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Creates a &#34;Live Share&#34; server in Neovim, similar to the Visual Studio Code Live Share functionality  (4 days ago)
-- [arisnacg/laboon](https://github.com/arisnacg/laboon) - A simple TUI that looks similar to Docker Desktop (5 days ago)
-- [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim (6 days ago)
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React (2 days ago)
+- [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (2 days ago)
+- [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Creates a &#34;Live Share&#34; server in Neovim, similar to the Visual Studio Code Live Share functionality  (5 days ago)
+- [arisnacg/laboon](https://github.com/arisnacg/laboon) - A simple TUI that looks similar to Docker Desktop (6 days ago)
+- [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim (1 week ago)
 
 #### Connect with me
 
