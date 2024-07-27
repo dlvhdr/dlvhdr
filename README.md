@@ -35,11 +35,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [zsa/kontroll](https://github.com/zsa/kontroll) - Kontroll demonstates how to control the Keymapp API, making it easy to control your ZSA keyboard from the command line and scripts. (today)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 day ago)
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React (4 days ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (4 days ago)
 - [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Creates a &#34;Live Share&#34; server in Neovim, similar to the Visual Studio Code Live Share functionality  (1 week ago)
-- [arisnacg/laboon](https://github.com/arisnacg/laboon) - A simple TUI that looks similar to Docker Desktop (1 week ago)
 
 #### Connect with me
 
