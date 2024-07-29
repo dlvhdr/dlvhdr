@@ -35,11 +35,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚 (today)
 - [zsa/kontroll](https://github.com/zsa/kontroll) - Kontroll demonstates how to control the Keymapp API, making it easy to control your ZSA keyboard from the command line and scripts. (2 days ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (3 days ago)
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React (6 days ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (6 days ago)
-- [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Creates a &#34;Live Share&#34; server in Neovim, similar to the Visual Studio Code Live Share functionality  (1 week ago)
 
 #### Connect with me
 
