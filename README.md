@@ -8,14 +8,14 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 #### 👷 Check out what I'm currently working on
 
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (3 weeks ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (4 weeks ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 month ago)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line (5 months ago)
 - [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) - Easily view and address comments left on your PR using folke/trouble.nvim (5 months ago)
 
 #### 📜 My recent blog posts
 
-- [My List of CLI Gems](https://dlvhdr.me/posts/cli-tools) (3 weeks ago)
+- [My List of CLI Gems](https://dlvhdr.me/posts/cli-tools) (4 weeks ago)
 - [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (5 months ago)
 - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (2 years ago)
 - [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (2 years ago)
@@ -35,9 +35,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚 (1 day ago)
-- [zsa/kontroll](https://github.com/zsa/kontroll) - Kontroll demonstates how to control the Keymapp API, making it easy to control your ZSA keyboard from the command line and scripts. (3 days ago)
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (4 days ago)
+- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚 (2 days ago)
+- [zsa/kontroll](https://github.com/zsa/kontroll) - Kontroll demonstates how to control the Keymapp API, making it easy to control your ZSA keyboard from the command line and scripts. (4 days ago)
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (5 days ago)
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React (1 week ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 week ago)
 
