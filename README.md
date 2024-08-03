@@ -11,7 +11,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 month ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 month ago)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line (5 months ago)
-- [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) - Easily view and address comments left on your PR using folke/trouble.nvim (5 months ago)
+- [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) - Easily view and address comments left on your PR using folke/trouble.nvim (6 months ago)
 
 #### 📜 My recent blog posts
 
@@ -35,10 +35,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (1 day ago)
-- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. (1 day ago)
-- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚 (4 days ago)
-- [zsa/kontroll](https://github.com/zsa/kontroll) - Kontroll demonstates how to control the Keymapp API, making it easy to control your ZSA keyboard from the command line and scripts. (6 days ago)
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells. (2 days ago)
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. (2 days ago)
+- [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚 (5 days ago)
+- [zsa/kontroll](https://github.com/zsa/kontroll) - Kontroll demonstates how to control the Keymapp API, making it easy to control your ZSA keyboard from the command line and scripts. (1 week ago)
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows (1 week ago)
 
 #### Connect with me
