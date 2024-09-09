@@ -36,11 +36,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output. (today)
 - [linkarzu/dotfiles-latest](https://github.com/linkarzu/dotfiles-latest) - My most up to date dotfiles (3 days ago)
 - [anthonyshew/maestros](https://github.com/anthonyshew/maestros) -  (4 days ago)
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (5 days ago)
 - [gogs/git-module](https://github.com/gogs/git-module) - Package git-module is a Go module for Git access through shell commands (1 week ago)
-- [charmbracelet/bubbletea-app-template](https://github.com/charmbracelet/bubbletea-app-template) - A template repository to create Bubbletea apps. (2 weeks ago)
 
 #### Connect with me
 
