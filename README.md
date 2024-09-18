@@ -8,10 +8,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 #### 👷 Check out what I'm currently working on
 
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) -  (today)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 month ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 months ago)
-- [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line (7 months ago)
 
 #### 📜 My recent blog posts
 
@@ -23,11 +23,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🌱 My latest projects
 
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - 
 - [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) - Easily view and address comments left on your PR using folke/trouble.nvim
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line
 - [dlvhdr/codesandbox-assignment](https://github.com/dlvhdr/codesandbox-assignment) - 
 - [dlvhdr/aoc-2022](https://github.com/dlvhdr/aoc-2022) - 
-- [dlvhdr/harbor](https://github.com/dlvhdr/harbor) - 🚢 Harbor - See which ports are exposed by your development processes and act on them
 
 #### 🔭 Latest releases I've contributed to
 
