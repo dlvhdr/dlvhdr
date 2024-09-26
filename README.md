@@ -7,10 +7,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (today)
-- [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) -  (1 day ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 day ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 day ago)
+- [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) -  (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 month ago)
 
 #### 📜 My recent blog posts
@@ -31,14 +31,14 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.1.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.1.1), today) - A git diff pager based on delta but with a file tree, à la GitHub.
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.5](https://github.com/calcom/cal.com/releases/tag/v4.5.5), 1 day ago) - Scheduling infrastructure for absolutely everyone.
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.1.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.1.1), 1 day ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.5](https://github.com/calcom/cal.com/releases/tag/v4.5.5), 2 days ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.5.4](https://github.com/dlvhdr/gh-dash/releases/tag/v4.5.4), 1 month ago) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
 
-- [ceuk/git-file-history](https://github.com/ceuk/git-file-history) - Browse all changes to a file (1 day ago)
-- [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) - Decorations for vimdoc/help files in Neovim (1 day ago)
+- [ceuk/git-file-history](https://github.com/ceuk/git-file-history) - Browse all changes to a file (2 days ago)
+- [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) - Decorations for vimdoc/help files in Neovim (2 days ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 week ago)
 - [76creates/stickers](https://github.com/76creates/stickers) - Building blocks for charmbracelet/lipgloss 👾 (1 week ago)
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems! (1 week ago)
