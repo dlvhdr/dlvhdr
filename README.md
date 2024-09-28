@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [pomdtr/fsrouter](https://github.com/pomdtr/fsrouter) - A file system based router for Deno &amp; Deno Deploy. (today)
 - [TwoBitCoders/jx](https://github.com/TwoBitCoders/jx) - jx: Memory-Safe JSON Processing using JavaScript implemented in Go (2 days ago)
 - [ceuk/git-file-history](https://github.com/ceuk/git-file-history) - Browse all changes to a file (4 days ago)
 - [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) - Decorations for vimdoc/help files in Neovim (4 days ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 week ago)
-- [76creates/stickers](https://github.com/76creates/stickers) - Building blocks for charmbracelet/lipgloss 👾 (1 week ago)
 
 #### Connect with me
 
