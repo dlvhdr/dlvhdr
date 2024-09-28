@@ -8,9 +8,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 #### 👷 Check out what I'm currently working on
 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (today)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 days ago)
-- [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) -  (3 days ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (3 days ago)
+- [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) -  (4 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 month ago)
 
 #### 📜 My recent blog posts
@@ -31,14 +31,14 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.7](https://github.com/calcom/cal.com/releases/tag/v4.5.7), 1 day ago) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.7](https://github.com/calcom/cal.com/releases/tag/v4.5.7), 2 days ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.5.4](https://github.com/dlvhdr/gh-dash/releases/tag/v4.5.4), 1 month ago) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
 
-- [TwoBitCoders/jx](https://github.com/TwoBitCoders/jx) - jx: Memory-Safe JSON Processing using JavaScript implemented in Go (1 day ago)
-- [ceuk/git-file-history](https://github.com/ceuk/git-file-history) - Browse all changes to a file (3 days ago)
-- [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) - Decorations for vimdoc/help files in Neovim (3 days ago)
+- [TwoBitCoders/jx](https://github.com/TwoBitCoders/jx) - jx: Memory-Safe JSON Processing using JavaScript implemented in Go (2 days ago)
+- [ceuk/git-file-history](https://github.com/ceuk/git-file-history) - Browse all changes to a file (4 days ago)
+- [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) - Decorations for vimdoc/help files in Neovim (4 days ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 week ago)
 - [76creates/stickers](https://github.com/76creates/stickers) - Building blocks for charmbracelet/lipgloss 👾 (1 week ago)
 
