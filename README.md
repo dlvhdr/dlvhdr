@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 (today)
 - [charm-and-friends/charm](https://github.com/charm-and-friends/charm) - The Charm Tool and Library 🌟 (today)
 - [pomdtr/fsrouter](https://github.com/pomdtr/fsrouter) - A file system based router for Deno &amp; Deno Deploy. (2 days ago)
 - [TwoBitCoders/jx](https://github.com/TwoBitCoders/jx) - jx: Memory-Safe JSON Processing using JavaScript implemented in Go (4 days ago)
 - [ceuk/git-file-history](https://github.com/ceuk/git-file-history) - Browse all changes to a file (6 days ago)
-- [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) - Decorations for vimdoc/help files in Neovim (6 days ago)
 
 #### Connect with me
 
