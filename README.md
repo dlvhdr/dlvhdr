@@ -31,6 +31,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.7.0), today) - A beautiful CLI dashboard for GitHub 🚀 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.2.5](https://github.com/dlvhdr/diffnav/releases/tag/v0.2.5), 1 day ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.8](https://github.com/calcom/cal.com/releases/tag/v4.5.8), 1 day ago) - Scheduling infrastructure for absolutely everyone.
 
