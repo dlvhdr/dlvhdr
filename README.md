@@ -7,9 +7,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 day ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (2 days ago)
 - [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) -  (1 week ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (1 month ago)
 
@@ -31,16 +31,16 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.7.0), today) - A beautiful CLI dashboard for GitHub 🚀 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.2.5](https://github.com/dlvhdr/diffnav/releases/tag/v0.2.5), 1 day ago) - A git diff pager based on delta but with a file tree, à la GitHub.
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.8](https://github.com/calcom/cal.com/releases/tag/v4.5.8), 1 day ago) - Scheduling infrastructure for absolutely everyone.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.7.0), 1 day ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.2.5](https://github.com/dlvhdr/diffnav/releases/tag/v0.2.5), 2 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.8](https://github.com/calcom/cal.com/releases/tag/v4.5.8), 2 days ago) - Scheduling infrastructure for absolutely everyone.
 
 #### ⭐ Recent Stars
 
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 (2 days ago)
-- [charm-and-friends/charm](https://github.com/charm-and-friends/charm) - The Charm Tool and Library 🌟 (2 days ago)
-- [pomdtr/fsrouter](https://github.com/pomdtr/fsrouter) - A file system based router for Deno &amp; Deno Deploy. (4 days ago)
-- [TwoBitCoders/jx](https://github.com/TwoBitCoders/jx) - jx: Memory-Safe JSON Processing using JavaScript implemented in Go (6 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 (3 days ago)
+- [charm-and-friends/charm](https://github.com/charm-and-friends/charm) - The Charm Tool and Library 🌟 (3 days ago)
+- [pomdtr/fsrouter](https://github.com/pomdtr/fsrouter) - A file system based router for Deno &amp; Deno Deploy. (5 days ago)
+- [TwoBitCoders/jx](https://github.com/TwoBitCoders/jx) - jx: Memory-Safe JSON Processing using JavaScript implemented in Go (1 week ago)
 - [ceuk/git-file-history](https://github.com/ceuk/git-file-history) - Browse all changes to a file (1 week ago)
 
 #### Connect with me
