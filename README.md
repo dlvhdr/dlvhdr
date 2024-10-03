@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.9](https://github.com/calcom/cal.com/releases/tag/v4.5.9), today) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.2.6](https://github.com/dlvhdr/diffnav/releases/tag/v0.2.6), today) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.7.0), 1 day ago) - A beautiful CLI dashboard for GitHub 🚀 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.8](https://github.com/calcom/cal.com/releases/tag/v4.5.8), 2 days ago) - Scheduling infrastructure for absolutely everyone.
 
 #### ⭐ Recent Stars
 
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40&#43; independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort (today)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 (3 days ago)
 - [charm-and-friends/charm](https://github.com/charm-and-friends/charm) - The Charm Tool and Library 🌟 (3 days ago)
 - [pomdtr/fsrouter](https://github.com/pomdtr/fsrouter) - A file system based router for Deno &amp; Deno Deploy. (5 days ago)
 - [TwoBitCoders/jx](https://github.com/TwoBitCoders/jx) - jx: Memory-Safe JSON Processing using JavaScript implemented in Go (1 week ago)
-- [ceuk/git-file-history](https://github.com/ceuk/git-file-history) - Browse all changes to a file (1 week ago)
 
 #### Connect with me
 
