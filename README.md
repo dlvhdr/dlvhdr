@@ -32,16 +32,15 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 #### 🔭 Latest releases I've contributed to
 
 - [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.9](https://github.com/calcom/cal.com/releases/tag/v4.5.9), 1 day ago) - Scheduling infrastructure for absolutely everyone.
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.2.6](https://github.com/dlvhdr/diffnav/releases/tag/v0.2.6), 1 day ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.7.0), 2 days ago) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
 
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (today)
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40&#43; independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort (1 day ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 (4 days ago)
 - [charm-and-friends/charm](https://github.com/charm-and-friends/charm) - The Charm Tool and Library 🌟 (4 days ago)
 - [pomdtr/fsrouter](https://github.com/pomdtr/fsrouter) - A file system based router for Deno &amp; Deno Deploy. (6 days ago)
-- [TwoBitCoders/jx](https://github.com/TwoBitCoders/jx) - jx: Memory-Safe JSON Processing using JavaScript implemented in Go (1 week ago)
 
 #### Connect with me
 
