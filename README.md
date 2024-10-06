@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [rlcurrall/muxi](https://github.com/rlcurrall/muxi) -  (today)
 - [AmosNimos/Pix](https://github.com/AmosNimos/Pix) - A pixel art editor in python for the terminal emulator (1 day ago)
 - [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (2 days ago)
 - [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40&#43; independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort (3 days ago)
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 (6 days ago)
-- [charm-and-friends/charm](https://github.com/charm-and-friends/charm) - The Charm Tool and Library 🌟 (6 days ago)
 
 #### Connect with me
 
