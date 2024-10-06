@@ -7,16 +7,16 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (today)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (3 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 day ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (4 days ago)
 - [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) -  (1 week ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (2 months ago)
 
 #### 📜 My recent blog posts
 
 - [My List of CLI Gems](https://dlvhdr.me/posts/cli-tools) (3 months ago)
-- [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (7 months ago)
+- [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (8 months ago)
 - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (2 years ago)
 - [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (2 years ago)
 - [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (2 years ago)
@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.2.8](https://github.com/dlvhdr/diffnav/releases/tag/v0.2.8), today) - A git diff pager based on delta but with a file tree, à la GitHub.
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.9](https://github.com/calcom/cal.com/releases/tag/v4.5.9), 2 days ago) - Scheduling infrastructure for absolutely everyone.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.7.0), 3 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.2.8](https://github.com/dlvhdr/diffnav/releases/tag/v0.2.8), 1 day ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.9](https://github.com/calcom/cal.com/releases/tag/v4.5.9), 3 days ago) - Scheduling infrastructure for absolutely everyone.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.7.0), 4 days ago) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
 
-- [AmosNimos/Pix](https://github.com/AmosNimos/Pix) - A pixel art editor in python for the terminal emulator (today)
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (1 day ago)
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40&#43; independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort (2 days ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 (5 days ago)
-- [charm-and-friends/charm](https://github.com/charm-and-friends/charm) - The Charm Tool and Library 🌟 (5 days ago)
+- [AmosNimos/Pix](https://github.com/AmosNimos/Pix) - A pixel art editor in python for the terminal emulator (1 day ago)
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (2 days ago)
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40&#43; independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort (3 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 (6 days ago)
+- [charm-and-friends/charm](https://github.com/charm-and-friends/charm) - The Charm Tool and Library 🌟 (6 days ago)
 
 #### Connect with me
 
