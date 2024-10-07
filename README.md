@@ -7,9 +7,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 day ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (4 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (2 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (5 days ago)
 - [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) -  (1 week ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (2 months ago)
 
@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.2.8](https://github.com/dlvhdr/diffnav/releases/tag/v0.2.8), 1 day ago) - A git diff pager based on delta but with a file tree, à la GitHub.
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.9](https://github.com/calcom/cal.com/releases/tag/v4.5.9), 3 days ago) - Scheduling infrastructure for absolutely everyone.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.7.0), 4 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.2.8](https://github.com/dlvhdr/diffnav/releases/tag/v0.2.8), 2 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.9](https://github.com/calcom/cal.com/releases/tag/v4.5.9), 4 days ago) - Scheduling infrastructure for absolutely everyone.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.7.0), 5 days ago) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
 
-- [rlcurrall/muxi](https://github.com/rlcurrall/muxi) -  (today)
-- [AmosNimos/Pix](https://github.com/AmosNimos/Pix) - A pixel art editor in python for the terminal emulator (1 day ago)
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (2 days ago)
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40&#43; independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort (3 days ago)
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 (6 days ago)
+- [rlcurrall/muxi](https://github.com/rlcurrall/muxi) -  (1 day ago)
+- [AmosNimos/Pix](https://github.com/AmosNimos/Pix) - A pixel art editor in python for the terminal emulator (2 days ago)
+- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (3 days ago)
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40&#43; independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort (4 days ago)
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 (1 week ago)
 
 #### Connect with me
 
