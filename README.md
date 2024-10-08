@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim  (1 day ago)
 - [blacktop/go-gitfamous](https://github.com/blacktop/go-gitfamous) - Github Event Tracker TUI (1 day ago)
 - [rlcurrall/muxi](https://github.com/rlcurrall/muxi) -  (2 days ago)
 - [AmosNimos/Pix](https://github.com/AmosNimos/Pix) - A pixel art editor in python for the terminal emulator (3 days ago)
-- [oxc-project/oxc](https://github.com/oxc-project/oxc) - ⚓ A collection of JavaScript tools written in Rust. (4 days ago)
 
 #### Connect with me
 
