@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [ajayd-san/gomanagedocker](https://github.com/ajayd-san/gomanagedocker) - TUI tool to manage your docker images, containers and volumes 🚀 (today)
 - [NvChad/volt](https://github.com/NvChad/volt) - Plugin for creating reactive UI  in neovim (1 day ago)
 - [iguanacucumber/magazine.nvim](https://github.com/iguanacucumber/magazine.nvim) - nvim-cmp fork (1 day ago)
 - [isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim) - Git Graph plugin for neovim (1 day ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 day ago)
-- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim  (2 days ago)
 
 #### Connect with me
 
