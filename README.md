@@ -10,7 +10,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
-- [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) -  (2 weeks ago)
+- [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) -  (3 weeks ago)
 - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (2 months ago)
 
 #### 📜 My recent blog posts
@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.11](https://github.com/calcom/cal.com/releases/tag/v4.5.11), 4 days ago) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.5.11](https://github.com/calcom/cal.com/releases/tag/v4.5.11), 5 days ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.2.8](https://github.com/dlvhdr/diffnav/releases/tag/v0.2.8), 1 week ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.7.0), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
 
-- [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (2 days ago)
-- [ajayd-san/gomanagedocker](https://github.com/ajayd-san/gomanagedocker) - TUI tool to manage your docker images, containers and volumes 🚀 (5 days ago)
-- [NvChad/volt](https://github.com/NvChad/volt) - Plugin for creating reactive UI  in neovim (6 days ago)
-- [iguanacucumber/magazine.nvim](https://github.com/iguanacucumber/magazine.nvim) - nvim-cmp fork (6 days ago)
-- [isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim) - Git Graph plugin for neovim (6 days ago)
+- [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (3 days ago)
+- [ajayd-san/gomanagedocker](https://github.com/ajayd-san/gomanagedocker) - TUI tool to manage your docker images, containers and volumes 🚀 (6 days ago)
+- [NvChad/volt](https://github.com/NvChad/volt) - Plugin for creating reactive UI  in neovim (1 week ago)
+- [iguanacucumber/magazine.nvim](https://github.com/iguanacucumber/magazine.nvim) - nvim-cmp fork (1 week ago)
+- [isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim) - Git Graph plugin for neovim (1 week ago)
 
 #### Connect with me
 
