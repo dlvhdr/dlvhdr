@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [komodorio/mono](https://github.com/komodorio/mono) - Komodor mono repo (today)
 - [charm-and-friends/charm-in-the-wild](https://github.com/charm-and-friends/charm-in-the-wild) - Featuring only the most showstopping, glamorous CLI tooling out there... (3 days ago)
 - [ajayd-san/gomanagedocker](https://github.com/ajayd-san/gomanagedocker) - TUI tool to manage your docker images, containers and volumes 🚀 (6 days ago)
 - [NvChad/volt](https://github.com/NvChad/volt) - Plugin for creating reactive UI  in neovim (1 week ago)
 - [iguanacucumber/magazine.nvim](https://github.com/iguanacucumber/magazine.nvim) - nvim-cmp fork (1 week ago)
-- [isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim) - Git Graph plugin for neovim (1 week ago)
 
 #### Connect with me
 
