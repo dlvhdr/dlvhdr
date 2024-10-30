@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) - Neovim plugin to work GitHub PRs quickly. (today)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (3 days ago)
 - [Textualize/textual-demo](https://github.com/Textualize/textual-demo) - Quick access to the Textual demo (4 days ago)
 - [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language (2 weeks ago)
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (2 weeks ago)
-- [komodorio/mono](https://github.com/komodorio/mono) - Komodor mono repo (2 weeks ago)
 
 #### Connect with me
 
