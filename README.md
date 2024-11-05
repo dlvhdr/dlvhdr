@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 days ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 month ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 month ago)
 - [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) -  (1 month ago)
@@ -16,7 +16,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 #### 📜 My recent blog posts
 
 - [My List of CLI Gems](https://dlvhdr.me/posts/cli-tools) (4 months ago)
-- [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (8 months ago)
+- [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (9 months ago)
 - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (2 years ago)
 - [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (2 years ago)
 - [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (2 years ago)
@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.6.16](https://github.com/calcom/cal.com/releases/tag/v4.6.16), today) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.6.16](https://github.com/calcom/cal.com/releases/tag/v4.6.16), 1 day ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.2.8](https://github.com/dlvhdr/diffnav/releases/tag/v0.2.8), 1 month ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.7.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.7.0), 1 month ago) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
 
-- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin (3 days ago)
-- [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) - Neovim plugin to work GitHub PRs quickly. (5 days ago)
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (1 day ago)
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite. (1 day ago)
+- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin (4 days ago)
+- [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) - Neovim plugin to work GitHub PRs quickly. (6 days ago)
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (1 week ago)
-- [Textualize/textual-demo](https://github.com/Textualize/textual-demo) - Quick access to the Textual demo (1 week ago)
-- [AvitalTamir/cyphernetes](https://github.com/AvitalTamir/cyphernetes) - A Kubernetes Query Language (2 weeks ago)
 
 #### Connect with me
 
