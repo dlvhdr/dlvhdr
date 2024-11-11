@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 day ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 month ago)
 - [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) -  (1 month ago)
@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.7.3](https://github.com/dlvhdr/gh-dash/releases/tag/v4.7.3), today) - A beautiful CLI dashboard for GitHub 🚀 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.6.20](https://github.com/calcom/cal.com/releases/tag/v4.6.20), 1 day ago) - Scheduling infrastructure for absolutely everyone.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.7.3](https://github.com/dlvhdr/gh-dash/releases/tag/v4.7.3), 1 day ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.6.20](https://github.com/calcom/cal.com/releases/tag/v4.6.20), 2 days ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.2.8](https://github.com/dlvhdr/diffnav/releases/tag/v0.2.8), 1 month ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (6 days ago)
-- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite. (6 days ago)
+- [DaltonSW/BubbleUp](https://github.com/DaltonSW/BubbleUp) - Floats your alerts to the front of your BubbleTea application (1 day ago)
+- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (1 week ago)
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite. (1 week ago)
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin (1 week ago)
 - [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) - Neovim plugin to work GitHub PRs quickly. (1 week ago)
-- [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style! (2 weeks ago)
 
 #### Connect with me
 
