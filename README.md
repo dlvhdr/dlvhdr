@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩 (today)
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of small QoL plugins for Neovim (3 days ago)
 - [raphamorim/rio](https://github.com/raphamorim/rio) - A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers. (4 days ago)
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you! (5 days ago)
 - [DaltonSW/BubbleUp](https://github.com/DaltonSW/BubbleUp) - Floats your alerts to the front of your BubbleTea application (1 week ago)
-- [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager (2 weeks ago)
 
 #### Connect with me
 
