@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [mistakenelf/bubbletea-starter](https://github.com/mistakenelf/bubbletea-starter) - Starting point for a bubbletea app (today)
 - [felipeospina21/mrglab](https://github.com/felipeospina21/mrglab) - Gitlab Merge Requests TUI (1 week ago)
 - [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals (2 weeks ago)
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app (2 weeks ago)
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins (2 weeks ago)
-- [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim) - Imitate VSCode&#39;s &#34;Render Whitespace&#34; feature in visual mode (2 weeks ago)
 
 #### Connect with me
 
