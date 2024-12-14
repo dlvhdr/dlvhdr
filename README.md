@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [omranjamal/mono-cd](https://github.com/omranjamal/mono-cd) - Simpler than fzf, more predictable than zoxide, perfect for JavaScript monorepos when cd-ing into monorepo workspace directories. (today)
+- [davestewart/spaceman](https://github.com/davestewart/spaceman) - Manage monorepo workspaces with a prompt-based CLI (today)
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git (6 days ago)
 - [mistakenelf/bubbletea-starter](https://github.com/mistakenelf/bubbletea-starter) - Starting point for a bubbletea app (6 days ago)
 - [felipeospina21/mrglab](https://github.com/felipeospina21/mrglab) - Gitlab Merge Requests TUI (2 weeks ago)
-- [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) - 🌠 Neovim plugin to animate the cursor with a smear effect in all terminals (2 weeks ago)
-- [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app (3 weeks ago)
 
 #### Connect with me
 
