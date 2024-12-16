@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) - spellcheck dictionary for programmers 📖 (today)
 - [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers (2 days ago)
 - [omranjamal/mono-cd](https://github.com/omranjamal/mono-cd) - Simpler than fzf, more predictable than zoxide, perfect for JavaScript monorepos when cd-ing into monorepo workspace directories. (2 days ago)
 - [davestewart/spaceman](https://github.com/davestewart/spaceman) - Manage monorepo workspaces with a prompt-based CLI (2 days ago)
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git (1 week ago)
-- [mistakenelf/bubbletea-starter](https://github.com/mistakenelf/bubbletea-starter) - Starting point for a bubbletea app (1 week ago)
 
 #### Connect with me
 
