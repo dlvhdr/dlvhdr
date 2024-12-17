@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 days ago)
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 month ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (2 months ago)
@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.8.1](https://github.com/calcom/cal.com/releases/tag/v4.8.1), today) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.8.1](https://github.com/calcom/cal.com/releases/tag/v4.8.1), 1 day ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.7.3](https://github.com/dlvhdr/gh-dash/releases/tag/v4.7.3), 1 month ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.2.8](https://github.com/dlvhdr/diffnav/releases/tag/v0.2.8), 2 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [ravibrock/spellwarn.nvim](https://github.com/ravibrock/spellwarn.nvim) - Display spelling errors as diagnostics (today)
-- [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) - spellcheck dictionary for programmers 📖 (today)
-- [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers (2 days ago)
-- [omranjamal/mono-cd](https://github.com/omranjamal/mono-cd) - Simpler than fzf, more predictable than zoxide, perfect for JavaScript monorepos when cd-ing into monorepo workspace directories. (2 days ago)
-- [davestewart/spaceman](https://github.com/davestewart/spaceman) - Manage monorepo workspaces with a prompt-based CLI (2 days ago)
+- [ravibrock/spellwarn.nvim](https://github.com/ravibrock/spellwarn.nvim) - Display spelling errors as diagnostics (1 day ago)
+- [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) - spellcheck dictionary for programmers 📖 (1 day ago)
+- [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers (3 days ago)
+- [omranjamal/mono-cd](https://github.com/omranjamal/mono-cd) - Simpler than fzf, more predictable than zoxide, perfect for JavaScript monorepos when cd-ing into monorepo workspace directories. (3 days ago)
+- [davestewart/spaceman](https://github.com/davestewart/spaceman) - Manage monorepo workspaces with a prompt-based CLI (3 days ago)
 
 #### Connect with me
 
