@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (today)
 - [triyanox/lla](https://github.com/triyanox/lla) - blazing fast `ls` replacement with superpowers (today)
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (2 days ago)
 - [ravibrock/spellwarn.nvim](https://github.com/ravibrock/spellwarn.nvim) - Display spelling errors as diagnostics (4 days ago)
 - [psliwka/vim-dirtytalk](https://github.com/psliwka/vim-dirtytalk) - spellcheck dictionary for programmers 📖 (4 days ago)
-- [benjajaja/mdfried](https://github.com/benjajaja/mdfried) - A markdown viewer for the terminal that renders images and big headers (6 days ago)
 
 #### Connect with me
 
