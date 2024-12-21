@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [yazi-rs/flavors](https://github.com/yazi-rs/flavors) - Some Yazi flavors maintained by community. (today)
 - [LitRidl/EdenVim](https://github.com/LitRidl/EdenVim) - A perfect starting point for your personal, full-featured Neovim config. No fancy abstractions — just plain and simple. You can use it on NixOS, btw. (today)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 day ago)
 - [triyanox/lla](https://github.com/triyanox/lla) - blazing fast `ls` replacement with superpowers (1 day ago)
 - [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (3 days ago)
-- [ravibrock/spellwarn.nvim](https://github.com/ravibrock/spellwarn.nvim) - Display spelling errors as diagnostics (5 days ago)
 
 #### Connect with me
 
