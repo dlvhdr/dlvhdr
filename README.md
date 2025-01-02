@@ -31,14 +31,14 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.8.11](https://github.com/calcom/cal.com/releases/tag/v4.8.11), 2 days ago) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.8.11](https://github.com/calcom/cal.com/releases/tag/v4.8.11), 3 days ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.8.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.8.1), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.2.8](https://github.com/dlvhdr/diffnav/releases/tag/v0.2.8), 2 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com (5 days ago)
-- [port-labs/backstage-plugin](https://github.com/port-labs/backstage-plugin) - Ramp up Backstage quickly, one plugin for all data sources. (6 days ago)
+- [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com (6 days ago)
+- [port-labs/backstage-plugin](https://github.com/port-labs/backstage-plugin) - Ramp up Backstage quickly, one plugin for all data sources. (1 week ago)
 - [yazi-rs/flavors](https://github.com/yazi-rs/flavors) - Some Yazi flavors maintained by community. (1 week ago)
 - [LitRidl/EdenVim](https://github.com/LitRidl/EdenVim) - A perfect starting point for your personal, full-featured Neovim config. No fancy abstractions — just plain and simple. You can use it on NixOS, btw. (1 week ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 week ago)
