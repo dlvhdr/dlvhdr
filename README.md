@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals (today)
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92] (4 days ago)
 - [addyosmani/firew0rks](https://github.com/addyosmani/firew0rks) - Fireworks in your terminal 🎆 (5 days ago)
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com (1 week ago)
 - [port-labs/backstage-plugin](https://github.com/port-labs/backstage-plugin) - Ramp up Backstage quickly, one plugin for all data sources. (1 week ago)
-- [yazi-rs/flavors](https://github.com/yazi-rs/flavors) - Some Yazi flavors maintained by community. (2 weeks ago)
 
 #### Connect with me
 
