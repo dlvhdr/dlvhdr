@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [joshmedeski/dotfiles](https://github.com/joshmedeski/dotfiles) - Josh&#39;s dotfiles for his developer environment (today)
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison&#39;s Neovim configuration! (3 days ago)
 - [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig (4 days ago)
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (4 days ago)
 - [chshersh/github-tui](https://github.com/chshersh/github-tui) - 🌒 A TUI for GitHub (2 weeks ago)
-- [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals (2 weeks ago)
 
 #### Connect with me
 
