@@ -7,15 +7,15 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (4 days ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (5 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
 - [port-labs/port-docs](https://github.com/port-labs/port-docs) - The open-source repo for docs.getport.io (1 month ago)
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (1 month ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (3 months ago)
 
 #### 📜 My recent blog posts
 
-- [My List of CLI Gems](https://dlvhdr.me/posts/cli-tools) (6 months ago)
+- [My List of CLI Gems](https://dlvhdr.me/posts/cli-tools) (7 months ago)
 - [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (11 months ago)
 - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (2 years ago)
 - [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (2 years ago)
@@ -31,16 +31,16 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.11.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.11.0), 3 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.11.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.11.0), 4 days ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [calcom/cal.com](https://github.com/calcom/cal.com) ([v4.9.4](https://github.com/calcom/cal.com/releases/tag/v4.9.4), 1 week ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.0), 3 weeks ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [joshmedeski/dotfiles](https://github.com/joshmedeski/dotfiles) - Josh&#39;s dotfiles for his developer environment (today)
-- [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison&#39;s Neovim configuration! (3 days ago)
-- [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig (4 days ago)
-- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (4 days ago)
+- [joshmedeski/dotfiles](https://github.com/joshmedeski/dotfiles) - Josh&#39;s dotfiles for his developer environment (1 day ago)
+- [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison&#39;s Neovim configuration! (4 days ago)
+- [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig (5 days ago)
+- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (5 days ago)
 - [chshersh/github-tui](https://github.com/chshersh/github-tui) - 🌒 A TUI for GitHub (2 weeks ago)
 
 #### Connect with me
