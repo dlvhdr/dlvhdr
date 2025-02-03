@@ -7,8 +7,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 day ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 days ago)
 - [port-labs/port-docs](https://github.com/port-labs/port-docs) - The open-source repo for docs.getport.io (1 month ago)
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (1 month ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (4 months ago)
@@ -16,7 +16,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 #### 📜 My recent blog posts
 
 - [My List of CLI Gems](https://dlvhdr.me/posts/cli-tools) (7 months ago)
-- [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (11 months ago)
+- [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (1 year ago)
 - [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (2 years ago)
 - [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (2 years ago)
 - [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (2 years ago)
@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project (1 day ago)
-- [joshmedeski/dotfiles](https://github.com/joshmedeski/dotfiles) - Josh&#39;s dotfiles for his developer environment (5 days ago)
+- [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (1 day ago)
+- [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project (2 days ago)
+- [joshmedeski/dotfiles](https://github.com/joshmedeski/dotfiles) - Josh&#39;s dotfiles for his developer environment (6 days ago)
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison&#39;s Neovim configuration! (1 week ago)
 - [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig (1 week ago)
-- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing (1 week ago)
 
 #### Connect with me
 
