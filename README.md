@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [kraenhansen/resolution-explorer](https://github.com/kraenhansen/resolution-explorer) - Interactive explorer, to better understand the how the TypeScript compiler resolved modules. (today)
 - [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (6 days ago)
 - [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project (1 week ago)
 - [joshmedeski/dotfiles](https://github.com/joshmedeski/dotfiles) - Josh&#39;s dotfiles for his developer environment (1 week ago)
 - [b0o/nvim-conf](https://github.com/b0o/nvim-conf) - ☄ Maddison&#39;s Neovim configuration! (2 weeks ago)
-- [rockorager/libvaxis](https://github.com/rockorager/libvaxis) - a modern tui library written in zig (2 weeks ago)
 
 #### Connect with me
 
