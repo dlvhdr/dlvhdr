@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (today)
 - [boltlessengineer/sense.nvim](https://github.com/boltlessengineer/sense.nvim) - Expand your neovim sense with small UI components (1 day ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 week ago)
 - [kraenhansen/resolution-explorer](https://github.com/kraenhansen/resolution-explorer) - Interactive explorer, to better understand the how the TypeScript compiler resolved modules. (2 weeks ago)
-- [trycua/lume](https://github.com/trycua/lume) - A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon. (2 weeks ago)
-- [loichyan/nerdfix](https://github.com/loichyan/nerdfix) - 🔣 nerdfix helps you to find/fix obsolete Nerd Font icons in your project (3 weeks ago)
 
 #### Connect with me
 
