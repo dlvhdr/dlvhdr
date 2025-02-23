@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 day ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 - [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (1 week ago)
 - [port-labs/port-docs](https://github.com/port-labs/port-docs) - The open-source repo for docs.getport.io (2 months ago)
@@ -31,15 +31,15 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.12.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.12.0), today) - A beautiful CLI dashboard for GitHub 🚀 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.0.5](https://github.com/calcom/cal.com/releases/tag/v5.0.5), 1 day ago) - Scheduling infrastructure for absolutely everyone.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.12.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.12.0), 1 day ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.0.5](https://github.com/calcom/cal.com/releases/tag/v5.0.5), 2 days ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.0), 1 month ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (today)
-- [boltlessengineer/sense.nvim](https://github.com/boltlessengineer/sense.nvim) - Expand your neovim sense with small UI components (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (1 day ago)
+- [boltlessengineer/sense.nvim](https://github.com/boltlessengineer/sense.nvim) - Expand your neovim sense with small UI components (2 days ago)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 week ago)
 - [kraenhansen/resolution-explorer](https://github.com/kraenhansen/resolution-explorer) - Interactive explorer, to better understand the how the TypeScript compiler resolved modules. (2 weeks ago)
 
