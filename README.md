@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more! (today)
 - [elves/elvish](https://github.com/elves/elvish) - Powerful scripting language &amp; versatile interactive shell (1 day ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands (2 days ago)
 - [boltlessengineer/sense.nvim](https://github.com/boltlessengineer/sense.nvim) - Expand your neovim sense with small UI components (3 days ago)
-- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources (1 week ago)
 
 #### Connect with me
 
