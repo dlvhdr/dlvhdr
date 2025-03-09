@@ -7,11 +7,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 day ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 days ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 weeks ago)
 - [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (3 weeks ago)
 - [port-labs/port-docs](https://github.com/port-labs/port-docs) - The open-source repo for docs.getport.io (2 months ago)
-- [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (2 months ago)
+- [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (3 months ago)
 
 #### 📜 My recent blog posts
 
@@ -31,16 +31,16 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.13.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.13.0), 1 day ago) - A beautiful CLI dashboard for GitHub 🚀 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.0.13](https://github.com/calcom/cal.com/releases/tag/v5.0.13), 1 day ago) - Scheduling infrastructure for absolutely everyone.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.13.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.13.0), 2 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.0.13](https://github.com/calcom/cal.com/releases/tag/v5.0.13), 2 days ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.0), 2 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (today)
-- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript (5 days ago)
-- [bogzbonny/yeehaw](https://github.com/bogzbonny/yeehaw) - TUI Framework With Batteries Included (6 days ago)
-- [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript&#39;s 1:1 validator, optimized from editor to runtime (6 days ago)
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (1 day ago)
+- [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript (6 days ago)
+- [bogzbonny/yeehaw](https://github.com/bogzbonny/yeehaw) - TUI Framework With Batteries Included (1 week ago)
+- [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript&#39;s 1:1 validator, optimized from editor to runtime (1 week ago)
 - [go-sprout/sprout](https://github.com/go-sprout/sprout) - From sprig to sprout - Useful template functions for Go templates with steroids (1 week ago)
 
 #### Connect with me
