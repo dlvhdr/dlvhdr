@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (today)
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix (1 day ago)
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫 (3 days ago)
 - [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - Json Schema Type Builder with Static Type Resolution for TypeScript (1 week ago)
 - [bogzbonny/yeehaw](https://github.com/bogzbonny/yeehaw) - TUI Framework With Batteries Included (1 week ago)
-- [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript&#39;s 1:1 validator, optimized from editor to runtime (1 week ago)
 
 #### Connect with me
 
