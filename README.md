@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (5 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (6 days ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 weeks ago)
 - [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (1 month ago)
 - [port-labs/port-docs](https://github.com/port-labs/port-docs) - The open-source repo for docs.getport.io (3 months ago)
@@ -31,14 +31,14 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.1.10](https://github.com/calcom/cal.com/releases/tag/v5.1.10), today) - Scheduling infrastructure for absolutely everyone.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.13.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.13.0), 2 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.1.10](https://github.com/calcom/cal.com/releases/tag/v5.1.10), 1 day ago) - Scheduling infrastructure for absolutely everyone.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.13.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.13.0), 3 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.0), 2 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [croian/mouseless](https://github.com/croian/mouseless) - Bug tracking and more for Mouseless (3 days ago)
-- [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming) (5 days ago)
+- [croian/mouseless](https://github.com/croian/mouseless) - Bug tracking and more for Mouseless (4 days ago)
+- [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming) (6 days ago)
 - [ynqa/empiriqa](https://github.com/ynqa/empiriqa) - For empiricists... (1 week ago)
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (2 weeks ago)
 - [tvlfyi/tvix](https://github.com/tvlfyi/tvix) - Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix (2 weeks ago)
