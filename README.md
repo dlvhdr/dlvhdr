@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output (today)
 - [elva-labs/awsesh](https://github.com/elva-labs/awsesh) - A charming TUI for AWS SSO session management ✨ (today)
 - [croian/mouseless](https://github.com/croian/mouseless) - Bug tracking and more for Mouseless (5 days ago)
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming) (1 week ago)
 - [ynqa/empiriqa](https://github.com/ynqa/empiriqa) - For empiricists... (1 week ago)
-- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript (2 weeks ago)
 
 #### Connect with me
 
