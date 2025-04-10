@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua. (today)
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output (1 week ago)
 - [elva-labs/awsesh](https://github.com/elva-labs/awsesh) - A charming TUI for AWS SSO session management ✨ (1 week ago)
 - [croian/mouseless](https://github.com/croian/mouseless) - Bug tracking and more for Mouseless (2 weeks ago)
 - [ynqa/sig](https://github.com/ynqa/sig) - Interactive grep (for streaming) (2 weeks ago)
-- [ynqa/empiriqa](https://github.com/ynqa/empiriqa) - For empiricists... (3 weeks ago)
 
 #### Connect with me
 
