@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (today)
 - [webtui/webtui](https://github.com/webtui/webtui) -  (today)
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua. (3 days ago)
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output (2 weeks ago)
 - [elva-labs/awsesh](https://github.com/elva-labs/awsesh) - A charming TUI for AWS SSO session management ✨ (2 weeks ago)
-- [croian/mouseless](https://github.com/croian/mouseless) - Bug tracking and more for Mouseless (2 weeks ago)
 
 #### Connect with me
 
