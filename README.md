@@ -31,16 +31,16 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.2.2](https://github.com/calcom/cal.com/releases/tag/v5.2.2), 2 days ago) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.2.2](https://github.com/calcom/cal.com/releases/tag/v5.2.2), 3 days ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.14.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.14.0), 3 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.0), 3 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions. (today)
-- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39; (4 days ago)
-- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (6 days ago)
-- [webtui/webtui](https://github.com/webtui/webtui) -  (6 days ago)
+- [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions. (1 day ago)
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39; (5 days ago)
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference (1 week ago)
+- [webtui/webtui](https://github.com/webtui/webtui) -  (1 week ago)
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) - Snippet Engine for Neovim written in Lua. (1 week ago)
 
 #### Connect with me
