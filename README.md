@@ -7,9 +7,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 weeks ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 weeks ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (2 weeks ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 weeks ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (3 weeks ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (3 weeks ago)
 - [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (2 months ago)
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (4 months ago)
 
@@ -31,16 +31,16 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.2.6](https://github.com/calcom/cal.com/releases/tag/v5.2.6), 1 day ago) - Scheduling infrastructure for absolutely everyone.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.14.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.14.0), 3 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.2.6](https://github.com/calcom/cal.com/releases/tag/v5.2.6), 2 days ago) - Scheduling infrastructure for absolutely everyone.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.14.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.14.0), 4 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.0), 3 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [johnseth97/gh-dash.nvim](https://github.com/johnseth97/gh-dash.nvim) - Floating window and lualine integration  for the popular gh-dash terminal UI (today)
-- [shalev007/restbook](https://github.com/shalev007/restbook) - RestBook is an open-source CLI tool for orchestrating complex API workflows using simple YAML playbooks. (1 day ago)
-- [thiagokokada/gh-gfm-preview](https://github.com/thiagokokada/gh-gfm-preview) - A standalone/GitHub CLI extension to preview GitHub Flavored Markdown, even offline. (5 days ago)
-- [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions. (6 days ago)
+- [johnseth97/gh-dash.nvim](https://github.com/johnseth97/gh-dash.nvim) - Floating window and lualine integration  for the popular gh-dash terminal UI (1 day ago)
+- [shalev007/restbook](https://github.com/shalev007/restbook) - RestBook is an open-source CLI tool for orchestrating complex API workflows using simple YAML playbooks. (2 days ago)
+- [thiagokokada/gh-gfm-preview](https://github.com/thiagokokada/gh-gfm-preview) - A standalone/GitHub CLI extension to preview GitHub Flavored Markdown, even offline. (6 days ago)
+- [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions. (1 week ago)
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to &#39;find&#39; (1 week ago)
 
 #### Connect with me
