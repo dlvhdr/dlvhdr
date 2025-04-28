@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]  (today)
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS &amp; Flakes in detail? Looking for a beginner-friendly tutorial? Then you&#39;ve come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！ (2 days ago)
 - [johnseth97/gh-dash.nvim](https://github.com/johnseth97/gh-dash.nvim) - Floating window and lualine integration  for the popular gh-dash terminal UI (3 days ago)
 - [shalev007/restbook](https://github.com/shalev007/restbook) - RestBook is an open-source CLI tool for orchestrating complex API workflows using simple YAML playbooks. (4 days ago)
 - [thiagokokada/gh-gfm-preview](https://github.com/thiagokokada/gh-gfm-preview) - A standalone/GitHub CLI extension to preview GitHub Flavored Markdown, even offline. (1 week ago)
-- [JustAman62/undercut-f1](https://github.com/JustAman62/undercut-f1) - F1 Live Timing TUI for all F1 sessions with variable delay to sync to your TV. Supports replaying previously recorded sessions. (1 week ago)
 
 #### Connect with me
 
