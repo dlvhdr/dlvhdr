@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser. (today)
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker&#39;s browser. (2 days ago)
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt. (2 days ago)
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (4 days ago)
 - [cli/go-gh](https://github.com/cli/go-gh) - A Go module for interacting with gh and the GitHub API from the command line.  (4 days ago)
-- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better &#39;df&#39; alternative (4 days ago)
 
 #### Connect with me
 
