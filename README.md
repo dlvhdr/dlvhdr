@@ -7,9 +7,9 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (3 days ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (4 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (4 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (5 days ago)
 - [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (2 months ago)
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (5 months ago)
 
@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.2.16](https://github.com/calcom/cal.com/releases/tag/v5.2.16), 1 day ago) - Scheduling infrastructure for absolutely everyone.
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 4 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.15.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.15.0), 4 days ago) - A beautiful CLI dashboard for GitHub 🚀 
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.2.17](https://github.com/calcom/cal.com/releases/tag/v5.2.17), 1 day ago) - Scheduling infrastructure for absolutely everyone.
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 5 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.15.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.15.0), 5 days ago) - A beautiful CLI dashboard for GitHub 🚀 
 
 #### ⭐ Recent Stars
 
-- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (1 day ago)
-- [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design (1 day ago)
-- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser. (1 day ago)
-- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker&#39;s browser. (3 days ago)
-- [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt. (3 days ago)
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (2 days ago)
+- [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design (2 days ago)
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser. (2 days ago)
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker&#39;s browser. (4 days ago)
+- [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt. (4 days ago)
 
 #### Connect with me
 
