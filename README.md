@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [sairash/aimssh](https://github.com/sairash/aimssh) - SSH Pomodoro app (today)
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history (5 days ago)
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design (5 days ago)
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla&#39;s Firefox web browser. (5 days ago)
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker&#39;s browser. (1 week ago)
-- [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt. (1 week ago)
 
 #### Connect with me
 
