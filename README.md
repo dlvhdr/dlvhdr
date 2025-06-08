@@ -37,10 +37,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World&#39;s neatest Pomodoro timer for macOS menu bar (1 day ago)
-- [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors (1 day ago)
-- [pomdtr/tweety](https://github.com/pomdtr/tweety) - An integrated terminal for your browser (4 days ago)
-- [organic-no-ai/web-site](https://github.com/organic-no-ai/web-site) - Web site source for organic-no-ai.org (4 days ago)
+- [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World&#39;s neatest Pomodoro timer for macOS menu bar (2 days ago)
+- [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors (2 days ago)
+- [pomdtr/tweety](https://github.com/pomdtr/tweety) - An integrated terminal for your browser (5 days ago)
+- [organic-no-ai/web-site](https://github.com/organic-no-ai/web-site) - Web site source for organic-no-ai.org (5 days ago)
 - [microsoft/tui-test](https://github.com/microsoft/tui-test) - An end-to-end terminal testing framework for CLI and TUI experiences (1 week ago)
 
 #### Connect with me
