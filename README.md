@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (today)
 - [ashish0kumar/gostty](https://github.com/ashish0kumar/gostty) - 👻 The iconic ghostty animation for your terminal (1 day ago)
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals (5 days ago)
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World&#39;s neatest Pomodoro timer for macOS menu bar (1 week ago)
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors (1 week ago)
-- [pomdtr/tweety](https://github.com/pomdtr/tweety) - An integrated terminal for your browser (2 weeks ago)
 
 #### Connect with me
 
