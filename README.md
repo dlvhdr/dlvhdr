@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (today)
 - [dennisbergevin/mash](https://github.com/dennisbergevin/mash) - A customizable command launcher for storing and executing commands. (1 day ago)
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 day ago)
 - [ashish0kumar/gostty](https://github.com/ashish0kumar/gostty) - 👻 The iconic ghostty animation for your terminal (2 days ago)
 - [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals (6 days ago)
-- [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World&#39;s neatest Pomodoro timer for macOS menu bar (1 week ago)
 
 #### Connect with me
 
