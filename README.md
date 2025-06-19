@@ -31,16 +31,16 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.4.2](https://github.com/calcom/cal.com/releases/tag/v5.4.2), 1 day ago) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.4.2](https://github.com/calcom/cal.com/releases/tag/v5.4.2), 2 days ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.16.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.16.0), 2 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 1 month ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [dennisbergevin/mash](https://github.com/dennisbergevin/mash) - A customizable command launcher for storing and executing commands. (today)
-- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (today)
-- [ashish0kumar/gostty](https://github.com/ashish0kumar/gostty) - 👻 The iconic ghostty animation for your terminal (1 day ago)
-- [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals (5 days ago)
+- [dennisbergevin/mash](https://github.com/dennisbergevin/mash) - A customizable command launcher for storing and executing commands. (1 day ago)
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit (1 day ago)
+- [ashish0kumar/gostty](https://github.com/ashish0kumar/gostty) - 👻 The iconic ghostty animation for your terminal (2 days ago)
+- [tattoy-org/tattoy](https://github.com/tattoy-org/tattoy) - A text-based compositor for modern terminals (6 days ago)
 - [ivoronin/TomatoBar](https://github.com/ivoronin/TomatoBar) - 🍅 World&#39;s neatest Pomodoro timer for macOS menu bar (1 week ago)
 
 #### Connect with me
