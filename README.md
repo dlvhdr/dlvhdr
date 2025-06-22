@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.4.5](https://github.com/calcom/cal.com/releases/tag/v5.4.5), 1 day ago) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.4.5](https://github.com/calcom/cal.com/releases/tag/v5.4.5), 2 days ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.16.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.16.0), 3 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 1 month ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [ionut-t/goeditor](https://github.com/ionut-t/goeditor) -  (today)
-- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more! (today)
-- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (1 day ago)
-- [jahvon/flow](https://github.com/jahvon/flow) - Interactive CLI automation that flows with you. (1 day ago)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (2 days ago)
+- [ionut-t/goeditor](https://github.com/ionut-t/goeditor) -  (1 day ago)
+- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more! (1 day ago)
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (2 days ago)
+- [jahvon/flow](https://github.com/jahvon/flow) - Interactive CLI automation that flows with you. (2 days ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (3 days ago)
 
 #### Connect with me
 
