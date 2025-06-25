@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.4.5](https://github.com/calcom/cal.com/releases/tag/v5.4.5), 4 days ago) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.4.6](https://github.com/calcom/cal.com/releases/tag/v5.4.6), 1 day ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.16.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.16.0), 3 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 1 month ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal (1 day ago)
-- [ionut-t/goeditor](https://github.com/ionut-t/goeditor) -  (3 days ago)
-- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more! (3 days ago)
-- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (4 days ago)
-- [jahvon/flow](https://github.com/jahvon/flow) - Interactive CLI automation that flows with you. (4 days ago)
+- [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal (2 days ago)
+- [ionut-t/goeditor](https://github.com/ionut-t/goeditor) -  (4 days ago)
+- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more! (4 days ago)
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (5 days ago)
+- [jahvon/flow](https://github.com/jahvon/flow) - Interactive CLI automation that flows with you. (5 days ago)
 
 #### Connect with me
 
