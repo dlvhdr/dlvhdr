@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [kovidgoyal/vise](https://github.com/kovidgoyal/vise) - A keyboard driven browser with tabs in a tree (today)
 - [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal (2 weeks ago)
 - [ionut-t/goeditor](https://github.com/ionut-t/goeditor) -  (2 weeks ago)
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more! (2 weeks ago)
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (2 weeks ago)
-- [jahvon/flow](https://github.com/jahvon/flow) - Interactive CLI automation that flows with you. (2 weeks ago)
 
 #### Connect with me
 
