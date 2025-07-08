@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [lrstanley/bubbletint](https://github.com/lrstanley/bubbletint) - Terminal tints for everyone (today)
 - [mskelton/farm](https://github.com/mskelton/farm) - A modern dotfile manager inspired by GNU Stow with enhanced features for better control and tracking. (today)
 - [kovidgoyal/vise](https://github.com/kovidgoyal/vise) - A keyboard driven browser with tabs in a tree (1 day ago)
 - [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal (2 weeks ago)
 - [ionut-t/goeditor](https://github.com/ionut-t/goeditor) -  (2 weeks ago)
-- [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more! (2 weeks ago)
 
 #### Connect with me
 
