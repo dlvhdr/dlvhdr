@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs (today)
 - [spectreconsole/open-cli](https://github.com/spectreconsole/open-cli) - The OpenCLI specification (OCS) defines a standard, platform and language agnostic interface to CLI applications which allows both humans and computers to understand how a CLI tool should be invoked without access to source code or documentation. (1 day ago)
 - [lrstanley/bubbletint](https://github.com/lrstanley/bubbletint) - Terminal tints for everyone (2 days ago)
 - [mskelton/farm](https://github.com/mskelton/farm) - A modern dotfile manager inspired by GNU Stow with enhanced features for better control and tracking. (2 days ago)
 - [kovidgoyal/vise](https://github.com/kovidgoyal/vise) - A keyboard driven browser with tabs in a tree (3 days ago)
-- [bloznelis/kbt](https://github.com/bloznelis/kbt) - Keyboard tester in terminal (2 weeks ago)
 
 #### Connect with me
 
