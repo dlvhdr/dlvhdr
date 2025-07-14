@@ -31,17 +31,17 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([@calcom/atoms@1.1.0](https://github.com/calcom/cal.com/releases/tag/%40calcom/atoms%401.1.0), 2 days ago) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([@calcom/atoms@1.1.0](https://github.com/calcom/cal.com/releases/tag/%40calcom/atoms%401.1.0), 3 days ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.16.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.16.1), 1 week ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 2 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [ByteAtATime/raycast-linux](https://github.com/ByteAtATime/raycast-linux) - Raycast-compatible launcher for Linux (today)
-- [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs (3 days ago)
-- [spectreconsole/open-cli](https://github.com/spectreconsole/open-cli) - The OpenCLI specification (OCS) defines a standard, platform and language agnostic interface to CLI applications which allows both humans and computers to understand how a CLI tool should be invoked without access to source code or documentation. (4 days ago)
-- [lrstanley/bubbletint](https://github.com/lrstanley/bubbletint) - Terminal tints for everyone (5 days ago)
-- [mskelton/farm](https://github.com/mskelton/farm) - A modern dotfile manager inspired by GNU Stow with enhanced features for better control and tracking. (5 days ago)
+- [ByteAtATime/raycast-linux](https://github.com/ByteAtATime/raycast-linux) - Raycast-compatible launcher for Linux (1 day ago)
+- [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs (4 days ago)
+- [spectreconsole/open-cli](https://github.com/spectreconsole/open-cli) - The OpenCLI specification (OCS) defines a standard, platform and language agnostic interface to CLI applications which allows both humans and computers to understand how a CLI tool should be invoked without access to source code or documentation. (5 days ago)
+- [lrstanley/bubbletint](https://github.com/lrstanley/bubbletint) - Terminal tints for everyone (6 days ago)
+- [mskelton/farm](https://github.com/mskelton/farm) - A modern dotfile manager inspired by GNU Stow with enhanced features for better control and tracking. (6 days ago)
 
 #### Connect with me
 
