@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers (today)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 days ago)
 - [ByteAtATime/raycast-linux](https://github.com/ByteAtATime/raycast-linux) - Raycast-compatible launcher for Linux (5 days ago)
 - [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs (1 week ago)
 - [spectreconsole/open-cli](https://github.com/spectreconsole/open-cli) - The OpenCLI specification (OCS) defines a standard, platform and language agnostic interface to CLI applications which allows both humans and computers to understand how a CLI tool should be invoked without access to source code or documentation. (1 week ago)
-- [lrstanley/bubbletint](https://github.com/lrstanley/bubbletint) - Terminal tints for everyone (1 week ago)
 
 #### Connect with me
 
