@@ -31,14 +31,14 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 🔭 Latest releases I've contributed to
 
-- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.5.8](https://github.com/calcom/cal.com/releases/tag/v5.5.8), 1 day ago) - Scheduling infrastructure for absolutely everyone.
+- [calcom/cal.com](https://github.com/calcom/cal.com) ([v5.5.8](https://github.com/calcom/cal.com/releases/tag/v5.5.8), 2 days ago) - Scheduling infrastructure for absolutely everyone.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.16.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.16.1), 4 weeks ago) - A beautiful CLI dashboard for GitHub 🚀 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 2 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [jonas-grgt/ktea](https://github.com/jonas-grgt/ktea) - Kafka TUI client (1 day ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (1 day ago)
+- [jonas-grgt/ktea](https://github.com/jonas-grgt/ktea) - Kafka TUI client (2 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (2 days ago)
 - [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers (1 week ago)
 - [charmbracelet/ultraviolet](https://github.com/charmbracelet/ultraviolet) - Mystical terminal user interface primitives 🌈 (2 weeks ago)
 - [ByteAtATime/flare](https://github.com/ByteAtATime/flare) - Raycast-compatible launcher for Linux (2 weeks ago)
