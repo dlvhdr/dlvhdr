@@ -37,11 +37,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim  (today)
 - [sst/opentui](https://github.com/sst/opentui) -  (1 day ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 day ago)
 - [jonas-grgt/ktea](https://github.com/jonas-grgt/ktea) - Kafka TUI client (4 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘 (4 days ago)
-- [algora-io/algora](https://github.com/algora-io/algora) - Hire the top 1% OSS engineers (2 weeks ago)
 
 #### Connect with me
 
