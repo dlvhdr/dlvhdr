@@ -36,11 +36,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [MAIF/yozefu](https://github.com/MAIF/yozefu) -  An interactive terminal user interface (TUI) application for exploring data of a kafka cluster.  (1 day ago)
-- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches (2 days ago)
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim  (4 days ago)
-- [sst/opentui](https://github.com/sst/opentui) -  (5 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (5 days ago)
+- [MAIF/yozefu](https://github.com/MAIF/yozefu) -  An interactive terminal user interface (TUI) application for exploring data of a kafka cluster.  (2 days ago)
+- [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches (3 days ago)
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fast Fuzzy File Finder for neovim  (5 days ago)
+- [sst/opentui](https://github.com/sst/opentui) -  (6 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (6 days ago)
 
 #### Connect with me
 
