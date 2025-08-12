@@ -36,10 +36,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes. (2 days ago)
-- [DaltonSW/campfire](https://github.com/DaltonSW/campfire) - Cozy up with your logs (3 days ago)
-- [Kyren223/eko](https://github.com/Kyren223/eko) - A terminal based alternative to Discord (3 days ago)
-- [MAIF/yozefu](https://github.com/MAIF/yozefu) -  An interactive terminal user interface (TUI) application for exploring data of a kafka cluster.  (6 days ago)
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes. (3 days ago)
+- [DaltonSW/campfire](https://github.com/DaltonSW/campfire) - Cozy up with your logs (4 days ago)
+- [Kyren223/eko](https://github.com/Kyren223/eko) - A terminal based alternative to Discord (4 days ago)
+- [MAIF/yozefu](https://github.com/MAIF/yozefu) -  An interactive terminal user interface (TUI) application for exploring data of a kafka cluster.  (1 week ago)
 - [seachicken/gh-poi](https://github.com/seachicken/gh-poi) - ✨ Safely clean up your local branches (1 week ago)
 
 #### Connect with me
