@@ -10,7 +10,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 month ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 month ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (3 months ago)
-- [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (5 months ago)
+- [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (6 months ago)
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (8 months ago)
 
 #### 📜 My recent blog posts
@@ -36,10 +36,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [acsandmann/rift](https://github.com/acsandmann/rift) - rift is a window manager for macos (today)
-- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes. (4 days ago)
-- [DaltonSW/campfire](https://github.com/DaltonSW/campfire) - Cozy up with your logs (5 days ago)
-- [Kyren223/eko](https://github.com/Kyren223/eko) - A terminal based alternative to Discord (5 days ago)
+- [acsandmann/rift](https://github.com/acsandmann/rift) - rift is a window manager for macos (1 day ago)
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes. (5 days ago)
+- [DaltonSW/campfire](https://github.com/DaltonSW/campfire) - Cozy up with your logs (6 days ago)
+- [Kyren223/eko](https://github.com/Kyren223/eko) - A terminal based alternative to Discord (6 days ago)
 - [MAIF/yozefu](https://github.com/MAIF/yozefu) -  An interactive terminal user interface (TUI) application for exploring data of a kafka cluster.  (1 week ago)
 
 #### Connect with me
