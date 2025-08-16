@@ -36,8 +36,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [acsandmann/rift](https://github.com/acsandmann/rift) - rift is a window manager for macos (2 days ago)
-- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes. (6 days ago)
+- [acsandmann/rift](https://github.com/acsandmann/rift) - rift is a window manager for macos (3 days ago)
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes. (1 week ago)
 - [DaltonSW/campfire](https://github.com/DaltonSW/campfire) - Cozy up with your logs (1 week ago)
 - [Kyren223/eko](https://github.com/Kyren223/eko) - A terminal based alternative to Discord (1 week ago)
 - [MAIF/yozefu](https://github.com/MAIF/yozefu) -  An interactive terminal user interface (TUI) application for exploring data of a kafka cluster.  (1 week ago)
