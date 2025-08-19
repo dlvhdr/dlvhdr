@@ -36,8 +36,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro (2 days ago)
-- [acsandmann/rift](https://github.com/acsandmann/rift) - rift is a window manager for macos (5 days ago)
+- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro (3 days ago)
+- [acsandmann/rift](https://github.com/acsandmann/rift) - rift is a window manager for macos (6 days ago)
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes. (1 week ago)
 - [DaltonSW/campfire](https://github.com/DaltonSW/campfire) - Cozy up with your logs (1 week ago)
 - [Kyren223/eko](https://github.com/Kyren223/eko) - A terminal based alternative to Discord (1 week ago)
