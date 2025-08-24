@@ -36,7 +36,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [wtnqk/ftdv](https://github.com/wtnqk/ftdv) - FILE TREE DIFF VIEWER (1 day ago)
+- [wtnqk/ftdv](https://github.com/wtnqk/ftdv) - FILE TREE DIFF VIEWER (2 days ago)
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro (1 week ago)
 - [acsandmann/rift](https://github.com/acsandmann/rift) - rift is a window manager for macos (1 week ago)
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes. (2 weeks ago)
