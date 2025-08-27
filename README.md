@@ -7,7 +7,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 month ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (3 months ago)
 - [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (6 months ago)
@@ -36,10 +36,10 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [koki-develop/ghatree](https://github.com/koki-develop/ghatree) - 🌲 Visualize GitHub Actions workflow dependencies as a tree structure. (today)
-- [wtnqk/ftdv](https://github.com/wtnqk/ftdv) - FILE TREE DIFF VIEWER (4 days ago)
+- [koki-develop/ghatree](https://github.com/koki-develop/ghatree) - 🌲 Visualize GitHub Actions workflow dependencies as a tree structure. (1 day ago)
+- [wtnqk/ftdv](https://github.com/wtnqk/ftdv) - FILE TREE DIFF VIEWER (5 days ago)
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro (1 week ago)
-- [acsandmann/rift](https://github.com/acsandmann/rift) - rift is a window manager for macos (1 week ago)
+- [acsandmann/rift](https://github.com/acsandmann/rift) - rift is a window manager for macos (2 weeks ago)
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes. (2 weeks ago)
 
 #### Connect with me
