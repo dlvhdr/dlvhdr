@@ -7,8 +7,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (4 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (5 days ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (3 months ago)
 - [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (6 months ago)
 - [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day. (8 months ago)
@@ -36,8 +36,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [koki-develop/ghatree](https://github.com/koki-develop/ghatree) - 🌲 Visualize GitHub Actions workflow dependencies as a tree structure. (2 days ago)
-- [wtnqk/ftdv](https://github.com/wtnqk/ftdv) - FILE TREE DIFF VIEWER (6 days ago)
+- [koki-develop/ghatree](https://github.com/koki-develop/ghatree) - 🌲 Visualize GitHub Actions workflow dependencies as a tree structure. (3 days ago)
+- [wtnqk/ftdv](https://github.com/wtnqk/ftdv) - FILE TREE DIFF VIEWER (1 week ago)
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro (1 week ago)
 - [acsandmann/rift](https://github.com/acsandmann/rift) - rift is a window manager for macos (2 weeks ago)
 - [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes. (2 weeks ago)
