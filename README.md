@@ -36,11 +36,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor (today)
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work! (2 days ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (2 days ago)
 - [koki-develop/ghatree](https://github.com/koki-develop/ghatree) - 🌲 Visualize GitHub Actions workflow dependencies as a tree structure. (5 days ago)
 - [wtnqk/ftdv](https://github.com/wtnqk/ftdv) - FILE TREE DIFF VIEWER (1 week ago)
-- [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro (2 weeks ago)
 
 #### Connect with me
 
