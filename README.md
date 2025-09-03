@@ -36,11 +36,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [ArturCSegat/whats-cli](https://github.com/ArturCSegat/whats-cli) - Riceable CLI client for whatsapp, built with github.com/ArturCSegat/whatshttp (today)
 - [1nwf/codefmt](https://github.com/1nwf/codefmt) -  (today)
 - [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor (3 days ago)
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work! (5 days ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (5 days ago)
-- [koki-develop/ghatree](https://github.com/koki-develop/ghatree) - 🌲 Visualize GitHub Actions workflow dependencies as a tree structure. (1 week ago)
 
 #### Connect with me
 
