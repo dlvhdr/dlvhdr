@@ -36,11 +36,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer) (today)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
 - [darrenburns/dunk](https://github.com/darrenburns/dunk) - Prettier git diffs in the terminal  🎨 (2 days ago)
 - [ArturCSegat/whats-cli](https://github.com/ArturCSegat/whats-cli) - Riceable CLI client for whatsapp (3 days ago)
 - [1nwf/codefmt](https://github.com/1nwf/codefmt) -  (3 days ago)
-- [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor (6 days ago)
 
 #### Connect with me
 
