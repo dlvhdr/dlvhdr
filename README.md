@@ -36,11 +36,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
 - [darrenburns/dunk](https://github.com/darrenburns/dunk) - Prettier git diffs in the terminal  🎨 (2 days ago)
 - [ArturCSegat/whats-cli](https://github.com/ArturCSegat/whats-cli) - Riceable CLI client for whatsapp (3 days ago)
 - [1nwf/codefmt](https://github.com/1nwf/codefmt) -  (3 days ago)
 - [kagehq/port-kill](https://github.com/kagehq/port-kill) - A lightweight mac status bar development port monitor (6 days ago)
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work! (1 week ago)
 
 #### Connect with me
 
