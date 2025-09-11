@@ -7,8 +7,8 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (2 days ago)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (5 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (3 days ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (6 days ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 weeks ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (4 months ago)
 - [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (6 months ago)
@@ -17,7 +17,7 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 - [My List of CLI Gems](https://dlvhdr.me/posts/cli-tools) (1 year ago)
 - [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (2 years ago)
-- [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (2 years ago)
+- [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (3 years ago)
 - [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (3 years ago)
 - [My Developer Setup in 2022](https://dlvhdr.me/posts/dev-setup) (3 years ago)
 
@@ -36,11 +36,11 @@ I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Isr
 
 #### ⭐ Recent Stars
 
-- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (today)
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (2 days ago)
-- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer) (4 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (4 days ago)
-- [darrenburns/dunk](https://github.com/darrenburns/dunk) - Prettier git diffs in the terminal  🎨 (6 days ago)
+- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (1 day ago)
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (3 days ago)
+- [Gaurav-Gosain/tuios](https://github.com/Gaurav-Gosain/tuios) - Terminal UI OS (Terminal Multiplexer) (5 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (5 days ago)
+- [darrenburns/dunk](https://github.com/darrenburns/dunk) - Prettier git diffs in the terminal  🎨 (1 week ago)
 
 #### Connect with me
 
