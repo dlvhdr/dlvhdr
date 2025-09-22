@@ -3,14 +3,22 @@
 
 ### Hi, I'm Dolev <img width="36px" height="36px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" />
 
-I'm a full-stack engineer (front-end oriented :rainbow: ) based in Tel Aviv, Israel.
+I'm a full-stack developer who loves the terminal.
+
+I try to make the terminal experience better every day.
+To that end I've created and maintain some popular TUIs (terminal UIs)
+- [`dash`](https://gh-dash.dev) is a beautiful dashboard that let's you fly through your GitHub 🚀
+- [diffnav](https://github.com/dlvhdr/diffnav) is a git diff pager based on delta but with a file tree, à la GitHub.
+
+If you love what I'm working on, consider [sponsoring me!](https://github.com/sponsors/dlvhdr) ❤️
+This allows me to keep working on those libraries and tools and also create new ones.
 
 #### 👷 Check out what I'm currently working on
 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (today)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 weeks ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 weeks ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (4 months ago)
 - [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (7 months ago)
 
 #### 📜 My recent blog posts
