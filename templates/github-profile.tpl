@@ -50,6 +50,6 @@ This allows me to keep working on those libraries and tools and also create new 
 
 [<img align="left" alt="LinkedIn" width="48px" src="icons/linkedin.svg" />][linkedin]
 
-[bluesky]: https://twitter.com/elys1um
+[bluesky]: https://bsky.app/profile/dlvhdr.me
 [discord]: https://discord.gg/SXNXp9NctV
-[linkedin]: https://www.linkedin.com/in/dolev-hadar/
+[linkedin]: https://www.linkedin.com/in/dolev-hadar
