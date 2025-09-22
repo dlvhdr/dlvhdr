@@ -5,12 +5,12 @@
 
 I'm a full-stack developer who loves the terminal.
 
-I try to make the terminal experience better every day.
-To that end I've created and maintain some popular TUIs (terminal UIs)
+I try to make the terminal experience better every day and to that end I've created and maintain some popular TUIs (terminal UIs):
 - [`dash`](https://gh-dash.dev) is a beautiful dashboard that let's you fly through your GitHub 🚀
-- [diffnav](https://github.com/dlvhdr/diffnav) is a git diff pager based on delta but with a file tree, à la GitHub.
+- [`diffnav`](https://github.com/dlvhdr/diffnav) is a git diff pager based on delta but with a file tree, à la GitHub.
 
 If you love what I'm working on, consider [sponsoring me!](https://github.com/sponsors/dlvhdr) ❤️
+
 This allows me to keep working on those libraries and tools and also create new ones.
 
 #### 👷 Check out what I'm currently working on
