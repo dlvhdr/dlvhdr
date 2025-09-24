@@ -46,11 +46,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [magit/forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit (today)
 - [dhth/kplay](https://github.com/dhth/kplay) - Inspect messages in a Kafka topic in a simple and deliberate manner (today)
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (today)
 - [lusingander/gotip](https://github.com/lusingander/gotip) - Go Test Interactive Picker 🧪 (1 day ago)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (1 week ago)
-- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️. (1 week ago)
 
 ---
 
