@@ -46,11 +46,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (today)
 - [lusingander/gotip](https://github.com/lusingander/gotip) - Go Test Interactive Picker 🧪 (1 day ago)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (1 week ago)
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) - A fully-featured 🤏 HTTP-client 🐼 interface 🖥️ for Neovim ❤️. (1 week ago)
 - [gigagrug/schema](https://github.com/gigagrug/schema) - All in one CLI tool for the database | Migration, Studio, LSP (1 week ago)
-- [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗ (2 weeks ago)
 
 ---
 
