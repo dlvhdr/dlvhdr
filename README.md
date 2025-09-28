@@ -46,11 +46,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [chipsenkbeil/choose](https://github.com/chipsenkbeil/choose) - Fuzzy matcher for OS X that uses both std{in,out} and a native GUI (today)
 - [DaltonSW/prism](https://github.com/DaltonSW/prism) - Turn raw test output into beautiful data (today)
 - [magit/forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit (4 days ago)
 - [dhth/kplay](https://github.com/dhth/kplay) - Inspect messages in a Kafka topic in a simple and deliberate manner (4 days ago)
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (4 days ago)
-- [lusingander/gotip](https://github.com/lusingander/gotip) - Go Test Interactive Picker 🧪 (5 days ago)
 
 ---
 
