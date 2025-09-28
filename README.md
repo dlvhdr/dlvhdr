@@ -46,11 +46,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [DaltonSW/prism](https://github.com/DaltonSW/prism) - Turn raw test output into beautiful data (today)
 - [magit/forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit (4 days ago)
 - [dhth/kplay](https://github.com/dhth/kplay) - Inspect messages in a Kafka topic in a simple and deliberate manner (4 days ago)
 - [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (4 days ago)
 - [lusingander/gotip](https://github.com/lusingander/gotip) - Go Test Interactive Picker 🧪 (5 days ago)
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (1 week ago)
 
 ---
 
