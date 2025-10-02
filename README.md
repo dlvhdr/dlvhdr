@@ -7,9 +7,12 @@ I'm a full-stack developer who loves the terminal.
 
 I try to make the terminal experience better every day and that led me to create:
 - [`dash`](https://gh-dash.dev) - a beautiful dashboard that let's you fly through your GitHub 🚀
+- [`enhance`](https://gh-dash.dev/enhance) - a blazingly fast terminal UI for GitHub Actions
 - [`diffnav`](https://github.com/dlvhdr/diffnav) - a git diff pager based on delta but with a file tree, à la GitHub.
 
-If you love what I'm working on, consider [sponsoring me!](https://github.com/sponsors/dlvhdr) ❤️
+If you love what I'm working on, consider:
+- Joining my [Insiders Program](https://gh-dash.dev/insiders) 🌟 and get access to exclusive apps
+- [Sponsoring me!](https://github.com/sponsors/dlvhdr) ❤️
 
 This allows me to keep working on those libraries and tools and also create new ones.
 
@@ -17,11 +20,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (today)
+- [dlvhdr-insiders/.github](https://github.com/dlvhdr-insiders/.github) -  (today)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 week ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 week ago)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (3 weeks ago)
-- [dlvhdr/hebrew-touch-typing](https://github.com/dlvhdr/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (7 months ago)
 
 #### 📜 My recent blog posts
 
@@ -33,11 +36,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🌱 My latest projects
 
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions
 - [dlvhdr/turbo-compose](https://github.com/dlvhdr/turbo-compose) - 
 - [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) - 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) - Easily view and address comments left on your PR using folke/trouble.nvim
-- [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) - View the PR blame of the current line
 
 #### 🔭 Latest releases I've contributed to
 
@@ -46,11 +49,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (today)
 - [chipsenkbeil/choose](https://github.com/chipsenkbeil/choose) - Fuzzy matcher for OS X that uses both std{in,out} and a native GUI (4 days ago)
 - [DaltonSW/prism](https://github.com/DaltonSW/prism) - Turn raw test output into beautiful data (4 days ago)
 - [magit/forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit (1 week ago)
 - [dhth/kplay](https://github.com/dhth/kplay) - Inspect messages in a Kafka topic in a simple and deliberate manner (1 week ago)
-- [skatkov/devtui](https://github.com/skatkov/devtui) - A Swiss-army app for developers (1 week ago)
 
 ---
 
