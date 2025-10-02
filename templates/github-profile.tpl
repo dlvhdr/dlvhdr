@@ -7,9 +7,12 @@ I'm a full-stack developer who loves the terminal.
 
 I try to make the terminal experience better every day and that led me to create:
 - [`dash`](https://gh-dash.dev) - a beautiful dashboard that let's you fly through your GitHub 🚀
+- [`enhance`](https://gh-dash.dev/enhance) - a blazingly fast terminal UI for GitHub Actions
 - [`diffnav`](https://github.com/dlvhdr/diffnav) - a git diff pager based on delta but with a file tree, à la GitHub.
 
-If you love what I'm working on, consider [sponsoring me!](https://github.com/sponsors/dlvhdr) ❤️
+If you love what I'm working on, consider:
+- Joining my [Insiders Program](https://gh-dash.dev/insiders) 🌟 and get access to exclusive apps
+- [Sponsoring me!](https://github.com/sponsors/dlvhdr) ❤️
 
 This allows me to keep working on those libraries and tools and also create new ones.
 
