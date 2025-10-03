@@ -20,10 +20,10 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (today)
-- [dlvhdr-insiders/.github](https://github.com/dlvhdr-insiders/.github) -  (today)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 day ago)
+- [dlvhdr-insiders/.github](https://github.com/dlvhdr-insiders/.github) -  (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 week ago)
 
 #### 📜 My recent blog posts
@@ -49,9 +49,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (today)
-- [chipsenkbeil/choose](https://github.com/chipsenkbeil/choose) - Fuzzy matcher for OS X that uses both std{in,out} and a native GUI (4 days ago)
-- [DaltonSW/prism](https://github.com/DaltonSW/prism) - Turn raw test output into beautiful data (4 days ago)
+- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 day ago)
+- [chipsenkbeil/choose](https://github.com/chipsenkbeil/choose) - Fuzzy matcher for OS X that uses both std{in,out} and a native GUI (5 days ago)
+- [DaltonSW/prism](https://github.com/DaltonSW/prism) - Turn raw test output into beautiful data (5 days ago)
 - [magit/forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit (1 week ago)
 - [dhth/kplay](https://github.com/dhth/kplay) - Inspect messages in a Kafka topic in a simple and deliberate manner (1 week ago)
 
