@@ -49,11 +49,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [golang/go](https://github.com/golang/go) - The Go programming language (today)
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 day ago)
 - [chipsenkbeil/choose](https://github.com/chipsenkbeil/choose) - Fuzzy matcher for OS X that uses both std{in,out} and a native GUI (5 days ago)
 - [DaltonSW/prism](https://github.com/DaltonSW/prism) - Turn raw test output into beautiful data (5 days ago)
 - [magit/forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit (1 week ago)
-- [dhth/kplay](https://github.com/dhth/kplay) - Inspect messages in a Kafka topic in a simple and deliberate manner (1 week ago)
 
 ---
 
