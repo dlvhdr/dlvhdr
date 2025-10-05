@@ -44,7 +44,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.16.2](https://github.com/dlvhdr/gh-dash/releases/tag/v4.16.2), 1 month ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.17.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.17.0), today) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 4 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
