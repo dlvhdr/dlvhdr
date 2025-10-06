@@ -20,11 +20,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (3 days ago)
-- [dlvhdr-insiders/.github](https://github.com/dlvhdr-insiders/.github) -  (3 days ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 week ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (4 days ago)
+- [dlvhdr-insiders/.github](https://github.com/dlvhdr-insiders/.github) -  (4 days ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -44,13 +44,13 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.17.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.17.0), today) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.17.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.17.0), 1 day ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 4 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [golang/go](https://github.com/golang/go) - The Go programming language (2 days ago)
-- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (3 days ago)
+- [golang/go](https://github.com/golang/go) - The Go programming language (3 days ago)
+- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (4 days ago)
 - [chipsenkbeil/choose](https://github.com/chipsenkbeil/choose) - Fuzzy matcher for OS X that uses both std{in,out} and a native GUI (1 week ago)
 - [DaltonSW/prism](https://github.com/DaltonSW/prism) - Turn raw test output into beautiful data (1 week ago)
 - [magit/forge](https://github.com/magit/forge) - Work with Git forges from the comfort of Magit (1 week ago)
