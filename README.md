@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (4 days ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (5 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 - [dlvhdr-insiders/.github](https://github.com/dlvhdr-insiders/.github) -  (1 week ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (2 weeks ago)
 
@@ -44,12 +44,12 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.17.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.17.0), 5 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.17.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.17.0), 6 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 5 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (4 days ago)
+- [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (5 days ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (1 week ago)
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 week ago)
 - [chipsenkbeil/choose](https://github.com/chipsenkbeil/choose) - Fuzzy matcher for OS X that uses both std{in,out} and a native GUI (1 week ago)
