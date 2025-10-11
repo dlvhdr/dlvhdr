@@ -49,11 +49,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (today)
 - [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (5 days ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (1 week ago)
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 week ago)
 - [chipsenkbeil/choose](https://github.com/chipsenkbeil/choose) - Fuzzy matcher for OS X that uses both std{in,out} and a native GUI (1 week ago)
-- [DaltonSW/prism](https://github.com/DaltonSW/prism) - Turn raw test output into beautiful data (1 week ago)
 
 ---
 
