@@ -49,11 +49,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [cosscom/coss](https://github.com/cosscom/coss) - coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the &#39;google search&#39; of our alphabet. (today)
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser (4 days ago)
 - [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech (1 week ago)
 - [golang/go](https://github.com/golang/go) - The Go programming language (1 week ago)
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 week ago)
-- [chipsenkbeil/choose](https://github.com/chipsenkbeil/choose) - Fuzzy matcher for OS X that uses both std{in,out} and a native GUI (2 weeks ago)
 
 ---
 
