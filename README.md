@@ -20,7 +20,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (3 weeks ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 weeks ago)
 - [dlvhdr-insiders/.github](https://github.com/dlvhdr-insiders/.github) -  (4 weeks ago)
@@ -44,16 +44,16 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.19.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.19.0), 1 day ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.19.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.19.0), 2 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 5 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer &#43; ANSI font library with gradient colors, shadows, and multi-format export (2 days ago)
-- [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) - create comment on pull request, if exists update that comment. (3 days ago)
-- [bluekeyes/go-gitdiff](https://github.com/bluekeyes/go-gitdiff) - Go library for parsing and applying patches created by Git  (5 days ago)
-- [sahilm/fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al. (5 days ago)
-- [caarlos0/go-version](https://github.com/caarlos0/go-version) - Version library extracted from sigs.k8s.io/release-utils (5 days ago)
+- [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer &#43; ANSI font library with gradient colors, shadows, and multi-format export (3 days ago)
+- [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) - create comment on pull request, if exists update that comment. (4 days ago)
+- [bluekeyes/go-gitdiff](https://github.com/bluekeyes/go-gitdiff) - Go library for parsing and applying patches created by Git  (6 days ago)
+- [sahilm/fuzzy](https://github.com/sahilm/fuzzy) - Go library that provides fuzzy string matching optimized for filenames and code symbols in the style of Sublime Text, VSCode, IntelliJ IDEA et al. (6 days ago)
+- [caarlos0/go-version](https://github.com/caarlos0/go-version) - Version library extracted from sigs.k8s.io/release-utils (6 days ago)
 
 ---
 
