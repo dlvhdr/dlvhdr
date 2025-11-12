@@ -20,11 +20,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
+- [dlvhdr/x](https://github.com/dlvhdr/x) -  (today)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 days ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 month ago)
 - [dlvhdr-insiders/.github](https://github.com/dlvhdr-insiders/.github) -  (1 month ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -36,11 +36,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🌱 My latest projects
 
+- [dlvhdr/x](https://github.com/dlvhdr/x) - 
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions
 - [dlvhdr/turbo-compose](https://github.com/dlvhdr/turbo-compose) - 
 - [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) - 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
-- [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) - Easily view and address comments left on your PR using folke/trouble.nvim
 
 #### 🔭 Latest releases I've contributed to
 
