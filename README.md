@@ -21,10 +21,10 @@ This allows me to keep working on those libraries and tools and also create new 
 #### 👷 Check out what I'm currently working on
 
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
+- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (today)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (3 days ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (5 days ago)
 - [dlvhdr/x](https://github.com/dlvhdr/x) -  (1 week ago)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 month ago)
 
 #### 📜 My recent blog posts
 
@@ -36,11 +36,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🌱 My latest projects
 
+- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) - 
 - [dlvhdr/x](https://github.com/dlvhdr/x) - 
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions
 - [dlvhdr/turbo-compose](https://github.com/dlvhdr/turbo-compose) - 
 - [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) - 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### 🔭 Latest releases I've contributed to
 
