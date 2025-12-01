@@ -20,8 +20,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (1 day ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
+- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 week ago)
 - [dlvhdr/x](https://github.com/dlvhdr/x) -  (2 weeks ago)
@@ -49,9 +49,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, workflows, profiling, OpenAPI and response diffs. (4 days ago)
-- [caioricciuti/dev-cockpit](https://github.com/caioricciuti/dev-cockpit) - Get Under the Hood of Your Apple Silicon Dev cockpit was made for developers who want to see what&#39;s happening real-time. (4 days ago)
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 week ago)
+- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, workflows, profiling, OpenAPI and response diffs. (5 days ago)
+- [caioricciuti/dev-cockpit](https://github.com/caioricciuti/dev-cockpit) - Get Under the Hood of Your Apple Silicon Dev cockpit was made for developers who want to see what&#39;s happening real-time. (5 days ago)
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (2 weeks ago)
 - [samuelstranges/chronos](https://github.com/samuelstranges/chronos) - A Vimlike Calendar TUI (3 weeks ago)
 - [superstarryeyes/bit](https://github.com/superstarryeyes/bit) - CLI/TUI logo designer &#43; ANSI font library with gradient colors, shadows, and multi-format export (1 month ago)
 
