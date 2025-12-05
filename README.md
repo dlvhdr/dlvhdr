@@ -20,27 +20,72 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (today)
 - [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (2 days ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 week ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 weeks ago)
-- [dlvhdr/x](https://github.com/dlvhdr/x) -  (3 weeks ago)
 
 #### 📜 My recent blog posts
 
 - [On Open Source Sustainability](https://dlvhdr.me/posts/support-oss) (1 week ago)
 - [My List of CLI Gems](https://dlvhdr.me/posts/cli-tools) (1 year ago)
 - [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (2 years ago)
-- [The Renaissance of the Command Line](https://dlvhdr.me/posts/the-renaissance-of-the-command-line) (3 years ago)
-- [Why I&#39;m using (Neo)Vim](https://dlvhdr.me/posts/why-im-using-vim) (3 years ago)
 
-#### 🌱 My latest projects
+#### 💖 These awesome people sponsor me (thank you!)
 
-- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) - 
-- [dlvhdr/x](https://github.com/dlvhdr/x) - 
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions
-- [dlvhdr/turbo-compose](https://github.com/dlvhdr/turbo-compose) - 
-- [dlvhdr/homebrew-formulae](https://github.com/dlvhdr/homebrew-formulae) - 
+Username: RodrigoCSoares
+Name: Rodrigo C. Soares
+Avatar: https://avatars.githubusercontent.com/u/34926320?u=d5d43de34cad0bb5767357e9da49c2cc4074ab10&amp;v=4
+URL: https://github.com/RodrigoCSoares
+Created: 3 weeks ago
+
+Username: ryneflood
+Name: Ryne Flood
+Avatar: https://avatars.githubusercontent.com/u/1847226?u=ff62cad70c6b582ff729cf6a4cb92999aae1121b&amp;v=4
+URL: https://github.com/ryneflood
+Created: 3 weeks ago
+
+Username: candril
+Name: Stefan Lüdin
+Avatar: https://avatars.githubusercontent.com/u/404352?v=4
+URL: https://github.com/candril
+Created: 4 weeks ago
+
+Username: purajit
+Name: purajit
+Avatar: https://avatars.githubusercontent.com/u/7026198?u=5b76b661dba1677a00ae40a83f19c42250b81f5a&amp;v=4
+URL: https://github.com/purajit
+Created: 1 month ago
+
+Username: architect-eng
+Name: Architect
+Avatar: https://avatars.githubusercontent.com/u/179040529?v=4
+URL: https://github.com/architect-eng
+Created: 1 month ago
+
+Username: bgianfo
+Name: Brian Gianforcaro
+Avatar: https://avatars.githubusercontent.com/u/1212?u=a74825ea6a28d3e0cf0c05c99ee8b7fff62e9398&amp;v=4
+URL: https://github.com/bgianfo
+Created: 1 month ago
+
+Username: scjudd
+Name: Spencer Judd
+Avatar: https://avatars.githubusercontent.com/u/167754?u=b094905c1930afc3b307f39776d5fc4250d02298&amp;v=4
+URL: https://github.com/scjudd
+Created: 1 month ago
+
+Username: lukerollans
+Name: Luke Rollans
+Avatar: https://avatars.githubusercontent.com/u/4101096?u=8330a195570652f1bcd39e89bc5571ee41b15386&amp;v=4
+URL: https://github.com/lukerollans
+Created: 2 months ago
+
+Username: nikolay
+Name: Nikolay Kolev
+Avatar: https://avatars.githubusercontent.com/u/2882?u=b5278753f2aeee2a074f17c163df9179d3640b03&amp;v=4
+URL: https://github.com/nikolay
+Created: 2 months ago
+
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,11 +94,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying (today)
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions (2 days ago)
 - [Gaurav-Gosain/sip](https://github.com/Gaurav-Gosain/sip) - Serve Bubble Tea apps through the browser - Drinking tea through the browser 🍵 (3 days ago)
-- [unkn0wn-root/resterm](https://github.com/unkn0wn-root/resterm) - Terminal client for HTTP/GraphQL/gRPC with support for SSH tunnels, WebSockets, SSE, workflows, profiling, OpenAPI and response diffs. (1 week ago)
-- [caioricciuti/dev-cockpit](https://github.com/caioricciuti/dev-cockpit) - Get Under the Hood of Your Apple Silicon Dev cockpit was made for developers who want to see what&#39;s happening real-time. (1 week ago)
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (2 weeks ago)
 
 ---
 
