@@ -19,27 +19,31 @@ This allows me to keep working on those libraries and tools and also create new 
 ---
 
 #### 👷 Check out what I'm currently working on
-{{range recentContributions 5}}
+{{range recentContributions 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
 #### 📜 My recent blog posts
-{{range rss "https://dlvhdr.me/rss/feed.xml" 5}}
+{{range rss "https://dlvhdr.me/rss/feed.xml" 3}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
-#### 🌱 My latest projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+#### 💖 These awesome people sponsor me (thank you!)
+{{range sponsors 10}}
+Username: {{.User.Login}}
+Name: {{.User.Name}}
+Avatar: {{.User.AvatarURL}}
+URL: {{.User.URL}}
+Created: {{humanize .CreatedAt}}
+{{end}}
 
 #### 🔭 Latest releases I've contributed to
-{{range recentReleases 5}}
+{{range recentReleases 3}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
 #### ⭐ Recent Stars
-{{range recentStars 5}}
+{{range recentStars 3}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
