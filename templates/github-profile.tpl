@@ -30,12 +30,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 {{range sponsors 10}}
-Username: {{.User.Login}}
-Name: {{.User.Name}}
-Avatar: {{.User.AvatarURL}}
-URL: {{.User.URL}}
-Created: {{humanize .CreatedAt}}
-{{end}}
+- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
 
 #### 🔭 Latest releases I've contributed to
 {{range recentReleases 3}}
