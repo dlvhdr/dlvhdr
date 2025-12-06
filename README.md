@@ -20,13 +20,13 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/x](https://github.com/dlvhdr/x) -  (today)
-- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (today)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (today)
+- [dlvhdr/x](https://github.com/dlvhdr/x) -  (1 day ago)
+- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (1 day ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 day ago)
 
 #### 📜 My recent blog posts
 
-- [On Open Source Sustainability](https://dlvhdr.me/posts/support-oss) (1 week ago)
+- [On Open Source Sustainability](https://dlvhdr.me/posts/support-oss) (2 weeks ago)
 - [My List of CLI Gems](https://dlvhdr.me/posts/cli-tools) (1 year ago)
 - [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (2 years ago)
 
@@ -44,14 +44,14 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.19.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.19.1), 2 weeks ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 6 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.19.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.19.1), 3 weeks ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 7 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying (today)
-- [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions (2 days ago)
-- [Gaurav-Gosain/sip](https://github.com/Gaurav-Gosain/sip) - Serve Bubble Tea apps through the browser - Drinking tea through the browser 🍵 (3 days ago)
+- [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying (1 day ago)
+- [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions (3 days ago)
+- [Gaurav-Gosain/sip](https://github.com/Gaurav-Gosain/sip) - Serve Bubble Tea apps through the browser - Drinking tea through the browser 🍵 (4 days ago)
 
 ---
 
