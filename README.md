@@ -32,7 +32,6 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [RodrigoCSoares](https://github.com/RodrigoCSoares) (1 month ago)
 - [ryneflood](https://github.com/ryneflood) (1 month ago)
 - [candril](https://github.com/candril) (1 month ago)
 - [purajit](https://github.com/purajit) (1 month ago)
