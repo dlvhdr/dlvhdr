@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
-- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (today)
-- [dlvhdr/x](https://github.com/dlvhdr/x) -  (today)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (1 day ago)
+- [dlvhdr/x](https://github.com/dlvhdr/x) -  (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -48,7 +48,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [SachaCR/tfb](https://github.com/SachaCR/tfb) - Terminal Fret Board: A CLI tool that display guitar chords and scales in the terminal (1 day ago)
+- [SachaCR/tfb](https://github.com/SachaCR/tfb) - Terminal Fret Board: A CLI tool that display guitar chords and scales in the terminal (2 days ago)
 - [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying (1 week ago)
 - [nasedkinpv/numr](https://github.com/nasedkinpv/numr) - Text calculator inspired by Numi - natural language expressions, variables, unit conversions (1 week ago)
 
