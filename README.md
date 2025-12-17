@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
+- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (today)
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (today)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
-- [dlvhdr/x](https://github.com/dlvhdr/x) -  (4 days ago)
 
 #### 📜 My recent blog posts
 
