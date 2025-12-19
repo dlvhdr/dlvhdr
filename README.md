@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (1 day ago)
-- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (1 day ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
+- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (2 days ago)
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -32,7 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [Hidetoxin](https://github.com/Hidetoxin) (3 days ago)
+- [Hidetoxin](https://github.com/Hidetoxin) (4 days ago)
 - [ryneflood](https://github.com/ryneflood) (1 month ago)
 - [candril](https://github.com/candril) (1 month ago)
 - [purajit](https://github.com/purajit) (1 month ago)
@@ -49,9 +49,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [reuzdev/wavet](https://github.com/reuzdev/wavet) - FlagWaver in terminal (3 days ago)
-- [SachaCR/tfb](https://github.com/SachaCR/tfb) - Terminal Fret Board: A CLI tool that display guitar chords and scales in the terminal (6 days ago)
-- [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying (1 week ago)
+- [reuzdev/wavet](https://github.com/reuzdev/wavet) - FlagWaver in terminal (4 days ago)
+- [SachaCR/tfb](https://github.com/SachaCR/tfb) - Terminal Fret Board: A CLI tool that display guitar chords and scales in the terminal (1 week ago)
+- [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying (2 weeks ago)
 
 ---
 
