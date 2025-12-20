@@ -20,19 +20,19 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
-- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (2 days ago)
-- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (2 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (3 days ago)
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (3 days ago)
 
 #### 📜 My recent blog posts
 
-- [On Open Source Sustainability](https://dlvhdr.me/posts/support-oss) (3 weeks ago)
+- [On Open Source Sustainability](https://dlvhdr.me/posts/support-oss) (4 weeks ago)
 - [My List of CLI Gems](https://dlvhdr.me/posts/cli-tools) (1 year ago)
 - [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (2 years ago)
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [Hidetoxin](https://github.com/Hidetoxin) (4 days ago)
+- [Hidetoxin](https://github.com/Hidetoxin) (5 days ago)
 - [ryneflood](https://github.com/ryneflood) (1 month ago)
 - [candril](https://github.com/candril) (1 month ago)
 - [purajit](https://github.com/purajit) (1 month ago)
@@ -44,12 +44,12 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.20.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.20.1), today) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.20.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.20.1), 1 day ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 7 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [reuzdev/wavet](https://github.com/reuzdev/wavet) - FlagWaver in terminal (4 days ago)
+- [reuzdev/wavet](https://github.com/reuzdev/wavet) - FlagWaver in terminal (5 days ago)
 - [SachaCR/tfb](https://github.com/SachaCR/tfb) - Terminal Fret Board: A CLI tool that display guitar chords and scales in the terminal (1 week ago)
 - [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying (2 weeks ago)
 
