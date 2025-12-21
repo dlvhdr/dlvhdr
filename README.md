@@ -32,6 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
+- [binbandit](https://github.com/binbandit) (today)
 - [Steven0351](https://github.com/Steven0351) (today)
 - [Hidetoxin](https://github.com/Hidetoxin) (6 days ago)
 - [ryneflood](https://github.com/ryneflood) (1 month ago)
@@ -41,7 +42,6 @@ This allows me to keep working on those libraries and tools and also create new 
 - [bgianfo](https://github.com/bgianfo) (1 month ago)
 - [scjudd](https://github.com/scjudd) (2 months ago)
 - [lukerollans](https://github.com/lukerollans) (2 months ago)
-- [nikolay](https://github.com/nikolay) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
