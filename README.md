@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭 (today)
 - [reuzdev/wavet](https://github.com/reuzdev/wavet) - FlagWaver in terminal (1 week ago)
 - [SachaCR/tfb](https://github.com/SachaCR/tfb) - Terminal Fret Board: A CLI tool that display guitar chords and scales in the terminal (1 week ago)
-- [neilberkman/clippy](https://github.com/neilberkman/clippy) - Unified clipboard tool for macOS that intelligently handles both text and file copying (2 weeks ago)
 
 ---
 
