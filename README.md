@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [Passeriform/BalatroTUI](https://github.com/Passeriform/BalatroTUI) - A TUI clone of Balatro, a game by LocalThunk (today)
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭 (1 day ago)
 - [reuzdev/wavet](https://github.com/reuzdev/wavet) - FlagWaver in terminal (1 week ago)
-- [SachaCR/tfb](https://github.com/SachaCR/tfb) - Terminal Fret Board: A CLI tool that display guitar chords and scales in the terminal (1 week ago)
 
 ---
 
