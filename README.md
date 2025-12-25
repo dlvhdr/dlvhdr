@@ -32,6 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
+- [clockworkpc](https://github.com/clockworkpc) (today)
 - [binbandit](https://github.com/binbandit) (4 days ago)
 - [Steven0351](https://github.com/Steven0351) (4 days ago)
 - [Hidetoxin](https://github.com/Hidetoxin) (1 week ago)
@@ -41,7 +42,6 @@ This allows me to keep working on those libraries and tools and also create new 
 - [architect-eng](https://github.com/architect-eng) (1 month ago)
 - [bgianfo](https://github.com/bgianfo) (1 month ago)
 - [scjudd](https://github.com/scjudd) (2 months ago)
-- [lukerollans](https://github.com/lukerollans) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
