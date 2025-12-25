@@ -32,6 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
+- [badlogic](https://github.com/badlogic) (today)
 - [steipete](https://github.com/steipete) (today)
 - [clockworkpc](https://github.com/clockworkpc) (today)
 - [binbandit](https://github.com/binbandit) (4 days ago)
@@ -41,7 +42,6 @@ This allows me to keep working on those libraries and tools and also create new 
 - [candril](https://github.com/candril) (1 month ago)
 - [purajit](https://github.com/purajit) (1 month ago)
 - [architect-eng](https://github.com/architect-eng) (1 month ago)
-- [bgianfo](https://github.com/bgianfo) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
