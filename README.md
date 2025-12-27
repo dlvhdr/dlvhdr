@@ -32,13 +32,13 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [mrud](https://github.com/mrud) (today)
-- [shuv1337](https://github.com/shuv1337) (today)
-- [badlogic](https://github.com/badlogic) (1 day ago)
-- [steipete](https://github.com/steipete) (1 day ago)
-- [clockworkpc](https://github.com/clockworkpc) (1 day ago)
-- [binbandit](https://github.com/binbandit) (5 days ago)
-- [Steven0351](https://github.com/Steven0351) (5 days ago)
+- [mrud](https://github.com/mrud) (1 day ago)
+- [shuv1337](https://github.com/shuv1337) (1 day ago)
+- [badlogic](https://github.com/badlogic) (2 days ago)
+- [steipete](https://github.com/steipete) (2 days ago)
+- [clockworkpc](https://github.com/clockworkpc) (2 days ago)
+- [binbandit](https://github.com/binbandit) (6 days ago)
+- [Steven0351](https://github.com/Steven0351) (6 days ago)
 - [Hidetoxin](https://github.com/Hidetoxin) (1 week ago)
 - [ryneflood](https://github.com/ryneflood) (1 month ago)
 - [candril](https://github.com/candril) (1 month ago)
@@ -50,8 +50,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [Passeriform/BalatroTUI](https://github.com/Passeriform/BalatroTUI) - A TUI clone of Balatro, a game by LocalThunk (2 days ago)
-- [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭 (3 days ago)
+- [Passeriform/BalatroTUI](https://github.com/Passeriform/BalatroTUI) - A TUI clone of Balatro, a game by LocalThunk (3 days ago)
+- [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭 (4 days ago)
 - [reuzdev/wavet](https://github.com/reuzdev/wavet) - FlagWaver in terminal (1 week ago)
 
 ---
