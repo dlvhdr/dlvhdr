@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [vsxlabs/go-cookbook](https://github.com/vsxlabs/go-cookbook) - A comprehensive collection of practical Go code snippets, examples, and recipes for building efficient, reliable, and scalable applications. (today)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (today)
 - [Passeriform/BalatroTUI](https://github.com/Passeriform/BalatroTUI) - A TUI clone of Balatro, a game by LocalThunk (4 days ago)
-- [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭 (5 days ago)
-- [reuzdev/wavet](https://github.com/reuzdev/wavet) - FlagWaver in terminal (1 week ago)
 
 ---
 
