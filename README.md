@@ -32,11 +32,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [mrud](https://github.com/mrud) (3 days ago)
-- [shuv1337](https://github.com/shuv1337) (3 days ago)
-- [badlogic](https://github.com/badlogic) (4 days ago)
-- [steipete](https://github.com/steipete) (4 days ago)
-- [clockworkpc](https://github.com/clockworkpc) (4 days ago)
+- [mrud](https://github.com/mrud) (4 days ago)
+- [shuv1337](https://github.com/shuv1337) (4 days ago)
+- [badlogic](https://github.com/badlogic) (5 days ago)
+- [steipete](https://github.com/steipete) (5 days ago)
+- [clockworkpc](https://github.com/clockworkpc) (5 days ago)
 - [binbandit](https://github.com/binbandit) (1 week ago)
 - [Steven0351](https://github.com/Steven0351) (1 week ago)
 - [Hidetoxin](https://github.com/Hidetoxin) (2 weeks ago)
@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [vsxlabs/go-cookbook](https://github.com/vsxlabs/go-cookbook) - A comprehensive collection of practical Go code snippets, examples, and recipes for building efficient, reliable, and scalable applications. (1 day ago)
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 day ago)
-- [Passeriform/BalatroTUI](https://github.com/Passeriform/BalatroTUI) - A TUI clone of Balatro, a game by LocalThunk (5 days ago)
+- [vsxlabs/go-cookbook](https://github.com/vsxlabs/go-cookbook) - A comprehensive collection of practical Go code snippets, examples, and recipes for building efficient, reliable, and scalable applications. (2 days ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 days ago)
+- [Passeriform/BalatroTUI](https://github.com/Passeriform/BalatroTUI) - A TUI clone of Balatro, a game by LocalThunk (6 days ago)
 
 ---
 
