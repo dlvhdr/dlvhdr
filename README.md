@@ -21,8 +21,8 @@ This allows me to keep working on those libraries and tools and also create new 
 #### 👷 Check out what I'm currently working on
 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 week ago)
-- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (1 week ago)
-- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (1 week ago)
+- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (2 weeks ago)
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -32,11 +32,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [mrud](https://github.com/mrud) (4 days ago)
-- [shuv1337](https://github.com/shuv1337) (4 days ago)
-- [badlogic](https://github.com/badlogic) (5 days ago)
-- [steipete](https://github.com/steipete) (5 days ago)
-- [clockworkpc](https://github.com/clockworkpc) (5 days ago)
+- [mrud](https://github.com/mrud) (5 days ago)
+- [shuv1337](https://github.com/shuv1337) (5 days ago)
+- [badlogic](https://github.com/badlogic) (6 days ago)
+- [steipete](https://github.com/steipete) (6 days ago)
+- [clockworkpc](https://github.com/clockworkpc) (6 days ago)
 - [binbandit](https://github.com/binbandit) (1 week ago)
 - [Steven0351](https://github.com/Steven0351) (1 week ago)
 - [Hidetoxin](https://github.com/Hidetoxin) (2 weeks ago)
@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [tonisives/ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode (today)
-- [vsxlabs/go-cookbook](https://github.com/vsxlabs/go-cookbook) - A comprehensive collection of practical Go code snippets, examples, and recipes for building efficient, reliable, and scalable applications. (2 days ago)
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 days ago)
+- [tonisives/ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode (1 day ago)
+- [vsxlabs/go-cookbook](https://github.com/vsxlabs/go-cookbook) - A comprehensive collection of practical Go code snippets, examples, and recipes for building efficient, reliable, and scalable applications. (3 days ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (3 days ago)
 
 ---
 
