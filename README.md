@@ -21,8 +21,8 @@ This allows me to keep working on those libraries and tools and also create new 
 #### 👷 Check out what I'm currently working on
 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
 - [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (2 weeks ago)
-- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -32,6 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
+- [sideshowbarker](https://github.com/sideshowbarker) (today)
 - [mrud](https://github.com/mrud) (1 week ago)
 - [shuv1337](https://github.com/shuv1337) (1 week ago)
 - [badlogic](https://github.com/badlogic) (1 week ago)
@@ -41,7 +42,6 @@ This allows me to keep working on those libraries and tools and also create new 
 - [Steven0351](https://github.com/Steven0351) (1 week ago)
 - [Hidetoxin](https://github.com/Hidetoxin) (2 weeks ago)
 - [ryneflood](https://github.com/ryneflood) (1 month ago)
-- [candril](https://github.com/candril) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
