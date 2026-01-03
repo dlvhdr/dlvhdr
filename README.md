@@ -32,7 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [sideshowbarker](https://github.com/sideshowbarker) (today)
+- [sideshowbarker](https://github.com/sideshowbarker) (1 day ago)
 - [mrud](https://github.com/mrud) (1 week ago)
 - [shuv1337](https://github.com/shuv1337) (1 week ago)
 - [badlogic](https://github.com/badlogic) (1 week ago)
@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files. (today)
-- [tonisives/ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode (3 days ago)
-- [vsxlabs/go-cookbook](https://github.com/vsxlabs/go-cookbook) - A comprehensive collection of practical Go code snippets, examples, and recipes for building efficient, reliable, and scalable applications. (5 days ago)
+- [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files. (1 day ago)
+- [tonisives/ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode (4 days ago)
+- [vsxlabs/go-cookbook](https://github.com/vsxlabs/go-cookbook) - A comprehensive collection of practical Go code snippets, examples, and recipes for building efficient, reliable, and scalable applications. (6 days ago)
 
 ---
 
