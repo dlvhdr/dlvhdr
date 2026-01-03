@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [skanehira/version-lsp](https://github.com/skanehira/version-lsp) - A Language Server Protocol (LSP) implementation that provides version checking diagnostics for package dependency files. (today)
 - [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files. (1 day ago)
 - [tonisives/ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode (4 days ago)
-- [vsxlabs/go-cookbook](https://github.com/vsxlabs/go-cookbook) - A comprehensive collection of practical Go code snippets, examples, and recipes for building efficient, reliable, and scalable applications. (6 days ago)
 
 ---
 
