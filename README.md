@@ -20,8 +20,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
 - [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -32,14 +32,14 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [sideshowbarker](https://github.com/sideshowbarker) (1 day ago)
+- [sideshowbarker](https://github.com/sideshowbarker) (2 days ago)
 - [mrud](https://github.com/mrud) (1 week ago)
 - [shuv1337](https://github.com/shuv1337) (1 week ago)
 - [badlogic](https://github.com/badlogic) (1 week ago)
 - [steipete](https://github.com/steipete) (1 week ago)
 - [clockworkpc](https://github.com/clockworkpc) (1 week ago)
-- [binbandit](https://github.com/binbandit) (1 week ago)
-- [Steven0351](https://github.com/Steven0351) (1 week ago)
+- [binbandit](https://github.com/binbandit) (2 weeks ago)
+- [Steven0351](https://github.com/Steven0351) (2 weeks ago)
 - [Hidetoxin](https://github.com/Hidetoxin) (2 weeks ago)
 - [ryneflood](https://github.com/ryneflood) (1 month ago)
 
@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [skanehira/version-lsp](https://github.com/skanehira/version-lsp) - A Language Server Protocol (LSP) implementation that provides version checking diagnostics for package dependency files. (today)
-- [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files. (1 day ago)
-- [tonisives/ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode (4 days ago)
+- [skanehira/version-lsp](https://github.com/skanehira/version-lsp) - A Language Server Protocol (LSP) implementation that provides version checking diagnostics for package dependency files. (1 day ago)
+- [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files. (2 days ago)
+- [tonisives/ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode (5 days ago)
 
 ---
 
