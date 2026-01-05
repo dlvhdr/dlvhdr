@@ -20,8 +20,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
 - [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -32,7 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [sideshowbarker](https://github.com/sideshowbarker) (2 days ago)
+- [sideshowbarker](https://github.com/sideshowbarker) (3 days ago)
 - [mrud](https://github.com/mrud) (1 week ago)
 - [shuv1337](https://github.com/shuv1337) (1 week ago)
 - [badlogic](https://github.com/badlogic) (1 week ago)
@@ -40,19 +40,19 @@ This allows me to keep working on those libraries and tools and also create new 
 - [clockworkpc](https://github.com/clockworkpc) (1 week ago)
 - [binbandit](https://github.com/binbandit) (2 weeks ago)
 - [Steven0351](https://github.com/Steven0351) (2 weeks ago)
-- [Hidetoxin](https://github.com/Hidetoxin) (2 weeks ago)
+- [Hidetoxin](https://github.com/Hidetoxin) (3 weeks ago)
 - [ryneflood](https://github.com/ryneflood) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.20.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.20.1), 2 weeks ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 7 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.3.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.3.1), 8 months ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [skanehira/version-lsp](https://github.com/skanehira/version-lsp) - A Language Server Protocol (LSP) implementation that provides version checking diagnostics for package dependency files. (1 day ago)
-- [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files. (2 days ago)
-- [tonisives/ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode (5 days ago)
+- [skanehira/version-lsp](https://github.com/skanehira/version-lsp) - A Language Server Protocol (LSP) implementation that provides version checking diagnostics for package dependency files. (2 days ago)
+- [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files. (3 days ago)
+- [tonisives/ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode (6 days ago)
 
 ---
 
