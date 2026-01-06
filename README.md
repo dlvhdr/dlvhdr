@@ -20,8 +20,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (3 days ago)
 - [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -32,7 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [sideshowbarker](https://github.com/sideshowbarker) (3 days ago)
+- [sideshowbarker](https://github.com/sideshowbarker) (4 days ago)
 - [mrud](https://github.com/mrud) (1 week ago)
 - [shuv1337](https://github.com/shuv1337) (1 week ago)
 - [badlogic](https://github.com/badlogic) (1 week ago)
@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [skanehira/version-lsp](https://github.com/skanehira/version-lsp) - A Language Server Protocol (LSP) implementation that provides version checking diagnostics for package dependency files. (2 days ago)
-- [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files. (3 days ago)
-- [tonisives/ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode (6 days ago)
+- [skanehira/version-lsp](https://github.com/skanehira/version-lsp) - A Language Server Protocol (LSP) implementation that provides version checking diagnostics for package dependency files. (3 days ago)
+- [teamtype/teamtype](https://github.com/teamtype/teamtype) - Peer-to-peer, editor-agnostic collaborative editing of local text files. (4 days ago)
+- [tonisives/ovim](https://github.com/tonisives/ovim) - macOS system wide vim mode (1 week ago)
 
 ---
 
