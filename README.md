@@ -20,7 +20,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (5 days ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (6 days ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 week ago)
 
@@ -35,9 +35,9 @@ This allows me to keep working on those libraries and tools and also create new 
 - [sideshowbarker](https://github.com/sideshowbarker) (1 week ago)
 - [mrud](https://github.com/mrud) (2 weeks ago)
 - [shuv1337](https://github.com/shuv1337) (2 weeks ago)
-- [badlogic](https://github.com/badlogic) (2 weeks ago)
-- [steipete](https://github.com/steipete) (2 weeks ago)
-- [clockworkpc](https://github.com/clockworkpc) (2 weeks ago)
+- [badlogic](https://github.com/badlogic) (3 weeks ago)
+- [steipete](https://github.com/steipete) (3 weeks ago)
+- [clockworkpc](https://github.com/clockworkpc) (3 weeks ago)
 - [binbandit](https://github.com/binbandit) (3 weeks ago)
 - [Steven0351](https://github.com/Steven0351) (3 weeks ago)
 - [Hidetoxin](https://github.com/Hidetoxin) (1 month ago)
@@ -45,14 +45,14 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.5.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.5.0), today) - A git diff pager based on delta but with a file tree, à la GitHub.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.21.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.21.0), 5 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.5.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.5.0), 1 day ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.21.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.21.0), 6 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 #### ⭐ Recent Stars
 
-- [cesarferreira/stax](https://github.com/cesarferreira/stax) - The fastest stacked-branch workflow for Git. Interactive TUI, smart PRs, safe undo. Written in Rust. (1 day ago)
-- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality. (1 day ago)
-- [madmaxieee/fff-snacks.nvim](https://github.com/madmaxieee/fff-snacks.nvim) - A snacks.nvim source for fff.nvim. (3 days ago)
+- [cesarferreira/stax](https://github.com/cesarferreira/stax) - The fastest stacked-branch workflow for Git. Interactive TUI, smart PRs, safe undo. Written in Rust. (2 days ago)
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality. (2 days ago)
+- [madmaxieee/fff-snacks.nvim](https://github.com/madmaxieee/fff-snacks.nvim) - A snacks.nvim source for fff.nvim. (4 days ago)
 
 ---
 
