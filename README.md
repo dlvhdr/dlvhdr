@@ -22,7 +22,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 week ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 week ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 weeks ago)
 
 #### 📜 My recent blog posts
 
@@ -45,14 +45,14 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.5.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.5.0), 2 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.5.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.5.0), 3 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.21.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.21.0), 1 week ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 #### ⭐ Recent Stars
 
-- [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal. (1 day ago)
-- [cesarferreira/stax](https://github.com/cesarferreira/stax) - The fastest stacked-branch workflow for Git. Interactive TUI, smart PRs, safe undo. Written in Rust. (3 days ago)
-- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality. (3 days ago)
+- [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal. (2 days ago)
+- [cesarferreira/stax](https://github.com/cesarferreira/stax) - The fastest stacked-branch workflow for Git. Interactive TUI, smart PRs, safe undo. Written in Rust. (4 days ago)
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality. (4 days ago)
 
 ---
 
