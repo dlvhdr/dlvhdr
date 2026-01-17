@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [mikker/steve](https://github.com/mikker/steve) -  (today)
 - [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal. (2 days ago)
 - [cesarferreira/stax](https://github.com/cesarferreira/stax) - The fastest stacked-branch workflow for Git. Interactive TUI, smart PRs, safe undo. Written in Rust. (4 days ago)
-- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality. (4 days ago)
 
 ---
 
