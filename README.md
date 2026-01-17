@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [dlvhdr-insiders/gh-enhance](https://github.com/dlvhdr-insiders/gh-enhance) -  (today)
 - [mikker/steve](https://github.com/mikker/steve) -  (today)
 - [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal. (2 days ago)
-- [cesarferreira/stax](https://github.com/cesarferreira/stax) - The fastest stacked-branch workflow for Git. Interactive TUI, smart PRs, safe undo. Written in Rust. (4 days ago)
 
 ---
 
