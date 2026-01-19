@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [akw100/hebrew-touch-typing](https://github.com/akw100/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (today)
 - [dlvhdr-insiders/gh-enhance](https://github.com/dlvhdr-insiders/gh-enhance) -  (2 days ago)
 - [mikker/steve](https://github.com/mikker/steve) -  (2 days ago)
-- [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal. (4 days ago)
 
 ---
 
