@@ -20,8 +20,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (1 day ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 week ago)
 
 #### 📜 My recent blog posts
@@ -45,14 +45,14 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.6.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.6.0), 1 day ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.6.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.6.0), 2 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.21.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.21.0), 1 week ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 #### ⭐ Recent Stars
 
-- [dlvhdr-insiders/gh-enhance](https://github.com/dlvhdr-insiders/gh-enhance) -  (1 day ago)
-- [mikker/steve](https://github.com/mikker/steve) -  (1 day ago)
-- [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal. (3 days ago)
+- [dlvhdr-insiders/gh-enhance](https://github.com/dlvhdr-insiders/gh-enhance) -  (2 days ago)
+- [mikker/steve](https://github.com/mikker/steve) -  (2 days ago)
+- [chmouel/lazyworktree](https://github.com/chmouel/lazyworktree) - Easy Git worktree management for the terminal. (4 days ago)
 
 ---
 
