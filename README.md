@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) - The A to Z of Modern Unix 🐧 (today)
 - [akw100/hebrew-touch-typing](https://github.com/akw100/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (1 day ago)
 - [dlvhdr-insiders/gh-enhance](https://github.com/dlvhdr-insiders/gh-enhance) -  (3 days ago)
-- [mikker/steve](https://github.com/mikker/steve) -  (3 days ago)
 
 ---
 
