@@ -20,8 +20,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
-- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (3 days ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 week ago)
 
 #### 📜 My recent blog posts
@@ -38,21 +38,21 @@ This allows me to keep working on those libraries and tools and also create new 
 - [badlogic](https://github.com/badlogic) (3 weeks ago)
 - [steipete](https://github.com/steipete) (3 weeks ago)
 - [clockworkpc](https://github.com/clockworkpc) (3 weeks ago)
-- [binbandit](https://github.com/binbandit) (4 weeks ago)
-- [Steven0351](https://github.com/Steven0351) (4 weeks ago)
+- [binbandit](https://github.com/binbandit) (1 month ago)
+- [Steven0351](https://github.com/Steven0351) (1 month ago)
 - [Hidetoxin](https://github.com/Hidetoxin) (1 month ago)
 - [ryneflood](https://github.com/ryneflood) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.6.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.6.0), 2 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.6.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.6.0), 3 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.21.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.21.0), 1 week ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 #### ⭐ Recent Stars
 
-- [akw100/hebrew-touch-typing](https://github.com/akw100/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (today)
-- [dlvhdr-insiders/gh-enhance](https://github.com/dlvhdr-insiders/gh-enhance) -  (2 days ago)
-- [mikker/steve](https://github.com/mikker/steve) -  (2 days ago)
+- [akw100/hebrew-touch-typing](https://github.com/akw100/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (1 day ago)
+- [dlvhdr-insiders/gh-enhance](https://github.com/dlvhdr-insiders/gh-enhance) -  (3 days ago)
+- [mikker/steve](https://github.com/mikker/steve) -  (3 days ago)
 
 ---
 
