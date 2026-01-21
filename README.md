@@ -20,13 +20,13 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
-- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (3 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (4 days ago)
 
 #### 📜 My recent blog posts
 
-- [On Open Source Sustainability](https://dlvhdr.me/posts/support-oss) (1 month ago)
+- [On Open Source Sustainability](https://dlvhdr.me/posts/support-oss) (2 months ago)
 - [My List of CLI Gems](https://dlvhdr.me/posts/cli-tools) (2 years ago)
 - [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (2 years ago)
 
@@ -45,14 +45,14 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.22.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.22.0), today) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.6.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.6.0), 3 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.22.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.22.0), 1 day ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.6.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.6.0), 4 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) - The A to Z of Modern Unix 🐧 (today)
-- [akw100/hebrew-touch-typing](https://github.com/akw100/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (1 day ago)
-- [dlvhdr-insiders/gh-enhance](https://github.com/dlvhdr-insiders/gh-enhance) -  (3 days ago)
+- [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) - The A to Z of Modern Unix 🐧 (1 day ago)
+- [akw100/hebrew-touch-typing](https://github.com/akw100/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (2 days ago)
+- [dlvhdr-insiders/gh-enhance](https://github.com/dlvhdr-insiders/gh-enhance) -  (4 days ago)
 
 ---
 
