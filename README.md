@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [nnnkkk7/lazyactions](https://github.com/nnnkkk7/lazyactions) - Lazygit-style TUI for GitHub Actions — monitor, trigger, and manage workflows from your terminal (today)
 - [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) - The A to Z of Modern Unix 🐧 (1 day ago)
 - [akw100/hebrew-touch-typing](https://github.com/akw100/hebrew-touch-typing) - A website to learn and practice touch typing in Hebrew 🇮🇱 (2 days ago)
-- [dlvhdr-insiders/gh-enhance](https://github.com/dlvhdr-insiders/gh-enhance) -  (4 days ago)
 
 ---
 
