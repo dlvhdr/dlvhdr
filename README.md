@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (today)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 day ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 days ago)
 
 #### 📜 My recent blog posts
 
@@ -35,9 +35,9 @@ This allows me to keep working on those libraries and tools and also create new 
 - [sideshowbarker](https://github.com/sideshowbarker) (2 weeks ago)
 - [mrud](https://github.com/mrud) (3 weeks ago)
 - [shuv1337](https://github.com/shuv1337) (3 weeks ago)
-- [badlogic](https://github.com/badlogic) (3 weeks ago)
-- [steipete](https://github.com/steipete) (3 weeks ago)
-- [clockworkpc](https://github.com/clockworkpc) (3 weeks ago)
+- [badlogic](https://github.com/badlogic) (4 weeks ago)
+- [steipete](https://github.com/steipete) (4 weeks ago)
+- [clockworkpc](https://github.com/clockworkpc) (4 weeks ago)
 - [binbandit](https://github.com/binbandit) (1 month ago)
 - [Steven0351](https://github.com/Steven0351) (1 month ago)
 - [Hidetoxin](https://github.com/Hidetoxin) (1 month ago)
@@ -45,14 +45,14 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.22.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.22.0), 1 day ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.6.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.6.0), 4 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.22.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.22.0), 2 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.6.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.6.0), 5 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [unsecretised/rustcast](https://github.com/unsecretised/rustcast) - An open source alternative to raycast, in rust!! (today)
-- [nnnkkk7/lazyactions](https://github.com/nnnkkk7/lazyactions) - Lazygit-style TUI for GitHub Actions — monitor, trigger, and manage workflows from your terminal (today)
-- [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) - The A to Z of Modern Unix 🐧 (1 day ago)
+- [unsecretised/rustcast](https://github.com/unsecretised/rustcast) - An open source alternative to raycast, in rust!! (1 day ago)
+- [nnnkkk7/lazyactions](https://github.com/nnnkkk7/lazyactions) - Lazygit-style TUI for GitHub Actions — monitor, trigger, and manage workflows from your terminal (1 day ago)
+- [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) - The A to Z of Modern Unix 🐧 (2 days ago)
 
 ---
 
