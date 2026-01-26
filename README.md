@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (4 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (5 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (5 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -32,8 +32,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [kenosando](https://github.com/kenosando) (3 days ago)
-- [Brend-Smits](https://github.com/Brend-Smits) (3 days ago)
+- [kenosando](https://github.com/kenosando) (4 days ago)
+- [Brend-Smits](https://github.com/Brend-Smits) (4 days ago)
 - [sideshowbarker](https://github.com/sideshowbarker) (3 weeks ago)
 - [mrud](https://github.com/mrud) (1 month ago)
 - [shuv1337](https://github.com/shuv1337) (1 month ago)
@@ -45,14 +45,14 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.22.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.22.0), 5 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.22.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.22.0), 6 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.6.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.6.0), 1 week ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [unsecretised/rustcast](https://github.com/unsecretised/rustcast) - An open source alternative to raycast, in rust!! (4 days ago)
-- [nnnkkk7/lazyactions](https://github.com/nnnkkk7/lazyactions) - Lazygit-style TUI for GitHub Actions — monitor, trigger, and manage workflows from your terminal (4 days ago)
-- [linuxmatters/terminal-velocity](https://github.com/linuxmatters/terminal-velocity) - The A to Z of Modern Unix 🐧 (5 days ago)
+- [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React (1 day ago)
+- [unsecretised/rustcast](https://github.com/unsecretised/rustcast) - An open source alternative to raycast, in rust!! (5 days ago)
+- [nnnkkk7/lazyactions](https://github.com/nnnkkk7/lazyactions) - Lazygit-style TUI for GitHub Actions — monitor, trigger, and manage workflows from your terminal (5 days ago)
 
 ---
 
