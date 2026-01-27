@@ -38,7 +38,7 @@ This allows me to keep working on those libraries and tools and also create new 
 - [mrud](https://github.com/mrud) (1 month ago)
 - [shuv1337](https://github.com/shuv1337) (1 month ago)
 - [badlogic](https://github.com/badlogic) (1 month ago)
-- [moltbot](https://github.com/moltbot) (1 month ago)
+- [steipete](https://github.com/steipete) (1 month ago)
 - [clockworkpc](https://github.com/clockworkpc) (1 month ago)
 - [binbandit](https://github.com/binbandit) (1 month ago)
 - [Steven0351](https://github.com/Steven0351) (1 month ago)
