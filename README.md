@@ -32,6 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
+- [asfaltboy](https://github.com/asfaltboy) (today)
 - [mchisolm0](https://github.com/mchisolm0) (1 day ago)
 - [kenosando](https://github.com/kenosando) (1 week ago)
 - [Brend-Smits](https://github.com/Brend-Smits) (1 week ago)
@@ -41,7 +42,6 @@ This allows me to keep working on those libraries and tools and also create new 
 - [badlogic](https://github.com/badlogic) (1 month ago)
 - [steipete](https://github.com/steipete) (1 month ago)
 - [clockworkpc](https://github.com/clockworkpc) (1 month ago)
-- [binbandit](https://github.com/binbandit) (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
