@@ -50,9 +50,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - 🪄 Speed up eslint to accelerate your development workflow (today)
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React (1 week ago)
 - [unsecretised/rustcast](https://github.com/unsecretised/rustcast) - An open source alternative to raycast, in rust!! (1 week ago)
-- [nnnkkk7/lazyactions](https://github.com/nnnkkk7/lazyactions) - Lazygit-style TUI for GitHub Actions — monitor, trigger, and manage workflows from your terminal (1 week ago)
 
 ---
 
