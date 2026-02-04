@@ -20,8 +20,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (3 days ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (4 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 weeks ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -32,8 +32,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [asfaltboy](https://github.com/asfaltboy) (1 day ago)
-- [mchisolm0](https://github.com/mchisolm0) (2 days ago)
+- [asfaltboy](https://github.com/asfaltboy) (2 days ago)
+- [mchisolm0](https://github.com/mchisolm0) (3 days ago)
 - [kenosando](https://github.com/kenosando) (1 week ago)
 - [Brend-Smits](https://github.com/Brend-Smits) (1 week ago)
 - [sideshowbarker](https://github.com/sideshowbarker) (1 month ago)
@@ -45,14 +45,14 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.8.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.8.1), 3 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.8.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.8.1), 4 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.22.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.22.0), 2 weeks ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 #### ⭐ Recent Stars
 
-- [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - 🪄 Speed up eslint to accelerate your development workflow (today)
+- [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - 🪄 Speed up eslint to accelerate your development workflow (1 day ago)
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React (1 week ago)
-- [unsecretised/rustcast](https://github.com/unsecretised/rustcast) - An open source alternative to raycast, in rust!! (1 week ago)
+- [unsecretised/rustcast](https://github.com/unsecretised/rustcast) - An open source alternative to raycast, in rust!! (2 weeks ago)
 
 ---
 
