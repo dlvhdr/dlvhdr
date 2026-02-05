@@ -20,7 +20,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (4 days ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (5 days ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 weeks ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 weeks ago)
 
@@ -32,10 +32,10 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [asfaltboy](https://github.com/asfaltboy) (2 days ago)
-- [mchisolm0](https://github.com/mchisolm0) (3 days ago)
-- [kenosando](https://github.com/kenosando) (1 week ago)
-- [Brend-Smits](https://github.com/Brend-Smits) (1 week ago)
+- [asfaltboy](https://github.com/asfaltboy) (3 days ago)
+- [mchisolm0](https://github.com/mchisolm0) (4 days ago)
+- [kenosando](https://github.com/kenosando) (2 weeks ago)
+- [Brend-Smits](https://github.com/Brend-Smits) (2 weeks ago)
 - [sideshowbarker](https://github.com/sideshowbarker) (1 month ago)
 - [mrud](https://github.com/mrud) (1 month ago)
 - [shuv1337](https://github.com/shuv1337) (1 month ago)
@@ -45,12 +45,12 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.8.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.8.1), 4 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.8.1](https://github.com/dlvhdr/diffnav/releases/tag/v0.8.1), 5 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.22.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.22.0), 2 weeks ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 #### ⭐ Recent Stars
 
-- [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - 🪄 Speed up eslint to accelerate your development workflow (1 day ago)
+- [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - 🪄 Speed up eslint to accelerate your development workflow (2 days ago)
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React (1 week ago)
 - [unsecretised/rustcast](https://github.com/unsecretised/rustcast) - An open source alternative to raycast, in rust!! (2 weeks ago)
 
