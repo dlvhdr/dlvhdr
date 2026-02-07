@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (today)
 - [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - 🪄 Speed up eslint to accelerate your development workflow (4 days ago)
 - [resend/react-email](https://github.com/resend/react-email) - 💌 Build and send emails using React (1 week ago)
-- [unsecretised/rustcast](https://github.com/unsecretised/rustcast) - An open source alternative to raycast, in rust!! (2 weeks ago)
 
 ---
 
