@@ -22,7 +22,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (today)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (today)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -45,15 +45,15 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.9.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.9.0), 6 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.9.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.9.0), 1 week ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.4.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.4.1), 1 week ago) - A Blazingly Fast Terminal UI for GitHub Actions
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.22.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.22.0), 3 weeks ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 #### ⭐ Recent Stars
 
-- [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app (today)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (6 days ago)
-- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (6 days ago)
+- [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app (1 day ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 week ago)
+- [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler) - The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte (1 week ago)
 
 ---
 
