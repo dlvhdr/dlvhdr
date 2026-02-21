@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (4 days ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (5 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (6 days ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (5 days ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (6 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -32,11 +32,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [stephenhuh](https://github.com/stephenhuh) (1 day ago)
+- [stephenhuh](https://github.com/stephenhuh) (2 days ago)
 - [asfaltboy](https://github.com/asfaltboy) (2 weeks ago)
 - [mchisolm0](https://github.com/mchisolm0) (2 weeks ago)
-- [kenosando](https://github.com/kenosando) (4 weeks ago)
-- [Brend-Smits](https://github.com/Brend-Smits) (4 weeks ago)
+- [kenosando](https://github.com/kenosando) (1 month ago)
+- [Brend-Smits](https://github.com/Brend-Smits) (1 month ago)
 - [sideshowbarker](https://github.com/sideshowbarker) (1 month ago)
 - [mrud](https://github.com/mrud) (1 month ago)
 - [shuv1337](https://github.com/shuv1337) (1 month ago)
@@ -45,14 +45,14 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.5.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.5.1), 4 days ago) - A Blazingly Fast Terminal UI for GitHub Actions
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.10.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.10.0), 4 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.5.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.5.1), 5 days ago) - A Blazingly Fast Terminal UI for GitHub Actions
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.10.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.10.0), 5 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.22.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.22.0), 1 month ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 #### ⭐ Recent Stars
 
-- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust. (1 day ago)
-- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named .localhost URLs. For humans and agents. (2 days ago)
+- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust. (2 days ago)
+- [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named .localhost URLs. For humans and agents. (3 days ago)
 - [tuanchauict/MonoSketch](https://github.com/tuanchauict/MonoSketch) - An ASCII graph drawing app (1 week ago)
 
 ---
