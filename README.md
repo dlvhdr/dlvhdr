@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (today)
 - [weedonandscott/trolley](https://github.com/weedonandscott/trolley) - Run terminal apps anywhere  (today)
 - [Veirt/weathr](https://github.com/Veirt/weathr) - a terminal weather app with ascii animation (1 day ago)
-- [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust. (3 days ago)
 
 ---
 
