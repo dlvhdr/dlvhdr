@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (today)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (6 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -32,28 +32,28 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [stephenhuh](https://github.com/stephenhuh) (3 days ago)
-- [asfaltboy](https://github.com/asfaltboy) (2 weeks ago)
+- [stephenhuh](https://github.com/stephenhuh) (4 days ago)
+- [asfaltboy](https://github.com/asfaltboy) (3 weeks ago)
 - [mchisolm0](https://github.com/mchisolm0) (3 weeks ago)
 - [kenosando](https://github.com/kenosando) (1 month ago)
 - [Brend-Smits](https://github.com/Brend-Smits) (1 month ago)
 - [sideshowbarker](https://github.com/sideshowbarker) (1 month ago)
 - [mrud](https://github.com/mrud) (1 month ago)
 - [shuv1337](https://github.com/shuv1337) (1 month ago)
-- [badlogic](https://github.com/badlogic) (1 month ago)
-- [steipete](https://github.com/steipete) (1 month ago)
+- [badlogic](https://github.com/badlogic) (2 months ago)
+- [steipete](https://github.com/steipete) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.5.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.5.1), 6 days ago) - A Blazingly Fast Terminal UI for GitHub Actions
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.10.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.10.0), 6 days ago) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.5.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.5.1), 1 week ago) - A Blazingly Fast Terminal UI for GitHub Actions
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.10.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.10.0), 1 week ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.22.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.22.0), 1 month ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 #### ⭐ Recent Stars
 
-- [raine/tmux-snaglord](https://github.com/raine/tmux-snaglord) -  (today)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (today)
-- [weedonandscott/trolley](https://github.com/weedonandscott/trolley) - Run terminal apps anywhere  (today)
+- [raine/tmux-snaglord](https://github.com/raine/tmux-snaglord) -  (1 day ago)
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (1 day ago)
+- [weedonandscott/trolley](https://github.com/weedonandscott/trolley) - Run terminal apps anywhere  (1 day ago)
 
 ---
 
