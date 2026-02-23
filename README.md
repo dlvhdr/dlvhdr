@@ -39,9 +39,9 @@ This allows me to keep working on those libraries and tools and also create new 
 - [Brend-Smits](https://github.com/Brend-Smits) (1 month ago)
 - [sideshowbarker](https://github.com/sideshowbarker) (1 month ago)
 - [mrud](https://github.com/mrud) (1 month ago)
-- [shuv1337](https://github.com/shuv1337) (1 month ago)
 - [badlogic](https://github.com/badlogic) (2 months ago)
 - [steipete](https://github.com/steipete) (2 months ago)
+- [clockworkpc](https://github.com/clockworkpc) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [lrstanley/go-nf](https://github.com/lrstanley/go-nf) - Nerd Font glyphs exported as a native Go package (today)
 - [raine/tmux-snaglord](https://github.com/raine/tmux-snaglord) -  (1 day ago)
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (1 day ago)
-- [weedonandscott/trolley](https://github.com/weedonandscott/trolley) - Run terminal apps anywhere  (1 day ago)
 
 ---
 
