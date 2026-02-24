@@ -20,8 +20,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 day ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 week ago)
 
 #### 📜 My recent blog posts
@@ -32,13 +32,13 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [stephenhuh](https://github.com/stephenhuh) (4 days ago)
+- [stephenhuh](https://github.com/stephenhuh) (5 days ago)
 - [asfaltboy](https://github.com/asfaltboy) (3 weeks ago)
 - [mchisolm0](https://github.com/mchisolm0) (3 weeks ago)
 - [kenosando](https://github.com/kenosando) (1 month ago)
 - [Brend-Smits](https://github.com/Brend-Smits) (1 month ago)
 - [sideshowbarker](https://github.com/sideshowbarker) (1 month ago)
-- [mrud](https://github.com/mrud) (1 month ago)
+- [mrud](https://github.com/mrud) (2 months ago)
 - [badlogic](https://github.com/badlogic) (2 months ago)
 - [steipete](https://github.com/steipete) (2 months ago)
 - [clockworkpc](https://github.com/clockworkpc) (2 months ago)
@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [lrstanley/go-nf](https://github.com/lrstanley/go-nf) - Nerd Font glyphs exported as a native Go package (today)
-- [raine/tmux-snaglord](https://github.com/raine/tmux-snaglord) -  (1 day ago)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (1 day ago)
+- [lrstanley/go-nf](https://github.com/lrstanley/go-nf) - Nerd Font glyphs exported as a native Go package (1 day ago)
+- [raine/tmux-snaglord](https://github.com/raine/tmux-snaglord) -  (2 days ago)
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (2 days ago)
 
 ---
 
