@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand TypeScript types inside hover floats. (today)
 - [lrstanley/go-nf](https://github.com/lrstanley/go-nf) - Nerd Font glyphs exported as a native Go package (2 days ago)
 - [raine/tmux-snaglord](https://github.com/raine/tmux-snaglord) -  (3 days ago)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls (3 days ago)
 
 ---
 
