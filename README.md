@@ -20,8 +20,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 week ago)
 
 #### 📜 My recent blog posts
@@ -34,7 +34,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 - [stephenhuh](https://github.com/stephenhuh) (1 week ago)
 - [asfaltboy](https://github.com/asfaltboy) (3 weeks ago)
-- [mchisolm0](https://github.com/mchisolm0) (3 weeks ago)
+- [mchisolm0](https://github.com/mchisolm0) (4 weeks ago)
 - [kenosando](https://github.com/kenosando) (1 month ago)
 - [Brend-Smits](https://github.com/Brend-Smits) (1 month ago)
 - [sideshowbarker](https://github.com/sideshowbarker) (1 month ago)
@@ -45,15 +45,15 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0), 4 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0), 5 days ago) - Style definitions for nice terminal layouts 👄
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.5.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.5.1), 1 week ago) - A Blazingly Fast Terminal UI for GitHub Actions
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.10.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.10.0), 1 week ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand TypeScript types inside hover floats. (3 days ago)
-- [lrstanley/go-nf](https://github.com/lrstanley/go-nf) - Nerd Font glyphs exported as a native Go package (5 days ago)
-- [raine/tmux-snaglord](https://github.com/raine/tmux-snaglord) -  (6 days ago)
+- [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand TypeScript types inside hover floats. (4 days ago)
+- [lrstanley/go-nf](https://github.com/lrstanley/go-nf) - Nerd Font glyphs exported as a native Go package (6 days ago)
+- [raine/tmux-snaglord](https://github.com/raine/tmux-snaglord) -  (1 week ago)
 
 ---
 
