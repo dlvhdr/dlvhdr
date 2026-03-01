@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (today)
 - [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand TypeScript types inside hover floats. (4 days ago)
 - [lrstanley/go-nf](https://github.com/lrstanley/go-nf) - Nerd Font glyphs exported as a native Go package (6 days ago)
-- [raine/tmux-snaglord](https://github.com/raine/tmux-snaglord) -  (1 week ago)
 
 ---
 
