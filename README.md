@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [StanMarek/ghost-complete](https://github.com/StanMarek/ghost-complete) - Terminal-native autocomplete engine using PTY proxying. Inspired by Fig (RIP), built for Ghostty. (today)
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (1 day ago)
 - [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand TypeScript types inside hover floats. (5 days ago)
-- [lrstanley/go-nf](https://github.com/lrstanley/go-nf) - Nerd Font glyphs exported as a native Go package (1 week ago)
 
 ---
 
