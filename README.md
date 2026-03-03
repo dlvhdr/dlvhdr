@@ -20,7 +20,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (3 days ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (2 weeks ago)
 
@@ -32,28 +32,28 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [yowainwright](https://github.com/yowainwright) (1 day ago)
+- [yowainwright](https://github.com/yowainwright) (2 days ago)
 - [stephenhuh](https://github.com/stephenhuh) (1 week ago)
 - [asfaltboy](https://github.com/asfaltboy) (4 weeks ago)
-- [mchisolm0](https://github.com/mchisolm0) (4 weeks ago)
+- [mchisolm0](https://github.com/mchisolm0) (1 month ago)
 - [kenosando](https://github.com/kenosando) (1 month ago)
 - [Brend-Smits](https://github.com/Brend-Smits) (1 month ago)
-- [sideshowbarker](https://github.com/sideshowbarker) (1 month ago)
+- [sideshowbarker](https://github.com/sideshowbarker) (2 months ago)
 - [mrud](https://github.com/mrud) (2 months ago)
 - [badlogic](https://github.com/badlogic) (2 months ago)
 - [steipete](https://github.com/steipete) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0), 6 days ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.5.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.5.1), 2 weeks ago) - A Blazingly Fast Terminal UI for GitHub Actions
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.10.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.10.0), 2 weeks ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [StanMarek/ghost-complete](https://github.com/StanMarek/ghost-complete) - Terminal-native autocomplete engine using PTY proxying. Inspired by Fig (RIP), built for Ghostty. (today)
-- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (1 day ago)
-- [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand TypeScript types inside hover floats. (5 days ago)
+- [StanMarek/ghost-complete](https://github.com/StanMarek/ghost-complete) - Terminal-native autocomplete engine using PTY proxying. Inspired by Fig (RIP), built for Ghostty. (1 day ago)
+- [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit (2 days ago)
+- [nemanjamalesija/ts-expand-hover.nvim](https://github.com/nemanjamalesija/ts-expand-hover.nvim) - Progressively expand TypeScript types inside hover floats. (6 days ago)
 
 ---
 
