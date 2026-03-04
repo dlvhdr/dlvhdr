@@ -20,7 +20,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (3 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (4 days ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (2 weeks ago)
 
@@ -32,9 +32,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [yowainwright](https://github.com/yowainwright) (2 days ago)
+- [yowainwright](https://github.com/yowainwright) (3 days ago)
 - [stephenhuh](https://github.com/stephenhuh) (1 week ago)
-- [asfaltboy](https://github.com/asfaltboy) (4 weeks ago)
+- [asfaltboy](https://github.com/asfaltboy) (1 month ago)
 - [mchisolm0](https://github.com/mchisolm0) (1 month ago)
 - [kenosando](https://github.com/kenosando) (1 month ago)
 - [Brend-Smits](https://github.com/Brend-Smits) (1 month ago)
@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 (today)
-- [Gaurav-Gosain/meetty](https://github.com/Gaurav-Gosain/meetty) - Livekit TUI Client. (today)
-- [StanMarek/ghost-complete](https://github.com/StanMarek/ghost-complete) - Terminal-native autocomplete engine using PTY proxying. Inspired by Fig (RIP), built for Ghostty. (1 day ago)
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 (1 day ago)
+- [Gaurav-Gosain/meetty](https://github.com/Gaurav-Gosain/meetty) - Livekit TUI Client. (1 day ago)
+- [StanMarek/ghost-complete](https://github.com/StanMarek/ghost-complete) - Terminal-native autocomplete engine using PTY proxying. Inspired by Fig (RIP), built for Ghostty. (2 days ago)
 
 ---
 
