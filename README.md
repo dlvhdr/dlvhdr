@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city (today)
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。 (1 day ago)
 - [Gaurav-Gosain/meetty](https://github.com/Gaurav-Gosain/meetty) - Livekit TUI Client. (1 day ago)
-- [StanMarek/ghost-complete](https://github.com/StanMarek/ghost-complete) - Terminal-native autocomplete engine using PTY proxying. Inspired by Fig (RIP), built for Ghostty. (2 days ago)
 
 ---
 
