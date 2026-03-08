@@ -32,6 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
+- [vosahloj](https://github.com/vosahloj) (today)
 - [SacredTexts](https://github.com/SacredTexts) (1 day ago)
 - [yowainwright](https://github.com/yowainwright) (1 week ago)
 - [stephenhuh](https://github.com/stephenhuh) (2 weeks ago)
@@ -41,7 +42,6 @@ This allows me to keep working on those libraries and tools and also create new 
 - [Brend-Smits](https://github.com/Brend-Smits) (1 month ago)
 - [sideshowbarker](https://github.com/sideshowbarker) (2 months ago)
 - [mrud](https://github.com/mrud) (2 months ago)
-- [badlogic](https://github.com/badlogic) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
