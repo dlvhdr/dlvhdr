@@ -21,7 +21,7 @@ This allows me to keep working on those libraries and tools and also create new 
 #### 👷 Check out what I'm currently working on
 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 week ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 weeks ago)
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -32,8 +32,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [SacredTexts](https://github.com/SacredTexts) (today)
-- [yowainwright](https://github.com/yowainwright) (6 days ago)
+- [SacredTexts](https://github.com/SacredTexts) (1 day ago)
+- [yowainwright](https://github.com/yowainwright) (1 week ago)
 - [stephenhuh](https://github.com/stephenhuh) (2 weeks ago)
 - [asfaltboy](https://github.com/asfaltboy) (1 month ago)
 - [mchisolm0](https://github.com/mchisolm0) (1 month ago)
@@ -45,15 +45,15 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.23.2](https://github.com/dlvhdr/gh-dash/releases/tag/v4.23.2), today) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.23.2](https://github.com/dlvhdr/gh-dash/releases/tag/v4.23.2), 1 day ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.0](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.0), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.5.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.5.1), 2 weeks ago) - A Blazingly Fast Terminal UI for GitHub Actions
 
 #### ⭐ Recent Stars
 
-- [taigrr/bubbleterm](https://github.com/taigrr/bubbleterm) -  (1 day ago)
-- [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID. (2 days ago)
-- [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city (3 days ago)
+- [taigrr/bubbleterm](https://github.com/taigrr/bubbleterm) -  (2 days ago)
+- [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID. (3 days ago)
+- [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city (4 days ago)
 
 ---
 
