@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [bahdotsh/mdterm](https://github.com/bahdotsh/mdterm) -  (today)
 - [taigrr/bubbleterm](https://github.com/taigrr/bubbleterm) -  (4 days ago)
 - [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID. (5 days ago)
-- [srizzon/git-city](https://github.com/srizzon/git-city) - Your GitHub profile as a 3D pixel art building in an interactive city (6 days ago)
 
 ---
 
