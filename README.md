@@ -32,8 +32,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [vosahloj](https://github.com/vosahloj) (2 days ago)
-- [SacredTexts](https://github.com/SacredTexts) (3 days ago)
+- [vosahloj](https://github.com/vosahloj) (3 days ago)
+- [SacredTexts](https://github.com/SacredTexts) (4 days ago)
 - [yowainwright](https://github.com/yowainwright) (1 week ago)
 - [stephenhuh](https://github.com/stephenhuh) (2 weeks ago)
 - [asfaltboy](https://github.com/asfaltboy) (1 month ago)
@@ -45,15 +45,15 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.1), 1 day ago) - Style definitions for nice terminal layouts 👄
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.23.2](https://github.com/dlvhdr/gh-dash/releases/tag/v4.23.2), 3 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.1](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.1), 2 days ago) - Style definitions for nice terminal layouts 👄
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.23.2](https://github.com/dlvhdr/gh-dash/releases/tag/v4.23.2), 4 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.5.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.5.1), 3 weeks ago) - A Blazingly Fast Terminal UI for GitHub Actions
 
 #### ⭐ Recent Stars
 
-- [bahdotsh/mdterm](https://github.com/bahdotsh/mdterm) -  (today)
-- [taigrr/bubbleterm](https://github.com/taigrr/bubbleterm) -  (4 days ago)
-- [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID. (5 days ago)
+- [bahdotsh/mdterm](https://github.com/bahdotsh/mdterm) -  (1 day ago)
+- [taigrr/bubbleterm](https://github.com/taigrr/bubbleterm) -  (5 days ago)
+- [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID. (6 days ago)
 
 ---
 
