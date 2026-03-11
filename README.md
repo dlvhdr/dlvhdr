@@ -51,7 +51,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [bahdotsh/mdterm](https://github.com/bahdotsh/mdterm) -  (1 day ago)
+- [bahdotsh/mdterm](https://github.com/bahdotsh/mdterm) - A terminal-based Markdown browser. (1 day ago)
 - [taigrr/bubbleterm](https://github.com/taigrr/bubbleterm) -  (5 days ago)
 - [taigrr/spank](https://github.com/taigrr/spank) - Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID. (6 days ago)
 
