@@ -20,21 +20,21 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (today)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 day ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [On Open Source Sustainability](https://dlvhdr.me/posts/support-oss) (3 months ago)
+- [On Open Source Sustainability](https://dlvhdr.me/posts/support-oss) (4 months ago)
 - [My List of CLI Gems](https://dlvhdr.me/posts/cli-tools) (2 years ago)
 - [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (2 years ago)
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [vosahloj](https://github.com/vosahloj) (1 week ago)
+- [vosahloj](https://github.com/vosahloj) (2 weeks ago)
 - [SacredTexts](https://github.com/SacredTexts) (2 weeks ago)
-- [yowainwright](https://github.com/yowainwright) (2 weeks ago)
+- [yowainwright](https://github.com/yowainwright) (3 weeks ago)
 - [stephenhuh](https://github.com/stephenhuh) (1 month ago)
 - [asfaltboy](https://github.com/asfaltboy) (1 month ago)
 - [mchisolm0](https://github.com/mchisolm0) (1 month ago)
@@ -45,15 +45,15 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.11.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.11.0), today) - A git diff pager based on delta but with a file tree, à la GitHub.
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.11.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.11.0), 1 day ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.2), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.23.2](https://github.com/dlvhdr/gh-dash/releases/tag/v4.23.2), 2 weeks ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 #### ⭐ Recent Stars
 
-- [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop. (4 days ago)
-- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (5 days ago)
-- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite&#43; is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place. (5 days ago)
+- [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop. (5 days ago)
+- [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (6 days ago)
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite&#43; is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place. (6 days ago)
 
 ---
 
