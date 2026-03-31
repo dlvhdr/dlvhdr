@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) - CLI for Port — enables developers to interact and manage Port programmatically. (today)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 days ago)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (3 days ago)
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) - CLI for Port — enables developers to interact and manage Port programmatically. (1 day ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (3 days ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (4 days ago)
 
 #### 📜 My recent blog posts
 
@@ -35,7 +35,7 @@ This allows me to keep working on those libraries and tools and also create new 
 - [serhalp](https://github.com/serhalp) (1 week ago)
 - [vosahloj](https://github.com/vosahloj) (3 weeks ago)
 - [SacredTexts](https://github.com/SacredTexts) (3 weeks ago)
-- [yowainwright](https://github.com/yowainwright) (4 weeks ago)
+- [yowainwright](https://github.com/yowainwright) (1 month ago)
 - [stephenhuh](https://github.com/stephenhuh) (1 month ago)
 - [asfaltboy](https://github.com/asfaltboy) (1 month ago)
 - [mchisolm0](https://github.com/mchisolm0) (1 month ago)
@@ -45,13 +45,13 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.1.17](https://github.com/port-experimental/port-cli/releases/tag/v0.1.17), 4 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.1.17](https://github.com/port-experimental/port-cli/releases/tag/v0.1.17), 5 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.11.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.11.0), 1 week ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.2), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### ⭐ Recent Stars
 
-- [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop. (1 week ago)
+- [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop. (2 weeks ago)
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (2 weeks ago)
 - [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite&#43; is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place. (2 weeks ago)
 
