@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [batrachianai/textual-diff-view](https://github.com/batrachianai/textual-diff-view) - The Diff View used in Toad (today)
 - [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop. (2 weeks ago)
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (2 weeks ago)
-- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite&#43; is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place. (2 weeks ago)
 
 ---
 
