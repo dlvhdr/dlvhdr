@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) - CLI for Port — enables developers to interact and manage Port programmatically. (1 day ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (4 days ago)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (5 days ago)
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) - CLI for Port — enables developers to interact and manage Port programmatically. (2 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (5 days ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -38,20 +38,20 @@ This allows me to keep working on those libraries and tools and also create new 
 - [yowainwright](https://github.com/yowainwright) (1 month ago)
 - [stephenhuh](https://github.com/stephenhuh) (1 month ago)
 - [asfaltboy](https://github.com/asfaltboy) (1 month ago)
-- [mchisolm0](https://github.com/mchisolm0) (1 month ago)
+- [mchisolm0](https://github.com/mchisolm0) (2 months ago)
 - [kenosando](https://github.com/kenosando) (2 months ago)
 - [Brend-Smits](https://github.com/Brend-Smits) (2 months ago)
-- [sideshowbarker](https://github.com/sideshowbarker) (2 months ago)
+- [sideshowbarker](https://github.com/sideshowbarker) (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([branch-load-skills-feature](https://github.com/port-experimental/port-cli/releases/tag/branch-load-skills-feature), today) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([branch-load-skills-feature](https://github.com/port-experimental/port-cli/releases/tag/branch-load-skills-feature), 1 day ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.11.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.11.0), 1 week ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.2), 3 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### ⭐ Recent Stars
 
-- [batrachianai/textual-diff-view](https://github.com/batrachianai/textual-diff-view) - The Diff View used in Toad (today)
+- [batrachianai/textual-diff-view](https://github.com/batrachianai/textual-diff-view) - The Diff View used in Toad (1 day ago)
 - [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop. (2 weeks ago)
 - [orlangure/gocovsh](https://github.com/orlangure/gocovsh) - Go Coverage in your terminal: a tool for exploring Go Coverage reports from the command line 💻 (2 weeks ago)
 
