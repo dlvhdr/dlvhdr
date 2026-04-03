@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [Zebbeni/ansizalizer](https://github.com/Zebbeni/ansizalizer) - A TUI to convert Images to ANSI strings using bubbletea (today)
+- [Necrom4/sbb-tui](https://github.com/Necrom4/sbb-tui) - TUI client for Switzerland&#39;s public transport timetables, inspidered by the SBB/CFF/FFS app (today)
 - [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (1 day ago)
-- [batrachianai/textual-diff-view](https://github.com/batrachianai/textual-diff-view) - A Textual widget for beautiful diffs in the terminal (2 days ago)
-- [hjr265/gittop](https://github.com/hjr265/gittop) - A beautiful terminal UI for visualizing Git repository statistics, inspired by htop/btop. (2 weeks ago)
 
 ---
 
