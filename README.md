@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport, suitable as a Bubble Tea TUI component (today)
 - [Zebbeni/ansizalizer](https://github.com/Zebbeni/ansizalizer) - A TUI to convert Images to ANSI strings using bubbletea (1 day ago)
 - [Necrom4/sbb-tui](https://github.com/Necrom4/sbb-tui) - TUI client for Switzerland&#39;s public transport timetables, inspidered by the SBB/CFF/FFS app (1 day ago)
-- [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (2 days ago)
 
 ---
 
