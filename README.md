@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [Eingin/tailwind-tools.nvim](https://github.com/Eingin/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (today)
 - [anadale/teaservice](https://github.com/anadale/teaservice) - Components for BubbleTea applications (today)
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI (1 day ago)
-- [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport, suitable as a Bubble Tea TUI component (2 days ago)
 
 ---
 
