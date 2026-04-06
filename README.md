@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [anadale/teaservice](https://github.com/anadale/teaservice) - Components for BubbleTea applications (today)
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI (1 day ago)
 - [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport, suitable as a Bubble Tea TUI component (2 days ago)
-- [Zebbeni/ansizalizer](https://github.com/Zebbeni/ansizalizer) - A TUI to convert Images to ANSI strings using bubbletea (3 days ago)
 
 ---
 
