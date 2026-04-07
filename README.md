@@ -20,7 +20,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) - CLI for Port — enables developers to interact and manage Port programmatically. (today)
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) - CLI for Port — enables developers to interact and manage Port programmatically. (1 day ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 week ago)
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 week ago)
 
@@ -32,10 +32,10 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [roninjin10](https://github.com/roninjin10) (today)
-- [scottames](https://github.com/scottames) (4 days ago)
+- [roninjin10](https://github.com/roninjin10) (1 day ago)
+- [scottames](https://github.com/scottames) (5 days ago)
 - [serhalp](https://github.com/serhalp) (2 weeks ago)
-- [vosahloj](https://github.com/vosahloj) (4 weeks ago)
+- [vosahloj](https://github.com/vosahloj) (1 month ago)
 - [SacredTexts](https://github.com/SacredTexts) (1 month ago)
 - [yowainwright](https://github.com/yowainwright) (1 month ago)
 - [stephenhuh](https://github.com/stephenhuh) (1 month ago)
@@ -45,15 +45,15 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([branch-load-skills-feature](https://github.com/port-experimental/port-cli/releases/tag/branch-load-skills-feature), 5 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([branch-load-skills-feature](https://github.com/port-experimental/port-cli/releases/tag/branch-load-skills-feature), 6 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.11.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.11.0), 2 weeks ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.2), 3 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### ⭐ Recent Stars
 
-- [Eingin/tailwind-tools.nvim](https://github.com/Eingin/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (today)
-- [anadale/teaservice](https://github.com/anadale/teaservice) - Components for BubbleTea applications (today)
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI (1 day ago)
+- [Eingin/tailwind-tools.nvim](https://github.com/Eingin/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (1 day ago)
+- [anadale/teaservice](https://github.com/anadale/teaservice) - Components for BubbleTea applications (1 day ago)
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI (2 days ago)
 
 ---
 
