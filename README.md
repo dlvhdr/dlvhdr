@@ -45,7 +45,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.1](https://github.com/port-experimental/port-cli/releases/tag/v0.2.1), today) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([0.2.2](https://github.com/port-experimental/port-cli/releases/tag/0.2.2), today) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.11.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.11.0), 2 weeks ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.2](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.2), 3 weeks ago) - Style definitions for nice terminal layouts 👄
 
