@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (today)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) - CLI for Port — enables developers to interact and manage Port programmatically. (2 days ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 day ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) - CLI for Port — enables developers to interact and manage Port programmatically. (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -32,8 +32,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [roninjin10](https://github.com/roninjin10) (2 days ago)
-- [scottames](https://github.com/scottames) (6 days ago)
+- [roninjin10](https://github.com/roninjin10) (3 days ago)
+- [scottames](https://github.com/scottames) (1 week ago)
 - [serhalp](https://github.com/serhalp) (2 weeks ago)
 - [vosahloj](https://github.com/vosahloj) (1 month ago)
 - [SacredTexts](https://github.com/SacredTexts) (1 month ago)
@@ -45,15 +45,15 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.6.0](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.6.0), today) - A Blazingly Fast Terminal UI for GitHub Actions
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([0.2.2](https://github.com/port-experimental/port-cli/releases/tag/0.2.2), 1 day ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.6.0](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.6.0), 1 day ago) - A Blazingly Fast Terminal UI for GitHub Actions
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([0.2.2](https://github.com/port-experimental/port-cli/releases/tag/0.2.2), 2 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.11.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.11.0), 2 weeks ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
-- [Eingin/tailwind-tools.nvim](https://github.com/Eingin/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (2 days ago)
-- [anadale/teaservice](https://github.com/anadale/teaservice) - Components for BubbleTea applications (2 days ago)
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI (3 days ago)
+- [Eingin/tailwind-tools.nvim](https://github.com/Eingin/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (3 days ago)
+- [anadale/teaservice](https://github.com/anadale/teaservice) - Components for BubbleTea applications (3 days ago)
+- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI (4 days ago)
 
 ---
 
