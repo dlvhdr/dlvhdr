@@ -45,9 +45,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
+- [joshmedeski/tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) ([v3.1.0](https://github.com/joshmedeski/tmux-nerd-font-window-name/releases/tag/v3.1.0), today) - Nerd Font icons for your tmux windows
 - [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.3](https://github.com/port-experimental/port-cli/releases/tag/v0.2.3), today) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.6.0](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.6.0), 2 days ago) - A Blazingly Fast Terminal UI for GitHub Actions
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) ([v0.11.0](https://github.com/dlvhdr/diffnav/releases/tag/v0.11.0), 2 weeks ago) - A git diff pager based on delta but with a file tree, à la GitHub.
 
 #### ⭐ Recent Stars
 
