@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (today)
 - [Eingin/tailwind-tools.nvim](https://github.com/Eingin/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (5 days ago)
 - [anadale/teaservice](https://github.com/anadale/teaservice) - Components for BubbleTea applications (5 days ago)
-- [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI (6 days ago)
 
 ---
 
