@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
-- [joshmedeski/tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) - Nerd Font icons for your tmux windows (2 days ago)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (4 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 days ago)
+- [joshmedeski/tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) - Nerd Font icons for your tmux windows (3 days ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (5 days ago)
 
 #### 📜 My recent blog posts
 
@@ -32,7 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [roninjin10](https://github.com/roninjin10) (6 days ago)
+- [roninjin10](https://github.com/roninjin10) (1 week ago)
 - [scottames](https://github.com/scottames) (1 week ago)
 - [serhalp](https://github.com/serhalp) (3 weeks ago)
 - [vosahloj](https://github.com/vosahloj) (1 month ago)
@@ -45,15 +45,15 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [joshmedeski/tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) ([v3.1.0](https://github.com/joshmedeski/tmux-nerd-font-window-name/releases/tag/v3.1.0), 2 days ago) - Nerd Font icons for your tmux windows
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.3](https://github.com/port-experimental/port-cli/releases/tag/v0.2.3), 2 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.6.0](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.6.0), 4 days ago) - A Blazingly Fast Terminal UI for GitHub Actions
+- [joshmedeski/tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) ([v3.1.0](https://github.com/joshmedeski/tmux-nerd-font-window-name/releases/tag/v3.1.0), 3 days ago) - Nerd Font icons for your tmux windows
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.3](https://github.com/port-experimental/port-cli/releases/tag/v0.2.3), 3 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.6.0](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.6.0), 5 days ago) - A Blazingly Fast Terminal UI for GitHub Actions
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (1 day ago)
-- [Eingin/tailwind-tools.nvim](https://github.com/Eingin/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (6 days ago)
-- [anadale/teaservice](https://github.com/anadale/teaservice) - Components for BubbleTea applications (6 days ago)
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (2 days ago)
+- [Eingin/tailwind-tools.nvim](https://github.com/Eingin/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (1 week ago)
+- [anadale/teaservice](https://github.com/anadale/teaservice) - Components for BubbleTea applications (1 week ago)
 
 ---
 
