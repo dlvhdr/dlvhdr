@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (today)
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (5 days ago)
 - [Eingin/tailwind-tools.nvim](https://github.com/Eingin/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (1 week ago)
-- [anadale/teaservice](https://github.com/anadale/teaservice) - Components for BubbleTea applications (1 week ago)
 
 ---
 
