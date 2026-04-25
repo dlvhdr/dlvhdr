@@ -20,8 +20,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 days ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (4 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (3 days ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (5 days ago)
 - [port-experimental/port-cli](https://github.com/port-experimental/port-cli) - CLI for Port — enables developers to interact and manage Port programmatically. (1 week ago)
 
 #### 📜 My recent blog posts
@@ -32,8 +32,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [cdxn](https://github.com/cdxn) (1 day ago)
-- [sven1103](https://github.com/sven1103) (4 days ago)
+- [cdxn](https://github.com/cdxn) (2 days ago)
+- [sven1103](https://github.com/sven1103) (5 days ago)
 - [roninjin10](https://github.com/roninjin10) (2 weeks ago)
 - [scottames](https://github.com/scottames) (3 weeks ago)
 - [serhalp](https://github.com/serhalp) (1 month ago)
@@ -45,14 +45,14 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.6](https://github.com/port-experimental/port-cli/releases/tag/v0.2.6), 3 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.6](https://github.com/port-experimental/port-cli/releases/tag/v0.2.6), 4 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.3), 1 week ago) - Style definitions for nice terminal layouts 👄
 - [joshmedeski/tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) ([v3.1.0](https://github.com/joshmedeski/tmux-nerd-font-window-name/releases/tag/v3.1.0), 2 weeks ago) - Nerd Font icons for your tmux windows
 
 #### ⭐ Recent Stars
 
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (1 week ago)
-- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (1 week ago)
+- [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (2 weeks ago)
 - [Eingin/tailwind-tools.nvim](https://github.com/Eingin/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (2 weeks ago)
 
 ---
