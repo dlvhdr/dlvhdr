@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [gfazioli/octoscope](https://github.com/gfazioli/octoscope) - Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed (today)
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (1 week ago)
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (2 weeks ago)
-- [Eingin/tailwind-tools.nvim](https://github.com/Eingin/tailwind-tools.nvim) - An unofficial Tailwind CSS integration and tooling for Neovim (3 weeks ago)
 
 ---
 
