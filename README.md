@@ -32,15 +32,15 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [srowhani](https://github.com/srowhani) (2 days ago)
-- [cdxn](https://github.com/cdxn) (6 days ago)
+- [srowhani](https://github.com/srowhani) (3 days ago)
+- [cdxn](https://github.com/cdxn) (1 week ago)
 - [sven1103](https://github.com/sven1103) (1 week ago)
 - [roninjin10](https://github.com/roninjin10) (3 weeks ago)
-- [scottames](https://github.com/scottames) (3 weeks ago)
+- [scottames](https://github.com/scottames) (4 weeks ago)
 - [serhalp](https://github.com/serhalp) (1 month ago)
 - [vosahloj](https://github.com/vosahloj) (1 month ago)
 - [SacredTexts](https://github.com/SacredTexts) (1 month ago)
-- [yowainwright](https://github.com/yowainwright) (1 month ago)
+- [yowainwright](https://github.com/yowainwright) (2 months ago)
 - [stephenhuh](https://github.com/stephenhuh) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -51,8 +51,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [gfazioli/octoscope](https://github.com/gfazioli/octoscope) - Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed (1 day ago)
-- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (1 week ago)
+- [gfazioli/octoscope](https://github.com/gfazioli/octoscope) - Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed (2 days ago)
+- [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (2 weeks ago)
 - [charmbracelet/harmonica](https://github.com/charmbracelet/harmonica) - A simple, physics-based animation library 🎼 (2 weeks ago)
 
 ---
