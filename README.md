@@ -20,7 +20,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) - Fetches sponsors from multiple sources and renders them based on templates (today)
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 day ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 day ago)
 
@@ -45,9 +45,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.4](https://github.com/goreleaser/sponsors/releases/tag/v0.3.4), today) - Fetches sponsors from multiple sources and renders them based on templates
 - [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.6](https://github.com/port-experimental/port-cli/releases/tag/v0.2.6), 1 week ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.3), 2 weeks ago) - Style definitions for nice terminal layouts 👄
-- [joshmedeski/tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) ([v3.1.0](https://github.com/joshmedeski/tmux-nerd-font-window-name/releases/tag/v3.1.0), 3 weeks ago) - Nerd Font icons for your tmux windows
 
 #### ⭐ Recent Stars
 
