@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (today)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (today)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 day ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 day ago)
 
 #### 📜 My recent blog posts
 
@@ -32,11 +32,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [srowhani](https://github.com/srowhani) (4 days ago)
+- [srowhani](https://github.com/srowhani) (5 days ago)
 - [cdxn](https://github.com/cdxn) (1 week ago)
 - [sven1103](https://github.com/sven1103) (1 week ago)
 - [roninjin10](https://github.com/roninjin10) (3 weeks ago)
-- [scottames](https://github.com/scottames) (4 weeks ago)
+- [scottames](https://github.com/scottames) (1 month ago)
 - [serhalp](https://github.com/serhalp) (1 month ago)
 - [vosahloj](https://github.com/vosahloj) (1 month ago)
 - [SacredTexts](https://github.com/SacredTexts) (1 month ago)
@@ -51,8 +51,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [zsa/zapp](https://github.com/zsa/zapp) - Flash ZSA keyboards from your terminal. (1 day ago)
-- [gfazioli/octoscope](https://github.com/gfazioli/octoscope) - Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed (3 days ago)
+- [zsa/zapp](https://github.com/zsa/zapp) - Flash ZSA keyboards from your terminal. (2 days ago)
+- [gfazioli/octoscope](https://github.com/gfazioli/octoscope) - Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed (4 days ago)
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (2 weeks ago)
 
 ---
