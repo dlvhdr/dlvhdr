@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) - Fetches sponsors from multiple sources and renders them based on templates (today)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (2 days ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (2 days ago)
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) - Fetches sponsors from multiple sources and renders them based on templates (1 day ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (3 days ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -32,11 +32,11 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [Javier-varez](https://github.com/Javier-varez) (1 day ago)
-- [srowhani](https://github.com/srowhani) (6 days ago)
+- [Javier-varez](https://github.com/Javier-varez) (2 days ago)
+- [srowhani](https://github.com/srowhani) (1 week ago)
 - [cdxn](https://github.com/cdxn) (1 week ago)
-- [sven1103](https://github.com/sven1103) (1 week ago)
-- [roninjin10](https://github.com/roninjin10) (3 weeks ago)
+- [sven1103](https://github.com/sven1103) (2 weeks ago)
+- [roninjin10](https://github.com/roninjin10) (4 weeks ago)
 - [scottames](https://github.com/scottames) (1 month ago)
 - [serhalp](https://github.com/serhalp) (1 month ago)
 - [vosahloj](https://github.com/vosahloj) (1 month ago)
@@ -45,14 +45,14 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.4](https://github.com/goreleaser/sponsors/releases/tag/v0.3.4), 1 day ago) - Fetches sponsors from multiple sources and renders them based on templates
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.4](https://github.com/goreleaser/sponsors/releases/tag/v0.3.4), 2 days ago) - Fetches sponsors from multiple sources and renders them based on templates
 - [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.6](https://github.com/port-experimental/port-cli/releases/tag/v0.2.6), 1 week ago) - CLI for Port — enables developers to interact and manage Port programmatically.
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.3), 2 weeks ago) - Style definitions for nice terminal layouts 👄
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.3), 3 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### ⭐ Recent Stars
 
-- [zsa/zapp](https://github.com/zsa/zapp) - Flash ZSA keyboards from your terminal. (3 days ago)
-- [gfazioli/octoscope](https://github.com/gfazioli/octoscope) - Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed (5 days ago)
+- [zsa/zapp](https://github.com/zsa/zapp) - Flash ZSA keyboards from your terminal. (4 days ago)
+- [gfazioli/octoscope](https://github.com/gfazioli/octoscope) - Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed (6 days ago)
 - [mpiorowski/late-sh](https://github.com/mpiorowski/late-sh) - A cozy terminal clubhouse for developers. Lofi beats, casual games, chat, and tech news, all via SSH. (2 weeks ago)
 
 ---
