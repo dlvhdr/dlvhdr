@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [emrearmagan/atlas.nvim](https://github.com/emrearmagan/atlas.nvim) - A Neovim plugin to browse and manage Jira issues and Bitbucket pull requests without leaving your editor. (today)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 days ago)
 - [zsa/zapp](https://github.com/zsa/zapp) - Flash ZSA keyboards from your terminal. (6 days ago)
-- [gfazioli/octoscope](https://github.com/gfazioli/octoscope) - Terminal dashboard for GitHub — followers, stars, PRs and issues at a glance, auto-refreshed (1 week ago)
 
 ---
 
