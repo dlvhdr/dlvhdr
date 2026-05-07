@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) - Fetches sponsors from multiple sources and renders them based on templates (3 days ago)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (5 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 days ago)
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) - Fetches sponsors from multiple sources and renders them based on templates (4 days ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -32,28 +32,28 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [Javier-varez](https://github.com/Javier-varez) (4 days ago)
+- [Javier-varez](https://github.com/Javier-varez) (5 days ago)
 - [srowhani](https://github.com/srowhani) (1 week ago)
-- [cdxn](https://github.com/cdxn) (1 week ago)
+- [cdxn](https://github.com/cdxn) (2 weeks ago)
 - [sven1103](https://github.com/sven1103) (2 weeks ago)
 - [roninjin10](https://github.com/roninjin10) (1 month ago)
 - [scottames](https://github.com/scottames) (1 month ago)
 - [serhalp](https://github.com/serhalp) (1 month ago)
-- [vosahloj](https://github.com/vosahloj) (1 month ago)
+- [vosahloj](https://github.com/vosahloj) (2 months ago)
 - [SacredTexts](https://github.com/SacredTexts) (2 months ago)
 - [yowainwright](https://github.com/yowainwright) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.4](https://github.com/goreleaser/sponsors/releases/tag/v0.3.4), 4 days ago) - Fetches sponsors from multiple sources and renders them based on templates
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.4](https://github.com/goreleaser/sponsors/releases/tag/v0.3.4), 5 days ago) - Fetches sponsors from multiple sources and renders them based on templates
 - [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.6](https://github.com/port-experimental/port-cli/releases/tag/v0.2.6), 2 weeks ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.3](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.3), 3 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### ⭐ Recent Stars
 
-- [emrearmagan/atlas.nvim](https://github.com/emrearmagan/atlas.nvim) - A Neovim plugin to browse and manage Jira issues and Bitbucket pull requests without leaving your editor. (today)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 days ago)
-- [zsa/zapp](https://github.com/zsa/zapp) - Flash ZSA keyboards from your terminal. (6 days ago)
+- [emrearmagan/atlas.nvim](https://github.com/emrearmagan/atlas.nvim) - A Neovim plugin to browse and manage Jira issues and Bitbucket pull requests without leaving your editor. (1 day ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 days ago)
+- [zsa/zapp](https://github.com/zsa/zapp) - Flash ZSA keyboards from your terminal. (1 week ago)
 
 ---
 
