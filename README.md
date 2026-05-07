@@ -52,7 +52,7 @@ This allows me to keep working on those libraries and tools and also create new 
 #### ⭐ Recent Stars
 
 - [joshka/betamax](https://github.com/joshka/betamax) -  (today)
-- [emrearmagan/atlas.nvim](https://github.com/emrearmagan/atlas.nvim) - A Neovim plugin to browse and manage Jira issues and Bitbucket pull requests without leaving your editor. (1 day ago)
+- [emrearmagan/atlas.nvim](https://github.com/emrearmagan/atlas.nvim) - A Neovim plugin to browse and manage GitHub/Bitbucket pull requests and Jira issues without leaving your editor. (1 day ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 days ago)
 
 ---
