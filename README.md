@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [eduwass/tmux-palette](https://github.com/eduwass/tmux-palette) - Raycast-style command palette for tmux — fast, scriptable, easy to extend (today)
 - [joshka/betamax](https://github.com/joshka/betamax) -  (6 days ago)
 - [emrearmagan/atlas.nvim](https://github.com/emrearmagan/atlas.nvim) - A Neovim plugin to browse and manage GitHub/Bitbucket pull requests and Jira issues without leaving your editor. (1 week ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 week ago)
 
 ---
 
