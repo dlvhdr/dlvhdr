@@ -20,8 +20,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (today)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 day ago)
 - [goreleaser/sponsors](https://github.com/goreleaser/sponsors) - Fetches sponsors from multiple sources and renders them based on templates (1 week ago)
 
 #### 📜 My recent blog posts
@@ -32,7 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [Javier-varez](https://github.com/Javier-varez) (1 week ago)
+- [Javier-varez](https://github.com/Javier-varez) (2 weeks ago)
 - [srowhani](https://github.com/srowhani) (2 weeks ago)
 - [cdxn](https://github.com/cdxn) (3 weeks ago)
 - [sven1103](https://github.com/sven1103) (3 weeks ago)
@@ -45,13 +45,13 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.10](https://github.com/port-experimental/port-cli/releases/tag/v0.2.10), 1 day ago) - CLI for Port — enables developers to interact and manage Port programmatically.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.24.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.24.1), 2 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.4](https://github.com/goreleaser/sponsors/releases/tag/v0.3.4), 1 week ago) - Fetches sponsors from multiple sources and renders them based on templates
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.10](https://github.com/port-experimental/port-cli/releases/tag/v0.2.10), 2 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.24.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.24.1), 3 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.4](https://github.com/goreleaser/sponsors/releases/tag/v0.3.4), 2 weeks ago) - Fetches sponsors from multiple sources and renders them based on templates
 
 #### ⭐ Recent Stars
 
-- [eduwass/tmux-palette](https://github.com/eduwass/tmux-palette) - Raycast-style command palette for tmux — fast, scriptable, easy to extend (2 days ago)
+- [eduwass/tmux-palette](https://github.com/eduwass/tmux-palette) - Raycast-style command palette for tmux — fast, scriptable, easy to extend (3 days ago)
 - [joshka/betamax](https://github.com/joshka/betamax) -  (1 week ago)
 - [emrearmagan/atlas.nvim](https://github.com/emrearmagan/atlas.nvim) - A Neovim plugin to browse and manage GitHub/Bitbucket pull requests and Jira issues without leaving your editor. (1 week ago)
 
