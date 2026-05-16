@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (today)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 day ago)
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) - Fetches sponsors from multiple sources and renders them based on templates (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -45,9 +45,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.6.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.6.1), today) - A Blazingly Fast Terminal UI for GitHub Actions
 - [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.10](https://github.com/port-experimental/port-cli/releases/tag/v0.2.10), 2 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.24.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.24.1), 3 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.4](https://github.com/goreleaser/sponsors/releases/tag/v0.3.4), 2 weeks ago) - Fetches sponsors from multiple sources and renders them based on templates
 
 #### ⭐ Recent Stars
 
