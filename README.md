@@ -40,8 +40,8 @@ This allows me to keep working on those libraries and tools and also create new 
 - [scottames](https://github.com/scottames) (1 month ago)
 - [serhalp](https://github.com/serhalp) (1 month ago)
 - [vosahloj](https://github.com/vosahloj) (2 months ago)
-- [SacredTexts](https://github.com/SacredTexts) (2 months ago)
 - [yowainwright](https://github.com/yowainwright) (2 months ago)
+- [stephenhuh](https://github.com/stephenhuh) (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
