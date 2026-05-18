@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 day ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (2 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 days ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (2 days ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (3 days ago)
 
 #### 📜 My recent blog posts
 
@@ -33,9 +33,9 @@ This allows me to keep working on those libraries and tools and also create new 
 #### 💖 These awesome people sponsor me (thank you!)
 
 - [Javier-varez](https://github.com/Javier-varez) (2 weeks ago)
-- [srowhani](https://github.com/srowhani) (2 weeks ago)
+- [srowhani](https://github.com/srowhani) (3 weeks ago)
 - [cdxn](https://github.com/cdxn) (3 weeks ago)
-- [sven1103](https://github.com/sven1103) (3 weeks ago)
+- [sven1103](https://github.com/sven1103) (4 weeks ago)
 - [roninjin10](https://github.com/roninjin10) (1 month ago)
 - [scottames](https://github.com/scottames) (1 month ago)
 - [serhalp](https://github.com/serhalp) (1 month ago)
@@ -45,13 +45,13 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.6.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.6.1), 1 day ago) - A Blazingly Fast Terminal UI for GitHub Actions
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.10](https://github.com/port-experimental/port-cli/releases/tag/v0.2.10), 3 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.24.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.24.1), 4 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.6.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.6.1), 2 days ago) - A Blazingly Fast Terminal UI for GitHub Actions
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.10](https://github.com/port-experimental/port-cli/releases/tag/v0.2.10), 4 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.24.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.24.1), 5 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 #### ⭐ Recent Stars
 
-- [eduwass/tmux-palette](https://github.com/eduwass/tmux-palette) - Raycast-style command palette for tmux — fast, scriptable, easy to extend (4 days ago)
+- [eduwass/tmux-palette](https://github.com/eduwass/tmux-palette) - Raycast-style command palette for tmux — fast, scriptable, easy to extend (5 days ago)
 - [joshka/betamax](https://github.com/joshka/betamax) -  (1 week ago)
 - [emrearmagan/atlas.nvim](https://github.com/emrearmagan/atlas.nvim) - A Neovim plugin to browse and manage GitHub/Bitbucket pull requests and Jira issues without leaving your editor. (1 week ago)
 
