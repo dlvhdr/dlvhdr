@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally. (today)
 - [eduwass/tmux-palette](https://github.com/eduwass/tmux-palette) - Raycast-style command palette for tmux — fast, scriptable, easy to extend (6 days ago)
 - [joshka/betamax](https://github.com/joshka/betamax) -  (1 week ago)
-- [emrearmagan/atlas.nvim](https://github.com/emrearmagan/atlas.nvim) - A Neovim plugin to browse and manage GitHub/Bitbucket pull requests and Jira issues without leaving your editor. (1 week ago)
 
 ---
 
