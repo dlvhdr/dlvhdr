@@ -35,13 +35,13 @@ This allows me to keep working on those libraries and tools and also create new 
 - [Javier-varez](https://github.com/Javier-varez) (2 weeks ago)
 - [srowhani](https://github.com/srowhani) (3 weeks ago)
 - [cdxn](https://github.com/cdxn) (3 weeks ago)
-- [sven1103](https://github.com/sven1103) (1 month ago)
 - [roninjin10](https://github.com/roninjin10) (1 month ago)
 - [scottames](https://github.com/scottames) (1 month ago)
 - [serhalp](https://github.com/serhalp) (1 month ago)
 - [vosahloj](https://github.com/vosahloj) (2 months ago)
 - [yowainwright](https://github.com/yowainwright) (2 months ago)
 - [stephenhuh](https://github.com/stephenhuh) (3 months ago)
+- [asfaltboy](https://github.com/asfaltboy) (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
