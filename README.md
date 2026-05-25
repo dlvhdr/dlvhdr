@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [so1ve/snacks-fff.nvim](https://github.com/so1ve/snacks-fff.nvim) - Snacks picker integration for fff.nvim (today)
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally. (6 days ago)
 - [eduwass/tmux-palette](https://github.com/eduwass/tmux-palette) - Raycast-style command palette for tmux — fast, scriptable, easy to extend (1 week ago)
-- [joshka/betamax](https://github.com/joshka/betamax) -  (2 weeks ago)
 
 ---
 
