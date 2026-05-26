@@ -20,8 +20,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 days ago)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (2 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (3 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (3 days ago)
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 week ago)
 
 #### 📜 My recent blog posts
@@ -45,14 +45,14 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.15](https://github.com/port-experimental/port-cli/releases/tag/v0.2.15), today) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.15](https://github.com/port-experimental/port-cli/releases/tag/v0.2.15), 1 day ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.6.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.6.1), 1 week ago) - A Blazingly Fast Terminal UI for GitHub Actions
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.24.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.24.1), 1 week ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 #### ⭐ Recent Stars
 
-- [so1ve/snacks-fff.nvim](https://github.com/so1ve/snacks-fff.nvim) - Snacks picker integration for fff.nvim (today)
-- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally. (6 days ago)
+- [so1ve/snacks-fff.nvim](https://github.com/so1ve/snacks-fff.nvim) - Snacks picker integration for fff.nvim (1 day ago)
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally. (1 week ago)
 - [eduwass/tmux-palette](https://github.com/eduwass/tmux-palette) - Raycast-style command palette for tmux — fast, scriptable, easy to extend (1 week ago)
 
 ---
