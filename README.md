@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (today)
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (6 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (6 days ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 day ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -32,26 +32,26 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [Javier-varez](https://github.com/Javier-varez) (3 weeks ago)
+- [Javier-varez](https://github.com/Javier-varez) (4 weeks ago)
 - [cdxn](https://github.com/cdxn) (1 month ago)
 - [roninjin10](https://github.com/roninjin10) (1 month ago)
 - [scottames](https://github.com/scottames) (1 month ago)
 - [serhalp](https://github.com/serhalp) (2 months ago)
 - [vosahloj](https://github.com/vosahloj) (2 months ago)
-- [yowainwright](https://github.com/yowainwright) (2 months ago)
+- [yowainwright](https://github.com/yowainwright) (3 months ago)
 - [stephenhuh](https://github.com/stephenhuh) (3 months ago)
 - [asfaltboy](https://github.com/asfaltboy) (3 months ago)
 - [mchisolm0](https://github.com/mchisolm0) (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.18](https://github.com/port-experimental/port-cli/releases/tag/v0.2.18), today) - CLI for Port — enables developers to interact and manage Port programmatically.
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.6.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.6.1), 1 week ago) - A Blazingly Fast Terminal UI for GitHub Actions
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.18](https://github.com/port-experimental/port-cli/releases/tag/v0.2.18), 1 day ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.6.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.6.1), 2 weeks ago) - A Blazingly Fast Terminal UI for GitHub Actions
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.24.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.24.1), 2 weeks ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 #### ⭐ Recent Stars
 
-- [so1ve/snacks-fff.nvim](https://github.com/so1ve/snacks-fff.nvim) - Snacks picker integration for fff.nvim (4 days ago)
+- [so1ve/snacks-fff.nvim](https://github.com/so1ve/snacks-fff.nvim) - Snacks picker integration for fff.nvim (5 days ago)
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally. (1 week ago)
 - [eduwass/tmux-palette](https://github.com/eduwass/tmux-palette) - Raycast-style command palette for tmux — fast, scriptable, easy to extend (2 weeks ago)
 
