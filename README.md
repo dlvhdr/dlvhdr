@@ -32,7 +32,6 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [Javier-varez](https://github.com/Javier-varez) (1 month ago)
 - [cdxn](https://github.com/cdxn) (1 month ago)
 - [roninjin10](https://github.com/roninjin10) (1 month ago)
 - [scottames](https://github.com/scottames) (2 months ago)
@@ -40,8 +39,9 @@ This allows me to keep working on those libraries and tools and also create new 
 - [vosahloj](https://github.com/vosahloj) (2 months ago)
 - [yowainwright](https://github.com/yowainwright) (3 months ago)
 - [stephenhuh](https://github.com/stephenhuh) (3 months ago)
-- [asfaltboy](https://github.com/asfaltboy) (4 months ago)
 - [mchisolm0](https://github.com/mchisolm0) (4 months ago)
+- [kenosando](https://github.com/kenosando) (4 months ago)
+- [Brend-Smits](https://github.com/Brend-Smits) (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
