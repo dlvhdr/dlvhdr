@@ -33,7 +33,7 @@ This allows me to keep working on those libraries and tools and also create new 
 #### 💖 These awesome people sponsor me (thank you!)
 
 - [cdxn](https://github.com/cdxn) (1 month ago)
-- [roninjin10](https://github.com/roninjin10) (1 month ago)
+- [roninjin10](https://github.com/roninjin10) (2 months ago)
 - [scottames](https://github.com/scottames) (2 months ago)
 - [serhalp](https://github.com/serhalp) (2 months ago)
 - [vosahloj](https://github.com/vosahloj) (2 months ago)
@@ -45,13 +45,13 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.18](https://github.com/port-experimental/port-cli/releases/tag/v0.2.18), 6 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.18](https://github.com/port-experimental/port-cli/releases/tag/v0.2.18), 1 week ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.6.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.6.1), 2 weeks ago) - A Blazingly Fast Terminal UI for GitHub Actions
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.24.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.24.1), 3 weeks ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
 #### ⭐ Recent Stars
 
-- [razakadam74/gitmsg](https://github.com/razakadam74/gitmsg) - Fast, offline, deterministic Conventional Commit message generator. No LLM, no API key, no network. (1 day ago)
+- [razakadam74/gitmsg](https://github.com/razakadam74/gitmsg) - Fast, offline, deterministic Conventional Commit message generator. No LLM, no API key, no network. (2 days ago)
 - [so1ve/snacks-fff.nvim](https://github.com/so1ve/snacks-fff.nvim) - Snacks picker integration for fff.nvim (1 week ago)
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally. (2 weeks ago)
 
