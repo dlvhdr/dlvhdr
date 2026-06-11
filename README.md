@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (4 days ago)
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (5 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (5 days ago)
+- [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (5 days ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (6 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (6 days ago)
 
 #### 📜 My recent blog posts
 
@@ -45,7 +45,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.19](https://github.com/port-experimental/port-cli/releases/tag/v0.2.19), 5 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.19](https://github.com/port-experimental/port-cli/releases/tag/v0.2.19), 6 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.6.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.6.1), 3 weeks ago) - A Blazingly Fast Terminal UI for GitHub Actions
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.24.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.24.1), 4 weeks ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 
