@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs (today)
 - [petipoua/petiglyph](https://github.com/petipoua/petiglyph) - petiglyph is a TUI and CLI tool for turning images and videos into custom font glyphs (today)
 - [razakadam74/gitmsg](https://github.com/razakadam74/gitmsg) - Fast, offline, deterministic Conventional Commit message generator. No LLM, no API key, no network. (1 week ago)
-- [so1ve/snacks-fff.nvim](https://github.com/so1ve/snacks-fff.nvim) - Snacks picker integration for fff.nvim (2 weeks ago)
 
 ---
 
