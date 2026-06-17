@@ -32,6 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
+- [guychouk](https://github.com/guychouk) (today)
 - [cdxn](https://github.com/cdxn) (1 month ago)
 - [roninjin10](https://github.com/roninjin10) (2 months ago)
 - [scottames](https://github.com/scottames) (2 months ago)
@@ -41,12 +42,11 @@ This allows me to keep working on those libraries and tools and also create new 
 - [stephenhuh](https://github.com/stephenhuh) (3 months ago)
 - [mchisolm0](https://github.com/mchisolm0) (4 months ago)
 - [kenosando](https://github.com/kenosando) (4 months ago)
-- [Brend-Smits](https://github.com/Brend-Smits) (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.21](https://github.com/port-experimental/port-cli/releases/tag/v0.2.21), today) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.4](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.4), 5 days ago) - Style definitions for nice terminal layouts 👄
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.20](https://github.com/port-experimental/port-cli/releases/tag/v0.2.20), 6 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) ([v0.6.1](https://github.com/dlvhdr/gh-enhance/releases/tag/v0.6.1), 1 month ago) - A Blazingly Fast Terminal UI for GitHub Actions
 
 #### ⭐ Recent Stars
