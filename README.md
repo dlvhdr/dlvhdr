@@ -20,8 +20,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (5 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (6 days ago)
+- [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (6 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 week ago)
 - [dlvhdr/dotfiles](https://github.com/dlvhdr/dotfiles) - 🏠 (1 week ago)
 
 #### 📜 My recent blog posts
@@ -32,26 +32,26 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [guychouk](https://github.com/guychouk) (1 day ago)
+- [guychouk](https://github.com/guychouk) (2 days ago)
 - [cdxn](https://github.com/cdxn) (1 month ago)
 - [roninjin10](https://github.com/roninjin10) (2 months ago)
 - [scottames](https://github.com/scottames) (2 months ago)
 - [serhalp](https://github.com/serhalp) (2 months ago)
 - [vosahloj](https://github.com/vosahloj) (3 months ago)
 - [yowainwright](https://github.com/yowainwright) (3 months ago)
-- [stephenhuh](https://github.com/stephenhuh) (3 months ago)
+- [stephenhuh](https://github.com/stephenhuh) (4 months ago)
 - [mchisolm0](https://github.com/mchisolm0) (4 months ago)
 - [kenosando](https://github.com/kenosando) (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.23](https://github.com/port-experimental/port-cli/releases/tag/v0.2.23), today) - CLI for Port — enables developers to interact and manage Port programmatically.
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.5](https://github.com/goreleaser/sponsors/releases/tag/v0.3.5), today) - Fetches sponsors from multiple sources and renders them based on templates
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.4](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.4), 6 days ago) - Style definitions for nice terminal layouts 👄
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.23](https://github.com/port-experimental/port-cli/releases/tag/v0.2.23), 1 day ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.5](https://github.com/goreleaser/sponsors/releases/tag/v0.3.5), 1 day ago) - Fetches sponsors from multiple sources and renders them based on templates
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.4](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.4), 1 week ago) - Style definitions for nice terminal layouts 👄
 
 #### ⭐ Recent Stars
 
-- [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub (today)
+- [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub (1 day ago)
 - [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs (1 week ago)
 - [petipoua/petiglyph](https://github.com/petipoua/petiglyph) - petiglyph is a TUI and CLI tool for turning images and videos into custom font glyphs (1 week ago)
 
