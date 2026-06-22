@@ -32,6 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
+- [uribrecher](https://github.com/uribrecher) (today)
 - [guychouk](https://github.com/guychouk) (5 days ago)
 - [cdxn](https://github.com/cdxn) (2 months ago)
 - [roninjin10](https://github.com/roninjin10) (2 months ago)
@@ -41,7 +42,6 @@ This allows me to keep working on those libraries and tools and also create new 
 - [yowainwright](https://github.com/yowainwright) (3 months ago)
 - [stephenhuh](https://github.com/stephenhuh) (4 months ago)
 - [mchisolm0](https://github.com/mchisolm0) (4 months ago)
-- [kenosando](https://github.com/kenosando) (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
