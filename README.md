@@ -20,8 +20,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport Bubble Tea TUI component (4 days ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (5 days ago)
+- [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport Bubble Tea TUI component (5 days ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (6 days ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (1 week ago)
 
 #### 📜 My recent blog posts
@@ -32,7 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [uribrecher](https://github.com/uribrecher) (2 days ago)
+- [uribrecher](https://github.com/uribrecher) (3 days ago)
 - [guychouk](https://github.com/guychouk) (1 week ago)
 - [cdxn](https://github.com/cdxn) (2 months ago)
 - [roninjin10](https://github.com/roninjin10) (2 months ago)
@@ -45,15 +45,15 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.24](https://github.com/port-experimental/port-cli/releases/tag/v0.2.24), 2 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.5](https://github.com/goreleaser/sponsors/releases/tag/v0.3.5), 6 days ago) - Fetches sponsors from multiple sources and renders them based on templates
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.2.24](https://github.com/port-experimental/port-cli/releases/tag/v0.2.24), 3 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.5](https://github.com/goreleaser/sponsors/releases/tag/v0.3.5), 1 week ago) - Fetches sponsors from multiple sources and renders them based on templates
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.4](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.4), 1 week ago) - Style definitions for nice terminal layouts 👄
 
 #### ⭐ Recent Stars
 
-- [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub (6 days ago)
-- [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs (1 week ago)
-- [petipoua/petiglyph](https://github.com/petipoua/petiglyph) - petiglyph is a TUI and CLI tool for turning images and videos into custom font glyphs (1 week ago)
+- [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub (1 week ago)
+- [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs (2 weeks ago)
+- [petipoua/petiglyph](https://github.com/petipoua/petiglyph) - petiglyph is a TUI and CLI tool for turning images and videos into custom font glyphs (2 weeks ago)
 
 ---
 
