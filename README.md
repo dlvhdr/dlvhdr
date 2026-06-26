@@ -45,8 +45,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.6](https://github.com/goreleaser/sponsors/releases/tag/v0.3.6), today) - Fetches sponsors from multiple sources and renders them based on templates
 - [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.1](https://github.com/port-experimental/port-cli/releases/tag/v0.3.1), 1 day ago) - CLI for Port — enables developers to interact and manage Port programmatically.
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.5](https://github.com/goreleaser/sponsors/releases/tag/v0.3.5), 1 week ago) - Fetches sponsors from multiple sources and renders them based on templates
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.4](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.4), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### ⭐ Recent Stars
