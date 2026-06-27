@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [metziger23/snacks-fff.nvim](https://github.com/metziger23/snacks-fff.nvim) - Snacks picker integration for fff.nvim (today)
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub (1 week ago)
 - [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs (2 weeks ago)
-- [petipoua/petiglyph](https://github.com/petipoua/petiglyph) - petiglyph is a TUI and CLI tool for turning images and videos into custom font glyphs (2 weeks ago)
 
 ---
 
