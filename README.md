@@ -32,7 +32,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [uribrecher](https://github.com/uribrecher) (5 days ago)
+- [uribrecher](https://github.com/uribrecher) (6 days ago)
 - [guychouk](https://github.com/guychouk) (1 week ago)
 - [cdxn](https://github.com/cdxn) (2 months ago)
 - [roninjin10](https://github.com/roninjin10) (2 months ago)
@@ -45,13 +45,13 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.6](https://github.com/goreleaser/sponsors/releases/tag/v0.3.6), 1 day ago) - Fetches sponsors from multiple sources and renders them based on templates
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.1](https://github.com/port-experimental/port-cli/releases/tag/v0.3.1), 2 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.6](https://github.com/goreleaser/sponsors/releases/tag/v0.3.6), 2 days ago) - Fetches sponsors from multiple sources and renders them based on templates
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.1](https://github.com/port-experimental/port-cli/releases/tag/v0.3.1), 3 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.4](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.4), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### ⭐ Recent Stars
 
-- [metziger23/snacks-fff.nvim](https://github.com/metziger23/snacks-fff.nvim) - Snacks picker integration for fff.nvim (today)
+- [metziger23/snacks-fff.nvim](https://github.com/metziger23/snacks-fff.nvim) - Snacks picker integration for fff.nvim (1 day ago)
 - [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub (1 week ago)
 - [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs (2 weeks ago)
 
