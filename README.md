@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [kapilpokhrel/regexplain](https://github.com/kapilpokhrel/regexplain) - A terminal UI for explaining and visualizing regular expressions, kindof like regex101. (today)
+- [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops. (today)
 - [metziger23/snacks-fff.nvim](https://github.com/metziger23/snacks-fff.nvim) - Snacks picker integration for fff.nvim (3 days ago)
-- [wooorm/starry-night](https://github.com/wooorm/starry-night) - Syntax highlighting, like GitHub (1 week ago)
-- [barrettruth/diffs.nvim](https://github.com/barrettruth/diffs.nvim) - treesitter syntax highlighting for diffs (2 weeks ago)
 
 ---
 
