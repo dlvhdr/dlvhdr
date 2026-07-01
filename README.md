@@ -33,27 +33,27 @@ This allows me to keep working on those libraries and tools and also create new 
 #### 💖 These awesome people sponsor me (thank you!)
 
 - [uribrecher](https://github.com/uribrecher) (1 week ago)
-- [guychouk](https://github.com/guychouk) (1 week ago)
+- [guychouk](https://github.com/guychouk) (2 weeks ago)
 - [cdxn](https://github.com/cdxn) (2 months ago)
 - [roninjin10](https://github.com/roninjin10) (2 months ago)
-- [scottames](https://github.com/scottames) (2 months ago)
+- [scottames](https://github.com/scottames) (3 months ago)
 - [serhalp](https://github.com/serhalp) (3 months ago)
 - [vosahloj](https://github.com/vosahloj) (3 months ago)
 - [yowainwright](https://github.com/yowainwright) (4 months ago)
 - [stephenhuh](https://github.com/stephenhuh) (4 months ago)
-- [mchisolm0](https://github.com/mchisolm0) (4 months ago)
+- [mchisolm0](https://github.com/mchisolm0) (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.3](https://github.com/port-experimental/port-cli/releases/tag/v0.3.3), today) - CLI for Port — enables developers to interact and manage Port programmatically.
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.6](https://github.com/goreleaser/sponsors/releases/tag/v0.3.6), 4 days ago) - Fetches sponsors from multiple sources and renders them based on templates
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.3](https://github.com/port-experimental/port-cli/releases/tag/v0.3.3), 1 day ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.6](https://github.com/goreleaser/sponsors/releases/tag/v0.3.6), 5 days ago) - Fetches sponsors from multiple sources and renders them based on templates
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.4](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.4), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### ⭐ Recent Stars
 
-- [kapilpokhrel/regexplain](https://github.com/kapilpokhrel/regexplain) - A terminal UI for explaining and visualizing regular expressions, kindof like regex101. (today)
-- [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops. (today)
-- [metziger23/snacks-fff.nvim](https://github.com/metziger23/snacks-fff.nvim) - Snacks picker integration for fff.nvim (3 days ago)
+- [kapilpokhrel/regexplain](https://github.com/kapilpokhrel/regexplain) - A terminal UI for explaining and visualizing regular expressions, kindof like regex101. (1 day ago)
+- [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops. (1 day ago)
+- [metziger23/snacks-fff.nvim](https://github.com/metziger23/snacks-fff.nvim) - Snacks picker integration for fff.nvim (4 days ago)
 
 ---
 
