@@ -21,7 +21,7 @@ This allows me to keep working on those libraries and tools and also create new 
 #### 👷 Check out what I'm currently working on
 
 - [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport Bubble Tea TUI component (1 week ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 week ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (2 weeks ago)
 - [dlvhdr/dlvhdr.me](https://github.com/dlvhdr/dlvhdr.me) - My personal website (2 weeks ago)
 
 #### 📜 My recent blog posts
@@ -45,15 +45,15 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.5](https://github.com/port-experimental/port-cli/releases/tag/v0.3.5), today) - CLI for Port — enables developers to interact and manage Port programmatically.
-- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.6](https://github.com/goreleaser/sponsors/releases/tag/v0.3.6), 6 days ago) - Fetches sponsors from multiple sources and renders them based on templates
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.4](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.4), 2 weeks ago) - Style definitions for nice terminal layouts 👄
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.5](https://github.com/port-experimental/port-cli/releases/tag/v0.3.5), 1 day ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [goreleaser/sponsors](https://github.com/goreleaser/sponsors) ([v0.3.6](https://github.com/goreleaser/sponsors/releases/tag/v0.3.6), 1 week ago) - Fetches sponsors from multiple sources and renders them based on templates
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.4](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.4), 3 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### ⭐ Recent Stars
 
-- [kapilpokhrel/regexplain](https://github.com/kapilpokhrel/regexplain) - A terminal UI for explaining and visualizing regular expressions, kindof like regex101. (2 days ago)
-- [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops. (2 days ago)
-- [metziger23/snacks-fff.nvim](https://github.com/metziger23/snacks-fff.nvim) - Snacks picker integration for fff.nvim (5 days ago)
+- [kapilpokhrel/regexplain](https://github.com/kapilpokhrel/regexplain) - A terminal UI for explaining and visualizing regular expressions, kindof like regex101. (3 days ago)
+- [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops. (3 days ago)
+- [metziger23/snacks-fff.nvim](https://github.com/metziger23/snacks-fff.nvim) - Snacks picker integration for fff.nvim (6 days ago)
 
 ---
 
