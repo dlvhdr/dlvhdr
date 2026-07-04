@@ -6,11 +6,13 @@
 I'm a full-stack developer who loves the terminal.
 
 I try to make the terminal experience better every day and that led me to create:
+
 - [`dash`](https://gh-dash.dev) - a beautiful dashboard that let's you fly through your GitHub 🚀
 - [`enhance`](https://gh-dash.dev/enhance) - a blazingly fast terminal UI for GitHub Actions
 - [`diffnav`](https://github.com/dlvhdr/diffnav) - a git diff pager based on delta but with a file tree, à la GitHub.
 
 If you love what I'm working on, consider:
+
 - Joining my [Insiders Program](https://gh-dash.dev/insiders) 🌟 and get access to exclusive apps
 - [Sponsoring me!](https://github.com/sponsors/dlvhdr) ❤️
 
@@ -54,6 +56,15 @@ This allows me to keep working on those libraries and tools and also create new 
 - [kapilpokhrel/regexplain](https://github.com/kapilpokhrel/regexplain) - A terminal UI for explaining and visualizing regular expressions, kindof like regex101. (4 days ago)
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops. (4 days ago)
 - [metziger23/snacks-fff.nvim](https://github.com/metziger23/snacks-fff.nvim) - Snacks picker integration for fff.nvim (1 week ago)
+
+---
+
+<a href="https://commit-history.com/dlvhdr">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/dlvhdr?theme=dark" />
+    <img alt="dlvhdr's commit history" src="https://commit-history.com/embed/dlvhdr" />
+  </picture>
+</a>
 
 ---
 

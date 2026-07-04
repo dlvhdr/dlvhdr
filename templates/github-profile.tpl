@@ -45,6 +45,15 @@ This allows me to keep working on those libraries and tools and also create new 
 
 ---
 
+<a href="https://commit-history.com/dlvhdr">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/dlvhdr?theme=dark" />
+    <img alt="dlvhdr's commit history" src="https://commit-history.com/embed/dlvhdr" />
+  </picture>
+</a>
+
+---
+
 ### Connect with me
 
 [<img align="left" alt="Bluesky" width="48px" src="icons/bluesky.svg" />][bluesky]
