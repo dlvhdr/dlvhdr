@@ -20,7 +20,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (today)
+- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (1 day ago)
 - [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport Bubble Tea TUI component (2 weeks ago)
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (2 weeks ago)
 
@@ -35,7 +35,7 @@ This allows me to keep working on those libraries and tools and also create new 
 - [uribrecher](https://github.com/uribrecher) (1 week ago)
 - [guychouk](https://github.com/guychouk) (2 weeks ago)
 - [cdxn](https://github.com/cdxn) (2 months ago)
-- [roninjin10](https://github.com/roninjin10) (2 months ago)
+- [roninjin10](https://github.com/roninjin10) (3 months ago)
 - [scottames](https://github.com/scottames) (3 months ago)
 - [serhalp](https://github.com/serhalp) (3 months ago)
 - [vosahloj](https://github.com/vosahloj) (3 months ago)
@@ -45,15 +45,15 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.25.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.25.0), today) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
-- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.5](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.5), 1 day ago) - Style definitions for nice terminal layouts 👄
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.5](https://github.com/port-experimental/port-cli/releases/tag/v0.3.5), 2 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.25.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.25.0), 1 day ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.5](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.5), 2 days ago) - Style definitions for nice terminal layouts 👄
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.5](https://github.com/port-experimental/port-cli/releases/tag/v0.3.5), 3 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 
 #### ⭐ Recent Stars
 
-- [RiskyMH/honeypot](https://github.com/RiskyMH/honeypot) - 🍯 A Discord bot to automatically catch and ban spam bots by monitoring a dedicated &#34;honeypot&#34; channel. (today)
-- [kapilpokhrel/regexplain](https://github.com/kapilpokhrel/regexplain) - A terminal UI for explaining and visualizing regular expressions, kindof like regex101. (4 days ago)
-- [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops. (4 days ago)
+- [RiskyMH/honeypot](https://github.com/RiskyMH/honeypot) - 🍯 A Discord bot to automatically catch and ban spam bots by monitoring a dedicated &#34;honeypot&#34; channel. (1 day ago)
+- [kapilpokhrel/regexplain](https://github.com/kapilpokhrel/regexplain) - A terminal UI for explaining and visualizing regular expressions, kindof like regex101. (5 days ago)
+- [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops. (5 days ago)
 
 ---
 
