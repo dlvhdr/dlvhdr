@@ -45,9 +45,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.6](https://github.com/port-experimental/port-cli/releases/tag/v0.3.6), today) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.25.0](https://github.com/dlvhdr/gh-dash/releases/tag/v4.25.0), 2 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.5](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.5), 3 days ago) - Style definitions for nice terminal layouts 👄
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.5](https://github.com/port-experimental/port-cli/releases/tag/v0.3.5), 4 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 
 #### ⭐ Recent Stars
 
