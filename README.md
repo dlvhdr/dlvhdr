@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [Foxemsx/riptide](https://github.com/Foxemsx/riptide) - A polished terminal internet speed test and realtime bandwidth monitor written in Go. Riptide measures download, upload, and latency in a centered card UI with live progress, compact sparklines, smooth animation, and clean cross-platform output for Linux and Windows terminals. (today)
 - [RiskyMH/honeypot](https://github.com/RiskyMH/honeypot) - 🍯 A Discord bot to automatically catch and ban spam bots by monitoring a dedicated &#34;honeypot&#34; channel. (6 days ago)
 - [kapilpokhrel/regexplain](https://github.com/kapilpokhrel/regexplain) - A terminal UI for explaining and visualizing regular expressions, kindof like regex101. (1 week ago)
-- [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops. (1 week ago)
 
 ---
 
