@@ -20,7 +20,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (2 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
 - [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport Bubble Tea TUI component (4 days ago)
 - [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (6 days ago)
 
@@ -45,8 +45,8 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.25.2](https://github.com/dlvhdr/gh-dash/releases/tag/v4.25.2), today) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.8](https://github.com/port-experimental/port-cli/releases/tag/v0.3.8), 1 day ago) - CLI for Port — enables developers to interact and manage Port programmatically.
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.25.1](https://github.com/dlvhdr/gh-dash/releases/tag/v4.25.1), 2 days ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.5](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.5), 1 week ago) - Style definitions for nice terminal layouts 👄
 
 #### ⭐ Recent Stars
