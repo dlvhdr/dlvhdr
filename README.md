@@ -20,9 +20,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (today)
-- [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport Bubble Tea TUI component (4 days ago)
-- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (6 days ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 day ago)
+- [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport Bubble Tea TUI component (5 days ago)
+- [dlvhdr/cyboard-imprint](https://github.com/dlvhdr/cyboard-imprint) -  (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -45,14 +45,14 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.25.2](https://github.com/dlvhdr/gh-dash/releases/tag/v4.25.2), today) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.8](https://github.com/port-experimental/port-cli/releases/tag/v0.3.8), 1 day ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.25.2](https://github.com/dlvhdr/gh-dash/releases/tag/v4.25.2), 1 day ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.8](https://github.com/port-experimental/port-cli/releases/tag/v0.3.8), 2 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.5](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.5), 1 week ago) - Style definitions for nice terminal layouts 👄
 
 #### ⭐ Recent Stars
 
-- [Foxemsx/riptide](https://github.com/Foxemsx/riptide) - A polished terminal internet speed test and realtime bandwidth monitor written in Go. Riptide measures download, upload, and latency in a centered card UI with live progress, compact sparklines, smooth animation, and clean cross-platform output for Linux and Windows terminals. (today)
-- [RiskyMH/honeypot](https://github.com/RiskyMH/honeypot) - 🍯 A Discord bot to automatically catch and ban spam bots by monitoring a dedicated &#34;honeypot&#34; channel. (6 days ago)
+- [Foxemsx/riptide](https://github.com/Foxemsx/riptide) - A polished terminal internet speed test and realtime bandwidth monitor written in Go. Riptide measures download, upload, and latency in a centered card UI with live progress, compact sparklines, smooth animation, and clean cross-platform output for Linux and Windows terminals. (1 day ago)
+- [RiskyMH/honeypot](https://github.com/RiskyMH/honeypot) - 🍯 A Discord bot to automatically catch and ban spam bots by monitoring a dedicated &#34;honeypot&#34; channel. (1 week ago)
 - [kapilpokhrel/regexplain](https://github.com/kapilpokhrel/regexplain) - A terminal UI for explaining and visualizing regular expressions, kindof like regex101. (1 week ago)
 
 ---
