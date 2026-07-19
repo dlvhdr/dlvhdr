@@ -51,9 +51,9 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
+- [Gaurav-Gosain/tuitest](https://github.com/Gaurav-Gosain/tuitest) - Headless testing harness for terminal programs: real PTY, VT emulator, deterministic waits, and golden screen snapshots (today)
 - [Foxemsx/riptide](https://github.com/Foxemsx/riptide) - A polished terminal internet speed test and realtime bandwidth monitor written in Go. Riptide measures download, upload, and latency in a centered card UI with live progress, compact sparklines, smooth animation, and clean cross-platform output for Linux and Windows terminals. (1 week ago)
 - [RiskyMH/honeypot](https://github.com/RiskyMH/honeypot) - 🍯 A Discord bot to automatically catch and ban spam bots by monitoring a dedicated &#34;honeypot&#34; channel. (2 weeks ago)
-- [kapilpokhrel/regexplain](https://github.com/kapilpokhrel/regexplain) - A terminal UI for explaining and visualizing regular expressions, kindof like regex101. (2 weeks ago)
 
 ---
 
