@@ -21,8 +21,8 @@ This allows me to keep working on those libraries and tools and also create new 
 #### 👷 Check out what I'm currently working on
 
 - [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport Bubble Tea TUI component (today)
-- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (6 days ago)
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (6 days ago)
+- [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 week ago)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 week ago)
 
 #### 📜 My recent blog posts
 
@@ -39,13 +39,13 @@ This allows me to keep working on those libraries and tools and also create new 
 - [serhalp](https://github.com/serhalp) (3 months ago)
 - [vosahloj](https://github.com/vosahloj) (4 months ago)
 - [yowainwright](https://github.com/yowainwright) (4 months ago)
-- [stephenhuh](https://github.com/stephenhuh) (4 months ago)
+- [stephenhuh](https://github.com/stephenhuh) (5 months ago)
 - [mchisolm0](https://github.com/mchisolm0) (5 months ago)
 - [kenosando](https://github.com/kenosando) (5 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.9](https://github.com/port-experimental/port-cli/releases/tag/v0.3.9), 5 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.9](https://github.com/port-experimental/port-cli/releases/tag/v0.3.9), 6 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.25.2](https://github.com/dlvhdr/gh-dash/releases/tag/v4.25.2), 1 week ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.5](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.5), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 
