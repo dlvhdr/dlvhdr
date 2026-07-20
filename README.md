@@ -20,23 +20,23 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport Bubble Tea TUI component (today)
+- [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport Bubble Tea TUI component (1 day ago)
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 week ago)
 
 #### 📜 My recent blog posts
 
-- [On Open Source Sustainability](https://dlvhdr.me/posts/support-oss) (7 months ago)
+- [On Open Source Sustainability](https://dlvhdr.me/posts/support-oss) (8 months ago)
 - [My List of CLI Gems](https://dlvhdr.me/posts/cli-tools) (2 years ago)
 - [My Git &amp; GitHub workflow - an efficient yet messy setup](https://dlvhdr.me/posts/how-i-use-github) (2 years ago)
 
 #### 💖 These awesome people sponsor me (thank you!)
 
-- [uribrecher](https://github.com/uribrecher) (3 weeks ago)
+- [uribrecher](https://github.com/uribrecher) (4 weeks ago)
 - [cdxn](https://github.com/cdxn) (2 months ago)
 - [roninjin10](https://github.com/roninjin10) (3 months ago)
 - [scottames](https://github.com/scottames) (3 months ago)
-- [serhalp](https://github.com/serhalp) (3 months ago)
+- [serhalp](https://github.com/serhalp) (4 months ago)
 - [vosahloj](https://github.com/vosahloj) (4 months ago)
 - [yowainwright](https://github.com/yowainwright) (4 months ago)
 - [stephenhuh](https://github.com/stephenhuh) (5 months ago)
@@ -45,13 +45,13 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 🔭 Latest releases I've contributed to
 
-- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.9](https://github.com/port-experimental/port-cli/releases/tag/v0.3.9), 6 days ago) - CLI for Port — enables developers to interact and manage Port programmatically.
+- [port-experimental/port-cli](https://github.com/port-experimental/port-cli) ([v0.3.9](https://github.com/port-experimental/port-cli/releases/tag/v0.3.9), 1 week ago) - CLI for Port — enables developers to interact and manage Port programmatically.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) ([v4.25.2](https://github.com/dlvhdr/gh-dash/releases/tag/v4.25.2), 1 week ago) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ([v2.0.5](https://github.com/charmbracelet/lipgloss/releases/tag/v2.0.5), 2 weeks ago) - Style definitions for nice terminal layouts 👄
 
 #### ⭐ Recent Stars
 
-- [Gaurav-Gosain/tuitest](https://github.com/Gaurav-Gosain/tuitest) - Headless testing harness for terminal programs: real PTY, VT emulator, deterministic waits, and golden screen snapshots (today)
+- [Gaurav-Gosain/tuitest](https://github.com/Gaurav-Gosain/tuitest) - Headless testing harness for terminal programs: real PTY, VT emulator, deterministic waits, and golden screen snapshots (1 day ago)
 - [Foxemsx/riptide](https://github.com/Foxemsx/riptide) - A polished terminal internet speed test and realtime bandwidth monitor written in Go. Riptide measures download, upload, and latency in a centered card UI with live progress, compact sparklines, smooth animation, and clean cross-platform output for Linux and Windows terminals. (1 week ago)
 - [RiskyMH/honeypot](https://github.com/RiskyMH/honeypot) - 🍯 A Discord bot to automatically catch and ban spam bots by monitoring a dedicated &#34;honeypot&#34; channel. (2 weeks ago)
 
