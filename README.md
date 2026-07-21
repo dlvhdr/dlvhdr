@@ -20,7 +20,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### 👷 Check out what I'm currently working on
 
-- [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport Bubble Tea TUI component (1 day ago)
+- [robinovitch61/viewport](https://github.com/robinovitch61/viewport) - Terminal viewport Bubble Tea TUI component (2 days ago)
 - [dlvhdr/gh-enhance](https://github.com/dlvhdr/gh-enhance) - A Blazingly Fast Terminal UI for GitHub Actions (1 week ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow. (1 week ago)
 
@@ -41,7 +41,7 @@ This allows me to keep working on those libraries and tools and also create new 
 - [yowainwright](https://github.com/yowainwright) (4 months ago)
 - [stephenhuh](https://github.com/stephenhuh) (5 months ago)
 - [mchisolm0](https://github.com/mchisolm0) (5 months ago)
-- [kenosando](https://github.com/kenosando) (5 months ago)
+- [kenosando](https://github.com/kenosando) (6 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -51,7 +51,7 @@ This allows me to keep working on those libraries and tools and also create new 
 
 #### ⭐ Recent Stars
 
-- [Gaurav-Gosain/tuitest](https://github.com/Gaurav-Gosain/tuitest) - Headless testing harness for terminal programs: real PTY, VT emulator, deterministic waits, and golden screen snapshots (1 day ago)
+- [Gaurav-Gosain/tuitest](https://github.com/Gaurav-Gosain/tuitest) - Headless testing harness for terminal programs: real PTY, VT emulator, deterministic waits, and golden screen snapshots (2 days ago)
 - [Foxemsx/riptide](https://github.com/Foxemsx/riptide) - A polished terminal internet speed test and realtime bandwidth monitor written in Go. Riptide measures download, upload, and latency in a centered card UI with live progress, compact sparklines, smooth animation, and clean cross-platform output for Linux and Windows terminals. (1 week ago)
 - [RiskyMH/honeypot](https://github.com/RiskyMH/honeypot) - 🍯 A Discord bot to automatically catch and ban spam bots by monitoring a dedicated &#34;honeypot&#34; channel. (2 weeks ago)
 
